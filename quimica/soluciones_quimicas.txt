@@ -1,4 +1,5 @@
-	Solución activadora: 
+Estas formulaciones se basan en http://www.engenhariacaseira.com.br/blog/
+Solución activadora: 
 
 		Agua destilada (H20) 							180ml
 		Sulfato de Cobre Pentahidratado (CuSO4.5H2O)  	30gr
@@ -6,7 +7,7 @@
 		Solución de Hidróxido de Amonio al 10% (NH40H) 	100 ml
 		Jabón líquido neutro y sin colorantes 			6ml
 
-	Solución para la electrodeposición se compone de agua destilada, ácido sulfúrico 
+Solución para la electrodeposición se compone de agua destilada, ácido sulfúrico 
 y sulfato de cobre (el metal a depositar) en las siguientes cantidades:
 
 		Agua destilada 					1000 ml
