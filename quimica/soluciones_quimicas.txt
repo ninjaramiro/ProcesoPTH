@@ -1,18 +1,16 @@
-Estas formulaciones se basan en http://www.engenhariacaseira.com.br/blog/
+Las fórmulas químicas se basan en http://www.engenhariacaseira.com.br/blog/
 Solución activadora: 
+	Agua destilada (H20) 				180 ml
+	Sulfato de Cobre Pentahidratado (CuSO4.5H2O)  	 30 gr
+	Hipofosfito de Calcio ( Ca(H2PO2)2 ) 		 32 gr
+	Solución de Hidróxido de Amonio al 10% (NH40H) 	100 ml
+	Jabón líquido neutro y sin colorantes 		  6 ml
 
-		Agua destilada (H20) 							180ml
-		Sulfato de Cobre Pentahidratado (CuSO4.5H2O)  	30gr
-		Hipofosfito de Cálcio ( Ca(H2PO2)2 ) 			32 gr
-		Solución de Hidróxido de Amonio al 10% (NH40H) 	100 ml
-		Jabón líquido neutro y sin colorantes 			6ml
-
-Solución para la electrodeposición se compone de agua destilada, ácido sulfúrico 
-y sulfato de cobre (el metal a depositar) en las siguientes cantidades:
-
-		Agua destilada 					1000 ml
-		Sulfato de cobre				106 gr
-		Acido sulfúrico al 33%			428 ml (solución para baterías)
-		Acido clorhídrico al 10%		2 ml
-		Polietilenglicol (PEG-1500)		2 gr
-		Propilenglicol					2 ml
+Solución para la electrodeposición:
+	Agua destilada 			1000 ml
+	Sulfato de cobre		 106 gr
+	Acido sulfúrico al 33%		 428 ml (solución para baterías)
+	Acido clorhídrico al 10%	   2 ml
+	Polietilenglicol (PEG-1500)	   2 gr
+	Propilenglicol			   2 ml
+	
