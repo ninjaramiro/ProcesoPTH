@@ -1,0 +1,19 @@
+clonar repositorio:
+
+git clone https://gitlab.com/so-prop-gral-cese/r.alonso.git  → Esto me baja el repositorio aunque esté vacio, me baja la estructura
+
+Luego modificar los archivos dentro del directorio.
+
+Para subir los archivos:
+
+Me paro en el directorio del repositorio
+git add --all	//Para agregar todos los archivos cambiados
+git commit	// Me va a pedir llenar un texto con un comentario
+git push 	//Sube los archivos
+
+
+
+Si se actualizaron archivos en el git, y quiero bajar las actualizaciones. Ir al directorio del git, donde está el .git y correr
+git pull
+
+AYUDA! → http://gitref.org/basic/
