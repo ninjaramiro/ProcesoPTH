@@ -1,0 +1,71 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'eplater.LYT'.
+CADCAM generated at 21:25:10 on sábado, 18 de maio de 2013.
+
+File List
+---------
+Top Copper              : eplater_gerber_v1.0 - CADCAM Top Copper.TXT
+Bottom Copper           : eplater_gerber_v1.0 - CADCAM Bottom Copper.TXT
+Top Silk Screen         : eplater_gerber_v1.0 - CADCAM Top Silk Screen.TXT
+Bottom Silk Screen      : eplater_gerber_v1.0 - CADCAM Bottom Silk Screen.TXT
+Top Solder Resist       : eplater_gerber_v1.0 - CADCAM Top Solder Resist.TXT
+Bottom Solder Resist    : eplater_gerber_v1.0 - CADCAM Bottom Solder Resist.TXT
+Top SMT Paste Mask      : eplater_gerber_v1.0 - CADCAM Top SMT Paste Mask.TXT
+Bottom SMT Paste Mask   : eplater_gerber_v1.0 - CADCAM Bottom SMT Paste Mask.TXT
+Drill                   : eplater_gerber_v1.0 - CADCAM Drill.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height
+
+D10	CIRCLE	D=70th                                      DRAW
+D11	CIRCLE	D=10th                                      DRAW
+D12	CIRCLE	D=30th                                      DRAW
+D13	CIRCLE	D=12th                                      DRAW
+D14	CIRCLE	D=80th                                      FLASH
+D15	SQUARE	S=80th                                      FLASH
+D16	CIRCLE	D=250th                                     FLASH
+D17	CIRCLE	D=90th                                      FLASH
+D18	SMT	W=708.6th             H=472.4th             FLASH
+D19	CIRCLE	D=129.9th                                   FLASH
+D70	CIRCLE	D=70th                                      FLASH
+D71	SQUARE	S=150th                                     FLASH
+D20	SQUARE	S=70th                                      FLASH
+D21	CIRCLE	D=8th                                       DRAW
+D22	CIRCLE	D=80th                                      DRAW
+D23	CIRCLE	D=20th                                      DRAW
+D24	CIRCLE	D=1.25th                                    DRAW
+D25	SMT	W=41th                H=14th                FLASH
+D26	SMT	W=14th                H=41th                FLASH
+D27	SMT	W=167th               H=167th               FLASH
+D28	CIRCLE	D=9.8th                                     DRAW
+D29	CIRCLE	D=7.8th                                     DRAW
+D72	CIRCLE	D=100th                                     FLASH
+D73	SMT	W=100th               H=100th               FLASH
+D30	CIRCLE	D=290th                                     FLASH
+D31	CIRCLE	D=110th                                     FLASH
+D32	SMT	W=728.6th             H=492.4th             FLASH
+D33	CIRCLE	D=149.9th                                   FLASH
+D34	SMT	W=170th               H=170th               FLASH
+D35	SMT	W=90th                H=90th                FLASH
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	30th (0-15)
+T02	45th (0-15)
+T03	118.1th (0-15)
+T04	40th (0-15)
+T05	125.9th (0-15)
+T06	38th (0-15)
+T07	83th (0-15)
+
+
+[END OF FILE]

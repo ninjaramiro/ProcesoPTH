@@ -1,0 +1,12 @@
+Lista de comandos que acepta la máquina (COMANDOS ET):
+
+ET01      //Pasa al estado standby, todo apagado
+ET02      //Inicia el proceso
+ET03      //Pausa el proceso, frena los motores, pero mantiene la temperatura
+
+
+Con parámetro <XXX> Hay que poner los 3 dígitos
+ET10 XXX  //Configuracion del tiempo de etching en segundos de 000 a 999 segundos
+ET11 XXX  //Configuracion de temperatura, el parametro es la temperatura en grados
+ET12 XXX  //Configuracion de la velocidad del motor de 000 a 255
+
