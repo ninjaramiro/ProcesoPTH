@@ -1,0 +1,10 @@
+1. Graficar la forma de onda que se guiere generar entre Salida_1 y Salida_2 del esquemático 
+	./electronica/hardware/Circuitos/Completa/Actual/FuentedePulsos.pdf
+	Si algún parámetro de la forma de onda puede variar, indicar el rango aproximado de valores que puede tomar.
+	Citar alguna referencia (artículo, paper, blog o link) de la forma de onda propuesta.
+	
+	Guardar el gráfico en un archivo pdf en:
+	./electronica/software/Firmware/forma_de_onda_en_cuba_electrolitica.pdf
+
+	Esto permite evaluar si el programa del ATmeg328P cumple o no la especificación.
+	
