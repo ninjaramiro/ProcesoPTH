@@ -4,7 +4,7 @@ git clone https://gitlab.com/so-prop-gral-cese/r.alonso.git  → Esto me baja el
 
 Luego modificar los archivos dentro del directorio.
 
-Para subir los archivos:
+Para subir los cambios:
 
 Me paro en el directorio del repositorio
 git add --all	//Para agregar todos los archivos cambiados
