@@ -1,4 +1,4 @@
-update=lun 09 sep 2019 18:07:05 -03
+update=lun 03 sep 2018 15:30:23 -03
 version=1
 last_client=kicad
 [pcbnew]
@@ -28,6 +28,11 @@ version=1
 [eeschema]
 version=1
 LibDir=
+[eeschema/libraries]
+LibName1=Librerias_Schematic/2N2222
+LibName2=Librerias_Schematic/irfz46n
+LibName3=Librerias_Schematic/LM7805
+LibName4=Librerias_Schematic/ft232rl
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -35,6 +40,6 @@ PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
-SpiceAjustPassiveValues=0
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
 LabSize=60
-ERC_TestSimilarLabels=1

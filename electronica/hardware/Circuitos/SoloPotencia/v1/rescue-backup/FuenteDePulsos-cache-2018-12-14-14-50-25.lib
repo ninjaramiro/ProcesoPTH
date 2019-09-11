@@ -1,33 +1,11 @@
-EESchema-LIBRARY Version 2.4
+EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# Device_D_Zener
+# +24V
 #
-DEF Device_D_Zener D 0 40 N N 1 F N
-F0 "D" 0 100 50 H V C CNN
-F1 "Device_D_Zener" 0 -100 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- TO-???*
- *_Diode_*
- *SingleDiode*
- D_*
-$ENDFPLIST
-DRAW
-P 2 0 1 0 50 0 -50 0 N
-P 3 0 1 8 -50 -50 -50 50 -30 50 N
-P 4 0 1 8 50 -50 50 50 -50 0 50 -50 N
-X K 1 -150 0 100 R 50 50 1 1 P
-X A 2 150 0 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# FuenteDePulsos-rescue_+24V
-#
-DEF FuenteDePulsos-rescue_+24V #PWR 0 0 Y Y 1 F P
+DEF +24V #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "FuenteDePulsos-rescue_+24V" 0 140 50 H V C CNN
+F1 "+24V" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -38,11 +16,11 @@ X +24V 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_+5V
+# +5V
 #
-DEF FuenteDePulsos-rescue_+5V #PWR 0 0 Y Y 1 F P
+DEF +5V #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "FuenteDePulsos-rescue_+5V" 0 140 50 H V C CNN
+F1 "+5V" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -53,13 +31,14 @@ X +5V 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_1N4148
+# 1N4148
 #
-DEF FuenteDePulsos-rescue_1N4148 D 0 40 N N 1 F N
+DEF 1N4148 D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "FuenteDePulsos-rescue_1N4148" 0 -100 50 H V C CNN
+F1 "1N4148" 0 -100 50 H V C CNN
 F2 "Diodes_THT:D_DO-35_SOD27_Horizontal_RM10" 0 -175 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+ALIAS 1N4448 1N4149 1N4151 1N914 BA243 BA244 BA282 BA283 BAV17 BAV18 BAV19 BAV20 BAV21 BAW75 BAW76 BAY93
 $FPLIST
  D*DO?35*
  D*SOD27*
@@ -73,11 +52,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_2N2222
+# 2N2222
 #
-DEF FuenteDePulsos-rescue_2N2222 Q 0 0 Y N 1 F N
+DEF 2N2222 Q 0 0 Y N 1 F N
 F0 "Q" 300 50 50 H V R CNN
-F1 "FuenteDePulsos-rescue_2N2222" 600 -50 50 H V R CNN
+F1 "2N2222" 600 -50 50 H V R CNN
 F2 "" 200 100 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -92,11 +71,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_2N3904
+# 2N3904
 #
-DEF FuenteDePulsos-rescue_2N3904 Q 0 0 Y N 1 F N
+DEF 2N3904 Q 0 0 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "FuenteDePulsos-rescue_2N3904" 200 0 50 H V L CNN
+F1 "2N3904" 200 0 50 H V L CNN
 F2 "TO_SOT_Packages_THT:TO-92_Molded_Narrow" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
 $FPLIST
@@ -114,13 +93,14 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_2N3906
+# 2N3906
 #
-DEF FuenteDePulsos-rescue_2N3906 Q 0 0 Y N 1 F N
+DEF 2N3906 Q 0 0 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "FuenteDePulsos-rescue_2N3906" 200 0 50 H V L CNN
+F1 "2N3906" 200 0 50 H V L CNN
 F2 "TO_SOT_Packages_THT:TO-92_Molded_Narrow" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+ALIAS 2N3905
 $FPLIST
  TO?92*
 $ENDFPLIST
@@ -136,13 +116,14 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_BC327
+# BC557
 #
-DEF FuenteDePulsos-rescue_BC327 Q 0 0 Y N 1 F N
+DEF BC557 Q 0 0 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
-F1 "FuenteDePulsos-rescue_BC327" 200 0 50 H V L CNN
+F1 "BC557" 200 0 50 H V L CNN
 F2 "TO_SOT_Packages_THT:TO-92_Molded_Narrow" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
+ALIAS BC556 BC558 BC559 BC560 BC327 BC328
 $FPLIST
  TO?92*
 $ENDFPLIST
@@ -158,11 +139,11 @@ X E 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_C
+# C
 #
-DEF FuenteDePulsos-rescue_C C 0 10 N Y 1 F N
+DEF C C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "FuenteDePulsos-rescue_C" 25 -100 50 H V L CNN
+F1 "C" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -176,11 +157,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_CONN_01X02
+# CONN_01X02
 #
-DEF FuenteDePulsos-rescue_CONN_01X02 P 0 40 Y N 1 F N
+DEF CONN_01X02 P 0 40 Y N 1 F N
 F0 "P" 0 150 50 H V C CNN
-F1 "FuenteDePulsos-rescue_CONN_01X02" 100 0 50 V V C CNN
+F1 "CONN_01X02" 100 0 50 V V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -198,11 +179,11 @@ X P2 2 -200 -50 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_CP
+# CP
 #
-DEF FuenteDePulsos-rescue_CP C 0 10 N Y 1 F N
+DEF CP C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "FuenteDePulsos-rescue_CP" 25 -100 50 H V L CNN
+F1 "CP" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -221,11 +202,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_Conn_01x01
+# Conn_01x01
 #
-DEF FuenteDePulsos-rescue_Conn_01x01 J 0 40 Y N 1 F N
+DEF Conn_01x01 J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "FuenteDePulsos-rescue_Conn_01x01" 0 -100 50 H V C CNN
+F1 "Conn_01x01" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -243,11 +224,11 @@ X Pin_1 1 -200 0 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_Conn_01x02
+# Conn_01x02
 #
-DEF FuenteDePulsos-rescue_Conn_01x02 J 0 40 Y N 1 F N
+DEF Conn_01x02 J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "FuenteDePulsos-rescue_Conn_01x02" 0 -200 50 H V C CNN
+F1 "Conn_01x02" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -267,11 +248,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_Conn_01x03
+# Conn_01x03
 #
-DEF FuenteDePulsos-rescue_Conn_01x03 J 0 40 Y N 1 F N
+DEF Conn_01x03 J 0 40 Y N 1 F N
 F0 "J" 0 200 50 H V C CNN
-F1 "FuenteDePulsos-rescue_Conn_01x03" 0 -200 50 H V C CNN
+F1 "Conn_01x03" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -293,11 +274,11 @@ X Pin_3 3 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_Conn_01x05
+# Conn_01x05
 #
-DEF FuenteDePulsos-rescue_Conn_01x05 J 0 40 Y N 1 F N
+DEF Conn_01x05 J 0 40 Y N 1 F N
 F0 "J" 0 300 50 H V C CNN
-F1 "FuenteDePulsos-rescue_Conn_01x05" 0 -300 50 H V C CNN
+F1 "Conn_01x05" 0 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -323,11 +304,11 @@ X Pin_5 5 -200 -200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_D
+# D
 #
-DEF FuenteDePulsos-rescue_D D 0 40 N N 1 F N
+DEF D D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "FuenteDePulsos-rescue_D" 0 -100 50 H V C CNN
+F1 "D" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -346,11 +327,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_D_Zener
+# D_Zener
 #
-DEF FuenteDePulsos-rescue_D_Zener D 0 40 N N 1 F N
+DEF D_Zener D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "FuenteDePulsos-rescue_D_Zener" 0 -100 50 H V C CNN
+F1 "D_Zener" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -369,11 +350,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_FUSE
+# FUSE
 #
-DEF FuenteDePulsos-rescue_FUSE F 0 10 Y Y 1 F N
+DEF FUSE F 0 10 Y Y 1 F N
 F0 "F" 100 50 50 H V C CNN
-F1 "FuenteDePulsos-rescue_FUSE" -100 -50 50 H V C CNN
+F1 "FUSE" -100 -50 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -384,11 +365,11 @@ X ~ 2 250 0 100 L 40 40 1 1 I
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_GND
+# GND
 #
-DEF FuenteDePulsos-rescue_GND #PWR 0 0 Y Y 1 F P
+DEF GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "FuenteDePulsos-rescue_GND" 0 -150 50 H V C CNN
+F1 "GND" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -397,11 +378,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_IRFZ46N
+# IRFZ46N
 #
-DEF FuenteDePulsos-rescue_IRFZ46N Q 0 0 Y N 1 F N
+DEF IRFZ46N Q 0 0 Y N 1 F N
 F0 "Q" 300 50 50 H V R CNN
-F1 "FuenteDePulsos-rescue_IRFZ46N" 500 -50 50 H V R CNN
+F1 "IRFZ46N" 500 -50 50 H V R CNN
 F2 "" 200 100 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -423,24 +404,24 @@ X S 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_PWR_FLAG
+# PWR_FLAG
 #
-DEF FuenteDePulsos-rescue_PWR_FLAG #FLG 0 0 N N 1 F P
+DEF PWR_FLAG #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 75 50 H I C CNN
-F1 "FuenteDePulsos-rescue_PWR_FLAG" 0 150 50 H V C CNN
+F1 "PWR_FLAG" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
-P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
 X pwr 1 0 0 0 U 50 50 0 0 w
+P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
 ENDDRAW
 ENDDEF
 #
-# FuenteDePulsos-rescue_R
+# R
 #
-DEF FuenteDePulsos-rescue_R R 0 0 N Y 1 F N
+DEF R R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "FuenteDePulsos-rescue_R" 0 0 50 V V C CNN
+F1 "R" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -454,38 +435,53 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Transistor_FET_IRF4905
+# TIP125
 #
-DEF Transistor_FET_IRF4905 Q 0 0 Y N 1 F N
-F0 "Q" 200 75 50 H V L CNN
-F1 "Transistor_FET_IRF4905" 200 0 50 H V L CNN
-F2 "Package_TO_SOT_THT:TO-220-3_Vertical" 200 -75 50 H I L CIN
+DEF TIP125 Q 0 0 Y N 1 F N
+F0 "Q" 250 75 50 H V L CNN
+F1 "TIP125" 250 0 50 H V L CNN
+F2 "TO_SOT_Packages_THT:TO-220_Vertical" 250 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
-ALIAS IRF4905
+ALIAS TIP126 TIP127
 $FPLIST
  TO?220*
 $ENDFPLIST
 DRAW
-C 65 0 111 0 1 10 N
-C 100 -70 11 0 1 0 F
-C 100 70 11 0 1 0 F
-P 2 0 1 0 30 -70 100 -70 N
-P 2 0 1 10 30 -50 30 -90 N
-P 2 0 1 0 30 0 100 0 N
-P 2 0 1 10 30 20 30 -20 N
-P 2 0 1 0 30 70 100 70 N
-P 2 0 1 10 30 90 30 50 N
-P 2 0 1 0 100 -70 100 -100 N
-P 2 0 1 0 100 -70 100 0 N
-P 2 0 1 0 100 100 100 70 N
-P 3 0 1 10 10 75 10 -75 10 -75 N
-P 4 0 1 0 90 0 50 -15 50 15 90 0 F
-P 4 0 1 0 100 -70 130 -70 130 70 100 70 N
-P 4 0 1 0 110 -20 115 -15 145 -15 150 -10 N
-P 4 0 1 0 130 -15 115 10 145 10 130 -15 N
-X G 1 -200 0 210 R 50 50 1 1 I
-X D 2 100 200 100 D 50 50 1 1 P
-X S 3 100 -200 100 U 50 50 1 1 P
+C -30 0 5 0 1 0 N
+C 30 -80 5 0 1 0 N
+C 30 -10 5 0 1 0 N
+C 50 0 125 0 1 14 N
+C 100 -80 5 0 1 0 N
+C 100 -60 5 0 1 0 N
+C 100 40 5 0 1 0 N
+C 100 90 5 0 1 0 N
+P 2 0 1 0 -50 0 -35 0 N
+P 2 0 1 0 100 -80 100 -100 N
+P 2 0 1 0 100 -60 125 -60 N
+P 2 0 1 0 110 -25 140 -25 N
+P 2 0 1 0 125 -60 125 -25 N
+P 2 0 1 0 125 5 125 40 N
+P 2 0 1 0 125 40 100 40 N
+P 2 0 1 12 125 105 145 130 N
+P 2 0 1 12 130 -100 150 -125 N
+P 2 0 1 12 165 -60 190 -75 N
+P 2 0 1 12 165 60 190 75 N
+P 2 0 1 12 175 0 210 0 N
+P 3 0 1 0 -10 30 30 -10 50 -10 N
+P 3 0 1 0 -10 40 -30 40 -30 -80 N
+P 3 0 1 0 -10 50 30 90 100 90 N
+P 3 0 1 12 -10 80 -10 0 -10 0 N
+P 3 0 1 15 50 30 50 -50 50 -50 N
+P 4 0 1 0 0 20 10 0 20 10 0 20 N
+P 4 0 1 0 50 -20 90 -60 100 -60 100 -80 N
+P 4 0 1 0 50 0 90 40 100 40 100 90 N
+P 4 0 1 0 60 -30 70 -50 80 -40 60 -30 N
+P 4 0 1 0 125 -25 110 5 140 5 125 -25 F
+P 10 0 1 0 30 -80 15 -80 10 -90 5 -70 0 -90 -5 -70 -10 -90 -15 -70 -20 -80 -30 -80 N
+P 11 0 1 0 30 -10 30 -80 45 -80 50 -70 55 -90 60 -70 65 -90 70 -70 75 -90 80 -80 100 -80 N
+X B 1 -200 0 150 R 50 50 1 1 I
+X C 2 100 200 105 D 50 50 1 1 P
+X E 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

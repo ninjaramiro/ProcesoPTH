@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:FuenteDePulsos-cache
-EELAYER 30 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -52,7 +52,7 @@ L FuenteDePulsos-rescue:R R24
 U 1 1 5807FB83
 P 2850 2850
 F 0 "R24" V 2930 2850 50  0000 C CNN
-F 1 "1k" V 2850 2850 50  0000 C CNN
+F 1 "330" V 2850 2850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 2780 2850 50  0001 C CNN
 F 3 "" H 2850 2850 50  0000 C CNN
 	1    2850 2850
@@ -90,6 +90,17 @@ F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4580 2300
 F 3 "" H 4650 2300 50  0000 C CNN
 	1    4650 2300
 	0    -1   -1   0   
+$EndComp
+$Comp
+L FuenteDePulsos-rescue:TIP127 Q10
+U 1 1 5807FD04
+P 5200 2300
+F 0 "Q10" H 5450 2375 50  0000 L CNN
+F 1 "TIP127" H 5450 2300 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-220-3_Vertical" H 5450 2225 50  0001 L CIN
+F 3 "" H 5200 2300 50  0000 L CNN
+	1    5200 2300
+	1    0    0    1   
 $EndComp
 $Comp
 L FuenteDePulsos-rescue:GND #PWR029
@@ -158,6 +169,17 @@ F 3 "" H 7450 4200 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
+L FuenteDePulsos-rescue:R R37
+U 1 1 5808128B
+P 8450 2850
+F 0 "R37" V 8530 2850 50  0000 C CNN
+F 1 "100" V 8450 2850 50  0000 C CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8380 2850 50  0001 C CNN
+F 3 "" H 8450 2850 50  0000 C CNN
+	1    8450 2850
+	0    -1   1    0   
+$EndComp
+$Comp
 L FuenteDePulsos-rescue:R R39
 U 1 1 58081291
 P 9200 3100
@@ -189,6 +211,17 @@ F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7330 2300
 F 3 "" H 7400 2300 50  0000 C CNN
 	1    7400 2300
 	0    1    -1   0   
+$EndComp
+$Comp
+L FuenteDePulsos-rescue:TIP127 Q12
+U 1 1 580812A3
+P 6850 2300
+F 0 "Q12" H 7100 2375 50  0000 L CNN
+F 1 "TIP127" H 7100 2300 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-220-3_Vertical" H 7100 2225 50  0001 L CIN
+F 3 "" H 6850 2300 50  0000 L CNN
+	1    6850 2300
+	-1   0    0    1   
 $EndComp
 $Comp
 L FuenteDePulsos-rescue:GND #PWR032
@@ -261,95 +294,99 @@ Corr_sens
 $Comp
 L FuenteDePulsos-rescue:D D4
 U 1 1 580FFE2B
-P 2850 2500
-F 0 "D4" H 2850 2600 50  0000 C CNN
-F 1 "1N4148" H 2850 2400 50  0000 C CNN
-F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 2850 2500 50  0001 C CNN
-F 3 "" H 2850 2500 50  0000 C CNN
-	1    2850 2500
+P 3500 2500
+F 0 "D4" H 3500 2600 50  0000 C CNN
+F 1 "1N4148" H 3500 2400 50  0000 C CNN
+F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 3500 2500 50  0001 C CNN
+F 3 "" H 3500 2500 50  0000 C CNN
+	1    3500 2500
 	1    0    0    -1  
 $EndComp
 $Comp
 L FuenteDePulsos-rescue:D D5
 U 1 1 5810018D
-P 8950 2500
-F 0 "D5" H 8950 2600 50  0000 C CNN
-F 1 "1N4148" H 8950 2400 50  0000 C CNN
-F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 8950 2500 50  0001 C CNN
-F 3 "" H 8950 2500 50  0000 C CNN
-	1    8950 2500
+P 8500 2550
+F 0 "D5" H 8500 2650 50  0000 C CNN
+F 1 "1N4148" H 8500 2450 50  0000 C CNN
+F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 8500 2550 50  0001 C CNN
+F 3 "" H 8500 2550 50  0000 C CNN
+	1    8500 2550
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	5000 2300 4900 2300
+	5000 2300 4800 2300
 Wire Wire Line
 	4500 2300 4250 2300
 Wire Wire Line
-	4250 2050 4250 2300
+	4250 2050 4250 2650
 Wire Wire Line
 	4250 3350 4250 3050
 Connection ~ 4250 2300
 Wire Wire Line
-	2450 2850 2600 2850
+	3550 2850 3950 2850
+Wire Wire Line
+	2450 2850 2700 2850
 Wire Wire Line
 	2600 2850 2600 2950
 Wire Wire Line
 	2600 3350 2600 3250
 Connection ~ 2600 2850
 Wire Wire Line
-	5300 2500 5300 3200
+	5300 2500 5300 4000
 Wire Wire Line
 	5000 4200 4750 4200
 Wire Wire Line
-	3550 4200 4050 4200
+	3550 4200 4450 4200
 Wire Wire Line
 	4050 4200 4050 4400
 Wire Wire Line
 	4050 4700 4050 4850
 Connection ~ 4050 4200
 Wire Wire Line
-	5300 3200 5750 3200
+	5300 3200 5850 3200
 Connection ~ 5300 3200
 Wire Wire Line
-	5300 4400 5300 4500
+	5300 4400 5300 4650
 Wire Wire Line
 	5300 2100 5300 1650
 Wire Wire Line
-	4250 1650 4900 1650
+	4250 1650 7800 1650
 Wire Wire Line
 	4250 1650 4250 1750
 Wire Wire Line
-	7050 2300 7100 2300
+	7050 2300 7250 2300
 Wire Wire Line
 	7550 2300 7800 2300
 Wire Wire Line
-	7800 2050 7800 2300
+	7800 2050 7800 2650
 Wire Wire Line
 	7800 3350 7800 3050
 Connection ~ 7800 2300
 Wire Wire Line
-	9100 2850 9200 2850
+	8100 2850 8300 2850
+Wire Wire Line
+	9000 2850 9300 2850
 Wire Wire Line
 	9200 2850 9200 2950
 Wire Wire Line
 	9200 3350 9200 3250
 Connection ~ 9200 2850
 Wire Wire Line
-	6750 2500 6750 3200
+	6750 2500 6750 4000
 Wire Wire Line
 	7050 4200 7300 4200
 Wire Wire Line
-	7600 4200 8000 4200
+	7600 4200 8500 4200
 Wire Wire Line
 	8000 4200 8000 4400
 Wire Wire Line
 	8000 4700 8000 4850
 Connection ~ 8000 4200
 Wire Wire Line
-	6250 3200 6350 3200
+	6250 3200 6750 3200
 Connection ~ 6750 3200
 Wire Wire Line
-	6750 4400 6750 4500
+	6750 4400 6750 4650
 Wire Wire Line
 	6750 1650 6750 2100
 Wire Wire Line
@@ -357,14 +394,14 @@ Wire Wire Line
 Wire Wire Line
 	5300 4950 5300 5100
 Wire Wire Line
-	5300 5100 6000 5100
+	5300 5100 6750 5100
 Wire Wire Line
 	6750 5100 6750 4950
 Wire Wire Line
-	6000 4950 6000 5100
+	6000 4950 6000 5350
 Connection ~ 6000 5100
 Wire Wire Line
-	5300 4500 6000 4500
+	5300 4500 6950 4500
 Wire Wire Line
 	6000 4500 6000 4650
 Connection ~ 5300 4500
@@ -375,6 +412,8 @@ Connection ~ 5300 1650
 Wire Wire Line
 	6000 1500 6000 1650
 Connection ~ 6000 1650
+Wire Wire Line
+	8350 2550 8200 2550
 $Comp
 L FuenteDePulsos-rescue:C C7
 U 1 1 5810CC4E
@@ -423,27 +462,44 @@ F 3 "" H 8650 3350 50  0000 C CNN
 $EndComp
 Wire Wire Line
 	8650 3300 8650 3350
+$Comp
+L FuenteDePulsos-rescue:R R25
+U 1 1 58129E19
+P 3400 2850
+F 0 "R25" V 3480 2850 50  0000 C CNN
+F 1 "100" V 3400 2850 50  0000 C CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3330 2850 50  0001 C CNN
+F 3 "" H 3400 2850 50  0000 C CNN
+	1    3400 2850
+	0    1    1    0   
+$EndComp
 Wire Wire Line
-	3000 2850 3100 2850
+	3800 2500 3800 2850
+Connection ~ 3800 2850
+Wire Wire Line
+	3000 2850 3250 2850
 Wire Wire Line
 	3100 2850 3100 3000
 Connection ~ 3100 2850
 $Comp
 L FuenteDePulsos-rescue:R R38
 U 1 1 5812A406
-P 8950 2850
-F 0 "R38" V 9030 2850 50  0000 C CNN
-F 1 "1k" V 8950 2850 50  0000 C CNN
-F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8880 2850 50  0001 C CNN
-F 3 "" H 8950 2850 50  0000 C CNN
-	1    8950 2850
+P 8850 2850
+F 0 "R38" V 8930 2850 50  0000 C CNN
+F 1 "330" V 8850 2850 50  0000 C CNN
+F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8780 2850 50  0001 C CNN
+F 3 "" H 8850 2850 50  0000 C CNN
+	1    8850 2850
 	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	8650 3000 8650 2850
 Wire Wire Line
-	8500 2850 8650 2850
+	8600 2850 8700 2850
 Connection ~ 8650 2850
+Wire Wire Line
+	8200 2550 8200 2850
+Connection ~ 8200 2850
 $Comp
 L FuenteDePulsos-rescue:CONN_01X02 P3
 U 1 1 58471340
@@ -512,7 +568,7 @@ U 1 1 5BF94501
 P 4150 2850
 F 0 "Q9" H 4450 2900 50  0000 R CNN
 F 1 "2N2222" H 4750 2800 50  0000 R CNN
-F 2 "TO_SOT_Packages_THT:TO-18-3" H 4250 3100 50  0000 C CNN
+F 2 "TO_SOT_Packages_THT:TO-18-3" H 4350 2950 50  0000 C CNN
 F 3 "" H 4150 2850 50  0000 C CNN
 	1    4150 2850
 	1    0    0    -1  
@@ -523,7 +579,7 @@ U 1 1 5BF94A91
 P 7900 2850
 F 0 "Q14" H 8200 2900 50  0000 R CNN
 F 1 "2N2222" H 8500 2800 50  0000 R CNN
-F 2 "TO_SOT_Packages_THT:TO-18-3" H 8100 3100 50  0000 C CNN
+F 2 "TO_SOT_Packages_THT:TO-18-3" H 8100 2950 50  0000 C CNN
 F 3 "" H 7900 2850 50  0000 C CNN
 	1    7900 2850
 	-1   0    0    -1  
@@ -533,14 +589,14 @@ Corr_sens
 Text Label 3450 6950 2    60   ~ 0
 Limitador_corriente
 Wire Wire Line
-	3000 2500 3100 2500
+	3650 2500 3800 2500
 Wire Wire Line
-	2700 2500 2500 2500
+	3350 2500 3150 2500
 Wire Wire Line
-	9100 2500 9300 2500
-Text Label 9300 2500 0    60   ~ 0
+	8650 2550 8850 2550
+Text Label 8850 2550 0    60   ~ 0
 Limitador_corriente
-Text Label 2500 2500 2    60   ~ 0
+Text Label 3150 2500 2    60   ~ 0
 Limitador_corriente
 $Comp
 L FuenteDePulsos-rescue:Conn_01x03 J3
@@ -585,142 +641,4 @@ F 3 "" H 6200 5350 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6000 5450 6000 5700
-Wire Wire Line
-	4250 2300 4250 2650
-Wire Wire Line
-	2600 2850 2700 2850
-Wire Wire Line
-	4050 4200 4450 4200
-Wire Wire Line
-	5300 3200 5300 4000
-Wire Wire Line
-	7800 2300 7800 2650
-Wire Wire Line
-	9200 2850 9300 2850
-Wire Wire Line
-	8000 4200 8500 4200
-Wire Wire Line
-	6750 3200 6750 4000
-Wire Wire Line
-	6000 5100 6750 5100
-Wire Wire Line
-	6000 5100 6000 5350
-Wire Wire Line
-	5300 4500 5300 4650
-Wire Wire Line
-	6750 4500 6750 4650
-Wire Wire Line
-	6750 4500 6950 4500
-Wire Wire Line
-	6000 4500 6750 4500
-Wire Wire Line
-	6750 1650 7100 1650
-Wire Wire Line
-	5300 1650 6000 1650
-Wire Wire Line
-	6000 1650 6750 1650
-Wire Wire Line
-	3100 2850 3250 2850
-Wire Wire Line
-	8650 2850 8800 2850
-Wire Wire Line
-	5750 3200 5850 3200
-Wire Wire Line
-	6350 3200 6750 3200
-Wire Wire Line
-	3550 2850 3950 2850
-Wire Wire Line
-	3100 2500 3100 2850
-Wire Wire Line
-	8100 2850 8200 2850
-Wire Wire Line
-	8650 2850 8650 2500
-Wire Wire Line
-	8650 2500 8800 2500
-$Comp
-L Transistor_FET:IRF4905 Q10
-U 1 1 5D7A38F5
-P 5200 2300
-F 0 "Q10" H 5406 2254 50  0000 L CNN
-F 1 "IRF4905" H 5406 2345 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5400 2225 50  0001 L CIN
-F 3 "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c" H 5200 2300 50  0001 L CNN
-	1    5200 2300
-	1    0    0    1   
-$EndComp
-$Comp
-L Transistor_FET:IRF4905 Q12
-U 1 1 5D7A5B9E
-P 6850 2300
-F 0 "Q12" H 7055 2254 50  0000 L CNN
-F 1 "IRF4905" H 7055 2345 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 7050 2225 50  0001 L CIN
-F 3 "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c" H 6850 2300 50  0001 L CNN
-	1    6850 2300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:D_Zener D3
-U 1 1 5D7BECEF
-P 4900 1950
-F 0 "D3" V 4854 2029 50  0000 L CNN
-F 1 "15v" V 4945 2029 50  0000 L CNN
-F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 4900 1950 50  0001 C CNN
-F 3 "~" H 4900 1950 50  0001 C CNN
-	1    4900 1950
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	4900 2100 4900 2300
-Connection ~ 4900 2300
-Wire Wire Line
-	4900 2300 4800 2300
-Wire Wire Line
-	4900 1800 4900 1650
-Connection ~ 4900 1650
-Wire Wire Line
-	4900 1650 5300 1650
-$Comp
-L Device:D_Zener D8
-U 1 1 5D7C355F
-P 7100 1950
-F 0 "D8" V 7054 2029 50  0000 L CNN
-F 1 "15v" V 7145 2029 50  0000 L CNN
-F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 7100 1950 50  0001 C CNN
-F 3 "~" H 7100 1950 50  0001 C CNN
-	1    7100 1950
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	7100 1800 7100 1650
-Connection ~ 7100 1650
-Wire Wire Line
-	7100 1650 7800 1650
-Wire Wire Line
-	7100 2100 7100 2300
-Connection ~ 7100 2300
-Wire Wire Line
-	7100 2300 7250 2300
-$Comp
-L FuenteDePulsos-rescue:D D9
-U 1 1 5D7F8DA3
-P 3400 2850
-F 0 "D9" H 3400 2950 50  0000 C CNN
-F 1 "1N4148" H 3400 2750 50  0000 C CNN
-F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 3400 2850 50  0001 C CNN
-F 3 "" H 3400 2850 50  0000 C CNN
-	1    3400 2850
-	-1   0    0    1   
-$EndComp
-$Comp
-L FuenteDePulsos-rescue:D D10
-U 1 1 5D7F93CA
-P 8350 2850
-F 0 "D10" H 8350 2950 50  0000 C CNN
-F 1 "1N4148" H 8350 2750 50  0000 C CNN
-F 2 "Diodes_THT:D_A-405_P7.62mm_Horizontal" H 8350 2850 50  0001 C CNN
-F 3 "" H 8350 2850 50  0000 C CNN
-	1    8350 2850
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
