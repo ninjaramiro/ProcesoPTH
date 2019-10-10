@@ -1,0 +1,15 @@
+Capturas de osciloscopio
+sds00001.bmp
+    Una punta en cada terminal de salida con una resistencia entre ambas terminales de 180ohms
+
+
+sds00002.bmp
+    Sin resistencia entre los terminales de salida.
+    Ch1 glitch en señal pwm
+    Ch2 tensión en las resistencias de shunt, se ve que hay un poquito de corriente.
+
+
+Consumo: 
+   - Ambas placas conectadas, sin carga. 110mA
+   - Desconecto los cables de los pulsos de la placa del micro a la placa de potencia. Y conecto las entradas de señal de la placa de 
+    potencia a gnd. Consumo menor a 10mA (no lo detecta la fuente). 

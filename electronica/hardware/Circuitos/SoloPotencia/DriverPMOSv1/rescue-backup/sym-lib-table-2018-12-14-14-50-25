@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name FuenteDePulsos-rescue)(type Legacy)(uri ${KIPRJMOD}/FuenteDePulsos-rescue.lib)(options "")(descr ""))
+  (lib (name 2N2222)(type Legacy)(uri ${KIPRJMOD}/Librerias_Schematic/2N2222.lib)(options "")(descr ""))
+  (lib (name irfz46n)(type Legacy)(uri ${KIPRJMOD}/Librerias_Schematic/irfz46n.lib)(options "")(descr ""))
+  (lib (name LM7805)(type Legacy)(uri ${KIPRJMOD}/Librerias_Schematic/LM7805.lib)(options "")(descr ""))
+  (lib (name ft232rl)(type Legacy)(uri ${KIPRJMOD}/Librerias_Schematic/ft232rl.lib)(options "")(descr ""))
+)

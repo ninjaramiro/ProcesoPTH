@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R10,R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"22";;;
+2;"R9,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"180";;;
+3;"R8,R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"100";;;
+4;"R7,R6,R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";4;"4k7";;;
+5;"Q4,Q2";"TO-92_Inline_Wide";2;"2n2907 o BC327";;;
+6;"Q3,Q1";"TO-92_Inline_Wide";2;"BC548";;;
+7;"J12,J11,J10,J9,J8,J7,J6,J5,J4,J3,J2,J1";"PinHeader_1x01_P2.54mm_Vertical";12;"Conn_01x01";;;
+8;"H4,H3,H2,H1";"MountingHole_3.2mm_M3";4;"MountingHole";;;
+9;"D8,D4";"D_A-405_P7.62mm_Horizontal";2;"12v";;;
+10;"D7,D6,D5,D3,D2,D1";"D_A-405_P7.62mm_Horizontal";6;"1N4148";;;

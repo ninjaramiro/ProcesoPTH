@@ -1,8 +1,8 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.0.2-bee76a0~70~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.4-e60b266~84~ubuntu18.04.1)
 
   (general
     (thickness 1.6)
-    (drawings 5)
+    (drawings 6)
     (tracks 417)
     (zones 0)
     (modules 73)
@@ -41,8 +41,6 @@
     (zone_clearance 0.635)
     (zone_45_only no)
     (trace_min 0.3048)
-    (segment_width 0.2)
-    (edge_width 0.15)
     (via_size 1.3208)
     (via_drill 0.7112)
     (via_min_size 1.3208)
@@ -52,6 +50,8 @@
     (uvias_allowed no)
     (uvia_min_size 0.508)
     (uvia_min_drill 0.127)
+    (edge_width 0.15)
+    (segment_width 0.2)
     (pcb_text_width 0.3)
     (pcb_text_size 1 1)
     (mod_edge_width 0.15)
@@ -3558,6 +3558,9 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3.7 3.7) (drill 3.7) (layers *.Cu *.Mask))
   )
 
+  (gr_text "Este circuito es de la version 1, está desactualizado" (at 145.6182 42.5704) (layer Dwgs.User)
+    (effects (font (size 5 5) (thickness 1)))
+  )
   (gr_text LCI (at 113.03 129.54) (layer B.Cu)
     (effects (font (size 5 5) (thickness 0.5)) (justify mirror))
   )
