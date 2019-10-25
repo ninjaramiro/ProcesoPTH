@@ -356,19 +356,6 @@ Wire Wire Line
 Wire Wire Line
 	8300 2650 8450 2650
 $Comp
-L Device:D_Zener D?
-U 1 1 5D81B7E4
-P 9000 2400
-AR Path="/5807F7D2/5D81B7E4" Ref="D?"  Part="1" 
-AR Path="/5D81B7E4" Ref="D8"  Part="1" 
-F 0 "D8" H 8950 2500 50  0000 L CNN
-F 1 "12v" H 8950 2300 50  0000 L CNN
-F 2 "Diode_THT:D_A-405_P7.62mm_Horizontal" H 9000 2400 50  0001 C CNN
-F 3 "~" H 9000 2400 50  0001 C CNN
-	1    9000 2400
-	-1   0    0    1   
-$EndComp
-$Comp
 L FuenteDePulsos-rescue:R R?
 U 1 1 5D81B7EA
 P 9450 2400
@@ -387,13 +374,9 @@ Wire Wire Line
 	9250 2100 9250 2400
 Wire Wire Line
 	9250 2400 9300 2400
-Wire Wire Line
-	9250 2400 9150 2400
 Connection ~ 9250 2400
 Wire Wire Line
 	8750 2450 8750 2400
-Wire Wire Line
-	8750 2400 8850 2400
 $Comp
 L FuenteDePulsos-rescue:R R?
 U 1 1 5D81B7F7
@@ -646,4 +629,21 @@ Wire Wire Line
 	1950 3150 2600 3150
 Wire Wire Line
 	6700 2950 7350 2950
+Wire Wire Line
+	8750 2400 8850 2400
+Wire Wire Line
+	9250 2400 9150 2400
+$Comp
+L Device:D_Zener D?
+U 1 1 5D81B7E4
+P 9000 2400
+AR Path="/5807F7D2/5D81B7E4" Ref="D?"  Part="1" 
+AR Path="/5D81B7E4" Ref="D8"  Part="1" 
+F 0 "D8" H 8950 2500 50  0000 L CNN
+F 1 "12v" H 8950 2300 50  0000 L CNN
+F 2 "Diode_THT:D_A-405_P7.62mm_Horizontal" H 9000 2400 50  0001 C CNN
+F 3 "~" H 9000 2400 50  0001 C CNN
+	1    9000 2400
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
