@@ -1,0 +1,92 @@
+Fecha: 01/11/2019
+
+Se preparó la solución electrolítica. La solucion de agua con el sulfato de cobre se hizo el 23/10/2019, hoy se completó agregando los ingregientes en el siguiente orden.
+
+Todo se realizó dentro de la campana. Los elementos se limpiaron con agua destilada.
+
+Composicion:
+    (23/10/2019)
+    - 1lt de agua destilada
+    - 106 gramos de sulfato de cobre
+    (01/11/2019)
+    - 415 ml de ácido sulfúrico 1250  34% para baterías, comprado en Droguería Lomas en cantidad de 1lt
+    - 2ml de ácido clorhidrico al 10% preparado por la gente de quimica
+    - 2ml de propilenglicol comprado en artística balvanera por 250cm3
+    - 2gr de polietilenglicol  comprado en farmacia como laxante en 5 sobres de 17gr
+
+Es importante mantener el orden, en particular hacer primero la solución de agua con sulfato de cobre y a eso agregarle de a poco el ácido sulfúrico.
+
+FOTO: PreparacionDeSolucion.jpg
+
+Se esperaba un aumento de la temperatura de la solución al agregar el acido sulfúrico, pero no fue tanto. Prácticamente nada.
+
+Se armó el banco para la deposición:    
+
+ERROR NUESTRO → NO LIMPIAMOS LA PLACA ANTES DE DEPOSITAR.
+
+FOTO: SolucionConElectrodos.jpg
+Dibujo: Banco.png
+
+Circuito donde se deposito:
+- Es un rectángulo de cobre, de 6.2cm de ancho. Y se sumergió 5cm en la solución. En el pedazo no sumergido se hicieron 2 agujeros que se usaron para conectar el cable con tornillos y tuercas.
+
+Se pesó la placa sin los tornillos y pesaba 14gr
+
+Area de cobre en contacto con la solución:
+H x 2 X 6,2cm = 62cm2 = 0,62dm2
+
+Queremos usar 4 amperes por dm2 → para nuestra superficie necesitamos 2,48A
+
+Medición 1:
+
+La fuente marca 2,5v y 2,5A
+El amperímetro externo mide 2.53A
+
+Medición 2: 
+Esta medición se realizó agitando la solución.
+
+Al revolver cambiaba la corriente, por lo que se configuró la fuente en corriente constante de 2,49A
+
+Los displays de la fuente marcan 2,1v y 2,49A
+Se agregó un multímetro en los electrodos para medir tensión
+
+El multímetro que mide corriente muestra 2,49A y el que mide tensión muestra 0,79v  → podemos tomar estos valores como verdaderos para nuestra solución.
+
+Eso nos dice que cae 1,3v en el amperímetro.
+
+Agitando mucho, la tensión cae a 0,67v
+
+FINALIZACION DE LA DEPOSICION:
+El proceso de deposicion duró 15 minutos.
+
+El resultado fue horrible. Se depositó cobre, pero quedó todo granulado y se desprendía.
+Posiblemente la corriente fue excesiva.
+
+Se pesó la placa resultante y pesaba 16gr. Por lo tanto se depositaron 2 gramos de cobre.
+
+Mediciones con micrometro:
+Parte sin depositar → 1,53mm → 1530um
+Parte depositada    → 1,55mm → 1550um. Se retiró todo lo granulado. 
+
+Se depositaron 20um 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

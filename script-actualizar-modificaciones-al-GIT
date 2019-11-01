@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git add --all	
+git commit	
+git push 	
