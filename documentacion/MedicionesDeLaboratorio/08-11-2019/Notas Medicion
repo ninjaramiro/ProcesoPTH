@@ -1,0 +1,23 @@
+Mediciones 08/11/2019  → Fuente de pulsos de PTH
+
+Primero se probó con una carga de 0.3ohms y alimentacion a 24v (caia a unos 18v), y la corriente la limitaba la fuente a unos 2,9A, en los transistores tendríamos picos de unos 80A (creo). Esto no sirve. Se aumentó la carga para acotar la corriente.
+
+Captura SDS0001: 
+    Carga 5R6
+    La captura muestra la tensión sobre la resistencia de shunt 0.1ohms/3
+    La fuente muestra 24v y 1.77A (promedio) 
+    Calculo: 24v/5.6ohms = 4,3A
+
+Captura SDS0002: Tensión sobre la carga de 5.6 ohms
+
+
+Se buscará disminuir la tensión de alimentación para achicar la corriente. 
+
+Luego de las capturas dismunuímos la tensión de alimentación y a unos 18v deja de funcionar, por lo que deberíamos mantenernos por encima de 20v para asegurar el funcionamiento.
+
+Se modificó el circuito, se separó la alimentación de los transistores de potencia del resto del circuito.
+Entonces se disminuyó la tensión que alimenta a los transistores de potencia dejando la alimentación del resto fija. El resultado obtenido fue similar.
+
+ 
+
+

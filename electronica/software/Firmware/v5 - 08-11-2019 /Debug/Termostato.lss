@@ -1,0 +1,646 @@
+
+Termostato.elf:     formato del fichero elf32-avr
+
+Secciones:
+Ind Nombre        Tamaño    VMA       LMA       Desp fich Alin
+  0 .text         00000432  00000000  00000000  00000094  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .data         00000000  00800060  00000432  000004c6  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          00000005  00800060  00800060  000004c6  2**0
+                  ALLOC
+  3 .stab         000009fc  00000000  00000000  000004c8  2**2
+                  CONTENTS, READONLY, DEBUGGING
+  4 .stabstr      00000b9b  00000000  00000000  00000ec4  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  5 .comment      00000011  00000000  00000000  00001a5f  2**0
+                  CONTENTS, READONLY
+  6 .note.gnu.avr.deviceinfo 0000003c  00000000  00000000  00001a70  2**2
+                  CONTENTS, READONLY
+
+Desensamblado de la sección .text:
+
+00000000 <__vectors>:
+   0:	0c 94 2a 00 	jmp	0x54	; 0x54 <__ctors_end>
+   4:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+   8:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+   c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  10:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  14:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  18:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  1c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  20:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  24:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  28:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  2c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  30:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  34:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  38:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  3c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  40:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  44:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  48:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  4c:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+  50:	0c 94 3c 00 	jmp	0x78	; 0x78 <__bad_interrupt>
+
+00000054 <__ctors_end>:
+  54:	11 24       	eor	r1, r1
+  56:	1f be       	out	0x3f, r1	; 63
+  58:	cf e5       	ldi	r28, 0x5F	; 95
+  5a:	d4 e0       	ldi	r29, 0x04	; 4
+  5c:	de bf       	out	0x3e, r29	; 62
+  5e:	cd bf       	out	0x3d, r28	; 61
+
+00000060 <__do_clear_bss>:
+  60:	20 e0       	ldi	r18, 0x00	; 0
+  62:	a0 e6       	ldi	r26, 0x60	; 96
+  64:	b0 e0       	ldi	r27, 0x00	; 0
+  66:	01 c0       	rjmp	.+2      	; 0x6a <.do_clear_bss_start>
+
+00000068 <.do_clear_bss_loop>:
+  68:	1d 92       	st	X+, r1
+
+0000006a <.do_clear_bss_start>:
+  6a:	a5 36       	cpi	r26, 0x65	; 101
+  6c:	b2 07       	cpc	r27, r18
+  6e:	e1 f7       	brne	.-8      	; 0x68 <.do_clear_bss_loop>
+  70:	0e 94 da 01 	call	0x3b4	; 0x3b4 <main>
+  74:	0c 94 17 02 	jmp	0x42e	; 0x42e <_exit>
+
+00000078 <__bad_interrupt>:
+  78:	0c 94 00 00 	jmp	0	; 0x0 <__vectors>
+
+0000007c <Inicio_Puertos>:
+volatile unsigned int	uContBuzzerOFF;	/**< \brief contador de tiempo apagado del buzzer */
+
+/************************************************************************
+* Inicio de los puertos
+************************************************************************/
+void Inicio_Puertos (void) {	/* Funcion de inicio de los puertos de entrada/salida */
+  7c:	cf 93       	push	r28
+  7e:	df 93       	push	r29
+  80:	cd b7       	in	r28, 0x3d	; 61
+  82:	de b7       	in	r29, 0x3e	; 62
+
+	/* Puerto A */
+
+
+	DIRECCION_PIN(CS2_PORT, CS2_PIN, SALIDA);
+  84:	8b e3       	ldi	r24, 0x3B	; 59
+  86:	90 e0       	ldi	r25, 0x00	; 0
+  88:	2b e3       	ldi	r18, 0x3B	; 59
+  8a:	30 e0       	ldi	r19, 0x00	; 0
+  8c:	f9 01       	movw	r30, r18
+  8e:	20 81       	ld	r18, Z
+  90:	21 60       	ori	r18, 0x01	; 1
+  92:	fc 01       	movw	r30, r24
+  94:	20 83       	st	Z, r18
+	DIRECCION_PIN(TEMP_PORT, PIN_TEMP_1, ENTRADA);
+  96:	8b e3       	ldi	r24, 0x3B	; 59
+  98:	90 e0       	ldi	r25, 0x00	; 0
+  9a:	2b e3       	ldi	r18, 0x3B	; 59
+  9c:	30 e0       	ldi	r19, 0x00	; 0
+  9e:	f9 01       	movw	r30, r18
+  a0:	20 81       	ld	r18, Z
+  a2:	2d 7f       	andi	r18, 0xFD	; 253
+  a4:	fc 01       	movw	r30, r24
+  a6:	20 83       	st	Z, r18
+	PULL_UP_PIN(TEMP_PORT, PIN_TEMP_1, OFF);
+  a8:	8b e3       	ldi	r24, 0x3B	; 59
+  aa:	90 e0       	ldi	r25, 0x00	; 0
+  ac:	2b e3       	ldi	r18, 0x3B	; 59
+  ae:	30 e0       	ldi	r19, 0x00	; 0
+  b0:	f9 01       	movw	r30, r18
+  b2:	20 81       	ld	r18, Z
+  b4:	2d 7f       	andi	r18, 0xFD	; 253
+  b6:	fc 01       	movw	r30, r24
+  b8:	20 83       	st	Z, r18
+	DIRECCION_PIN(TEMP_PORT, PIN_TEMP_2, ENTRADA);
+  ba:	8b e3       	ldi	r24, 0x3B	; 59
+  bc:	90 e0       	ldi	r25, 0x00	; 0
+  be:	2b e3       	ldi	r18, 0x3B	; 59
+  c0:	30 e0       	ldi	r19, 0x00	; 0
+  c2:	f9 01       	movw	r30, r18
+  c4:	20 81       	ld	r18, Z
+  c6:	2b 7f       	andi	r18, 0xFB	; 251
+  c8:	fc 01       	movw	r30, r24
+  ca:	20 83       	st	Z, r18
+	PULL_UP_PIN(TEMP_PORT, PIN_TEMP_2, OFF);
+  cc:	8b e3       	ldi	r24, 0x3B	; 59
+  ce:	90 e0       	ldi	r25, 0x00	; 0
+  d0:	2b e3       	ldi	r18, 0x3B	; 59
+  d2:	30 e0       	ldi	r19, 0x00	; 0
+  d4:	f9 01       	movw	r30, r18
+  d6:	20 81       	ld	r18, Z
+  d8:	2b 7f       	andi	r18, 0xFB	; 251
+  da:	fc 01       	movw	r30, r24
+  dc:	20 83       	st	Z, r18
+	DIRECCION_PIN(TEMP_PORT, PIN_TEMP_3, ENTRADA);
+  de:	8b e3       	ldi	r24, 0x3B	; 59
+  e0:	90 e0       	ldi	r25, 0x00	; 0
+  e2:	2b e3       	ldi	r18, 0x3B	; 59
+  e4:	30 e0       	ldi	r19, 0x00	; 0
+  e6:	f9 01       	movw	r30, r18
+  e8:	20 81       	ld	r18, Z
+  ea:	27 7f       	andi	r18, 0xF7	; 247
+  ec:	fc 01       	movw	r30, r24
+  ee:	20 83       	st	Z, r18
+	PULL_UP_PIN(TEMP_PORT, PIN_TEMP_3, OFF);
+  f0:	8b e3       	ldi	r24, 0x3B	; 59
+  f2:	90 e0       	ldi	r25, 0x00	; 0
+  f4:	2b e3       	ldi	r18, 0x3B	; 59
+  f6:	30 e0       	ldi	r19, 0x00	; 0
+  f8:	f9 01       	movw	r30, r18
+  fa:	20 81       	ld	r18, Z
+  fc:	27 7f       	andi	r18, 0xF7	; 247
+  fe:	fc 01       	movw	r30, r24
+ 100:	20 83       	st	Z, r18
+	DIRECCION_PIN(LCD_DB_PORT, LCD_DB_7, SALIDA);
+ 102:	8b e3       	ldi	r24, 0x3B	; 59
+ 104:	90 e0       	ldi	r25, 0x00	; 0
+ 106:	2b e3       	ldi	r18, 0x3B	; 59
+ 108:	30 e0       	ldi	r19, 0x00	; 0
+ 10a:	f9 01       	movw	r30, r18
+ 10c:	20 81       	ld	r18, Z
+ 10e:	20 68       	ori	r18, 0x80	; 128
+ 110:	fc 01       	movw	r30, r24
+ 112:	20 83       	st	Z, r18
+	DIRECCION_PIN(LCD_DB_PORT, LCD_DB_6, SALIDA);
+ 114:	8b e3       	ldi	r24, 0x3B	; 59
+ 116:	90 e0       	ldi	r25, 0x00	; 0
+ 118:	2b e3       	ldi	r18, 0x3B	; 59
+ 11a:	30 e0       	ldi	r19, 0x00	; 0
+ 11c:	f9 01       	movw	r30, r18
+ 11e:	20 81       	ld	r18, Z
+ 120:	20 64       	ori	r18, 0x40	; 64
+ 122:	fc 01       	movw	r30, r24
+ 124:	20 83       	st	Z, r18
+	DIRECCION_PIN(LCD_DB_PORT, LCD_DB_5, SALIDA);
+ 126:	8b e3       	ldi	r24, 0x3B	; 59
+ 128:	90 e0       	ldi	r25, 0x00	; 0
+ 12a:	2b e3       	ldi	r18, 0x3B	; 59
+ 12c:	30 e0       	ldi	r19, 0x00	; 0
+ 12e:	f9 01       	movw	r30, r18
+ 130:	20 81       	ld	r18, Z
+ 132:	20 62       	ori	r18, 0x20	; 32
+ 134:	fc 01       	movw	r30, r24
+ 136:	20 83       	st	Z, r18
+	DIRECCION_PIN(LCD_DB_PORT, LCD_DB_4, SALIDA);
+ 138:	8b e3       	ldi	r24, 0x3B	; 59
+ 13a:	90 e0       	ldi	r25, 0x00	; 0
+ 13c:	2b e3       	ldi	r18, 0x3B	; 59
+ 13e:	30 e0       	ldi	r19, 0x00	; 0
+ 140:	f9 01       	movw	r30, r18
+ 142:	20 81       	ld	r18, Z
+ 144:	20 61       	ori	r18, 0x10	; 16
+ 146:	fc 01       	movw	r30, r24
+ 148:	20 83       	st	Z, r18
+
+
+	/* Puerto B */
+
+
+	DIRECCION_PIN(DIR_LCD_RS_PORT, LCD_CONT_RS, SALIDA);
+ 14a:	87 e3       	ldi	r24, 0x37	; 55
+ 14c:	90 e0       	ldi	r25, 0x00	; 0
+ 14e:	27 e3       	ldi	r18, 0x37	; 55
+ 150:	30 e0       	ldi	r19, 0x00	; 0
+ 152:	f9 01       	movw	r30, r18
+ 154:	20 81       	ld	r18, Z
+ 156:	21 60       	ori	r18, 0x01	; 1
+ 158:	fc 01       	movw	r30, r24
+ 15a:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_LCD_RW_PORT, LCD_CONT_RW, SALIDA);
+ 15c:	87 e3       	ldi	r24, 0x37	; 55
+ 15e:	90 e0       	ldi	r25, 0x00	; 0
+ 160:	27 e3       	ldi	r18, 0x37	; 55
+ 162:	30 e0       	ldi	r19, 0x00	; 0
+ 164:	f9 01       	movw	r30, r18
+ 166:	20 81       	ld	r18, Z
+ 168:	22 60       	ori	r18, 0x02	; 2
+ 16a:	fc 01       	movw	r30, r24
+ 16c:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_LCD_ENB_PORT, LCD_ENB, SALIDA);
+ 16e:	87 e3       	ldi	r24, 0x37	; 55
+ 170:	90 e0       	ldi	r25, 0x00	; 0
+ 172:	27 e3       	ldi	r18, 0x37	; 55
+ 174:	30 e0       	ldi	r19, 0x00	; 0
+ 176:	f9 01       	movw	r30, r18
+ 178:	20 81       	ld	r18, Z
+ 17a:	24 60       	ori	r18, 0x04	; 4
+ 17c:	fc 01       	movw	r30, r24
+ 17e:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_LCD_BACKLIGHT_PORT, LCD_BACKLIGHT, SALIDA);
+ 180:	87 e3       	ldi	r24, 0x37	; 55
+ 182:	90 e0       	ldi	r25, 0x00	; 0
+ 184:	27 e3       	ldi	r18, 0x37	; 55
+ 186:	30 e0       	ldi	r19, 0x00	; 0
+ 188:	f9 01       	movw	r30, r18
+ 18a:	20 81       	ld	r18, Z
+ 18c:	28 60       	ori	r18, 0x08	; 8
+ 18e:	fc 01       	movw	r30, r24
+ 190:	20 83       	st	Z, r18
+	DIRECCION_PIN(CS3_PORT, CS3_PIN, SALIDA);
+ 192:	88 e3       	ldi	r24, 0x38	; 56
+ 194:	90 e0       	ldi	r25, 0x00	; 0
+ 196:	28 e3       	ldi	r18, 0x38	; 56
+ 198:	30 e0       	ldi	r19, 0x00	; 0
+ 19a:	f9 01       	movw	r30, r18
+ 19c:	20 81       	ld	r18, Z
+ 19e:	20 61       	ori	r18, 0x10	; 16
+ 1a0:	fc 01       	movw	r30, r24
+ 1a2:	20 83       	st	Z, r18
+
+	DIRECCION_PIN(SPI_PORT, MOSI_PIN, SALIDA);
+ 1a4:	88 e3       	ldi	r24, 0x38	; 56
+ 1a6:	90 e0       	ldi	r25, 0x00	; 0
+ 1a8:	28 e3       	ldi	r18, 0x38	; 56
+ 1aa:	30 e0       	ldi	r19, 0x00	; 0
+ 1ac:	f9 01       	movw	r30, r18
+ 1ae:	20 81       	ld	r18, Z
+ 1b0:	20 62       	ori	r18, 0x20	; 32
+ 1b2:	fc 01       	movw	r30, r24
+ 1b4:	20 83       	st	Z, r18
+	DIRECCION_PIN(SPI_PORT, MISO_PIN, ENTRADA);
+ 1b6:	88 e3       	ldi	r24, 0x38	; 56
+ 1b8:	90 e0       	ldi	r25, 0x00	; 0
+ 1ba:	28 e3       	ldi	r18, 0x38	; 56
+ 1bc:	30 e0       	ldi	r19, 0x00	; 0
+ 1be:	f9 01       	movw	r30, r18
+ 1c0:	20 81       	ld	r18, Z
+ 1c2:	2f 7b       	andi	r18, 0xBF	; 191
+ 1c4:	fc 01       	movw	r30, r24
+ 1c6:	20 83       	st	Z, r18
+	PULL_UP_PIN(SPI_PORT, MISO_PIN, OFF);
+ 1c8:	88 e3       	ldi	r24, 0x38	; 56
+ 1ca:	90 e0       	ldi	r25, 0x00	; 0
+ 1cc:	28 e3       	ldi	r18, 0x38	; 56
+ 1ce:	30 e0       	ldi	r19, 0x00	; 0
+ 1d0:	f9 01       	movw	r30, r18
+ 1d2:	20 81       	ld	r18, Z
+ 1d4:	2f 7b       	andi	r18, 0xBF	; 191
+ 1d6:	fc 01       	movw	r30, r24
+ 1d8:	20 83       	st	Z, r18
+	DIRECCION_PIN(SPI_PORT, SCK_PIN, SALIDA);
+ 1da:	88 e3       	ldi	r24, 0x38	; 56
+ 1dc:	90 e0       	ldi	r25, 0x00	; 0
+ 1de:	28 e3       	ldi	r18, 0x38	; 56
+ 1e0:	30 e0       	ldi	r19, 0x00	; 0
+ 1e2:	f9 01       	movw	r30, r18
+ 1e4:	20 81       	ld	r18, Z
+ 1e6:	20 68       	ori	r18, 0x80	; 128
+ 1e8:	fc 01       	movw	r30, r24
+ 1ea:	20 83       	st	Z, r18
+
+
+
+	/* Puerto C */
+
+	DIRECCION_PIN(DIR_AUX_PORT, AUX1_PIN, ENTRADA);
+ 1ec:	84 e3       	ldi	r24, 0x34	; 52
+ 1ee:	90 e0       	ldi	r25, 0x00	; 0
+ 1f0:	24 e3       	ldi	r18, 0x34	; 52
+ 1f2:	30 e0       	ldi	r19, 0x00	; 0
+ 1f4:	f9 01       	movw	r30, r18
+ 1f6:	20 81       	ld	r18, Z
+ 1f8:	2e 7f       	andi	r18, 0xFE	; 254
+ 1fa:	fc 01       	movw	r30, r24
+ 1fc:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_AUX_PORT, AUX2_PIN, ENTRADA);
+ 1fe:	84 e3       	ldi	r24, 0x34	; 52
+ 200:	90 e0       	ldi	r25, 0x00	; 0
+ 202:	24 e3       	ldi	r18, 0x34	; 52
+ 204:	30 e0       	ldi	r19, 0x00	; 0
+ 206:	f9 01       	movw	r30, r18
+ 208:	20 81       	ld	r18, Z
+ 20a:	2d 7f       	andi	r18, 0xFD	; 253
+ 20c:	fc 01       	movw	r30, r24
+ 20e:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_AUX_PORT, AUX3_PIN, ENTRADA);
+ 210:	84 e3       	ldi	r24, 0x34	; 52
+ 212:	90 e0       	ldi	r25, 0x00	; 0
+ 214:	24 e3       	ldi	r18, 0x34	; 52
+ 216:	30 e0       	ldi	r19, 0x00	; 0
+ 218:	f9 01       	movw	r30, r18
+ 21a:	20 81       	ld	r18, Z
+ 21c:	2b 7f       	andi	r18, 0xFB	; 251
+ 21e:	fc 01       	movw	r30, r24
+ 220:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_AUX_PORT, AUX4_PIN, ENTRADA);
+ 222:	84 e3       	ldi	r24, 0x34	; 52
+ 224:	90 e0       	ldi	r25, 0x00	; 0
+ 226:	24 e3       	ldi	r18, 0x34	; 52
+ 228:	30 e0       	ldi	r19, 0x00	; 0
+ 22a:	f9 01       	movw	r30, r18
+ 22c:	20 81       	ld	r18, Z
+ 22e:	27 7f       	andi	r18, 0xF7	; 247
+ 230:	fc 01       	movw	r30, r24
+ 232:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_AUX_PORT, AUX5_PIN, ENTRADA);
+ 234:	84 e3       	ldi	r24, 0x34	; 52
+ 236:	90 e0       	ldi	r25, 0x00	; 0
+ 238:	24 e3       	ldi	r18, 0x34	; 52
+ 23a:	30 e0       	ldi	r19, 0x00	; 0
+ 23c:	f9 01       	movw	r30, r18
+ 23e:	20 81       	ld	r18, Z
+ 240:	2f 7e       	andi	r18, 0xEF	; 239
+ 242:	fc 01       	movw	r30, r24
+ 244:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_AUX_PORT, AUX6_PIN, ENTRADA);
+ 246:	84 e3       	ldi	r24, 0x34	; 52
+ 248:	90 e0       	ldi	r25, 0x00	; 0
+ 24a:	24 e3       	ldi	r18, 0x34	; 52
+ 24c:	30 e0       	ldi	r19, 0x00	; 0
+ 24e:	f9 01       	movw	r30, r18
+ 250:	20 81       	ld	r18, Z
+ 252:	2f 7d       	andi	r18, 0xDF	; 223
+ 254:	fc 01       	movw	r30, r24
+ 256:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_AUX_PORT, AUX7_PIN, ENTRADA);
+ 258:	84 e3       	ldi	r24, 0x34	; 52
+ 25a:	90 e0       	ldi	r25, 0x00	; 0
+ 25c:	24 e3       	ldi	r18, 0x34	; 52
+ 25e:	30 e0       	ldi	r19, 0x00	; 0
+ 260:	f9 01       	movw	r30, r18
+ 262:	20 81       	ld	r18, Z
+ 264:	2f 7b       	andi	r18, 0xBF	; 191
+ 266:	fc 01       	movw	r30, r24
+ 268:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_AUX_PORT, AUX8_PIN, ENTRADA);
+ 26a:	84 e3       	ldi	r24, 0x34	; 52
+ 26c:	90 e0       	ldi	r25, 0x00	; 0
+ 26e:	24 e3       	ldi	r18, 0x34	; 52
+ 270:	30 e0       	ldi	r19, 0x00	; 0
+ 272:	f9 01       	movw	r30, r18
+ 274:	20 81       	ld	r18, Z
+ 276:	2f 77       	andi	r18, 0x7F	; 127
+ 278:	fc 01       	movw	r30, r24
+ 27a:	20 83       	st	Z, r18
+
+	PULL_UP_PIN(AUX_PORT, AUX1_PIN, OFF);
+ 27c:	85 e3       	ldi	r24, 0x35	; 53
+ 27e:	90 e0       	ldi	r25, 0x00	; 0
+ 280:	25 e3       	ldi	r18, 0x35	; 53
+ 282:	30 e0       	ldi	r19, 0x00	; 0
+ 284:	f9 01       	movw	r30, r18
+ 286:	20 81       	ld	r18, Z
+ 288:	2e 7f       	andi	r18, 0xFE	; 254
+ 28a:	fc 01       	movw	r30, r24
+ 28c:	20 83       	st	Z, r18
+	PULL_UP_PIN(AUX_PORT, AUX2_PIN, OFF);
+ 28e:	85 e3       	ldi	r24, 0x35	; 53
+ 290:	90 e0       	ldi	r25, 0x00	; 0
+ 292:	25 e3       	ldi	r18, 0x35	; 53
+ 294:	30 e0       	ldi	r19, 0x00	; 0
+ 296:	f9 01       	movw	r30, r18
+ 298:	20 81       	ld	r18, Z
+ 29a:	2d 7f       	andi	r18, 0xFD	; 253
+ 29c:	fc 01       	movw	r30, r24
+ 29e:	20 83       	st	Z, r18
+	PULL_UP_PIN(AUX_PORT, AUX3_PIN, OFF);
+ 2a0:	85 e3       	ldi	r24, 0x35	; 53
+ 2a2:	90 e0       	ldi	r25, 0x00	; 0
+ 2a4:	25 e3       	ldi	r18, 0x35	; 53
+ 2a6:	30 e0       	ldi	r19, 0x00	; 0
+ 2a8:	f9 01       	movw	r30, r18
+ 2aa:	20 81       	ld	r18, Z
+ 2ac:	2b 7f       	andi	r18, 0xFB	; 251
+ 2ae:	fc 01       	movw	r30, r24
+ 2b0:	20 83       	st	Z, r18
+	PULL_UP_PIN(AUX_PORT, AUX4_PIN, OFF);
+ 2b2:	85 e3       	ldi	r24, 0x35	; 53
+ 2b4:	90 e0       	ldi	r25, 0x00	; 0
+ 2b6:	25 e3       	ldi	r18, 0x35	; 53
+ 2b8:	30 e0       	ldi	r19, 0x00	; 0
+ 2ba:	f9 01       	movw	r30, r18
+ 2bc:	20 81       	ld	r18, Z
+ 2be:	27 7f       	andi	r18, 0xF7	; 247
+ 2c0:	fc 01       	movw	r30, r24
+ 2c2:	20 83       	st	Z, r18
+	PULL_UP_PIN(AUX_PORT, AUX5_PIN, OFF);
+ 2c4:	85 e3       	ldi	r24, 0x35	; 53
+ 2c6:	90 e0       	ldi	r25, 0x00	; 0
+ 2c8:	25 e3       	ldi	r18, 0x35	; 53
+ 2ca:	30 e0       	ldi	r19, 0x00	; 0
+ 2cc:	f9 01       	movw	r30, r18
+ 2ce:	20 81       	ld	r18, Z
+ 2d0:	2f 7e       	andi	r18, 0xEF	; 239
+ 2d2:	fc 01       	movw	r30, r24
+ 2d4:	20 83       	st	Z, r18
+	PULL_UP_PIN(AUX_PORT, AUX6_PIN, OFF);
+ 2d6:	85 e3       	ldi	r24, 0x35	; 53
+ 2d8:	90 e0       	ldi	r25, 0x00	; 0
+ 2da:	25 e3       	ldi	r18, 0x35	; 53
+ 2dc:	30 e0       	ldi	r19, 0x00	; 0
+ 2de:	f9 01       	movw	r30, r18
+ 2e0:	20 81       	ld	r18, Z
+ 2e2:	2f 7d       	andi	r18, 0xDF	; 223
+ 2e4:	fc 01       	movw	r30, r24
+ 2e6:	20 83       	st	Z, r18
+	PULL_UP_PIN(AUX_PORT, AUX7_PIN, OFF);
+ 2e8:	85 e3       	ldi	r24, 0x35	; 53
+ 2ea:	90 e0       	ldi	r25, 0x00	; 0
+ 2ec:	25 e3       	ldi	r18, 0x35	; 53
+ 2ee:	30 e0       	ldi	r19, 0x00	; 0
+ 2f0:	f9 01       	movw	r30, r18
+ 2f2:	20 81       	ld	r18, Z
+ 2f4:	2f 7b       	andi	r18, 0xBF	; 191
+ 2f6:	fc 01       	movw	r30, r24
+ 2f8:	20 83       	st	Z, r18
+	PULL_UP_PIN(AUX_PORT, AUX8_PIN, OFF);
+ 2fa:	85 e3       	ldi	r24, 0x35	; 53
+ 2fc:	90 e0       	ldi	r25, 0x00	; 0
+ 2fe:	25 e3       	ldi	r18, 0x35	; 53
+ 300:	30 e0       	ldi	r19, 0x00	; 0
+ 302:	f9 01       	movw	r30, r18
+ 304:	20 81       	ld	r18, Z
+ 306:	2f 77       	andi	r18, 0x7F	; 127
+ 308:	fc 01       	movw	r30, r24
+ 30a:	20 83       	st	Z, r18
+
+
+	/* Puerto D */
+
+
+	DIRECCION_PIN(DIR_SERIAL_PORT, SERIAL_RX, ENTRADA);
+ 30c:	81 e3       	ldi	r24, 0x31	; 49
+ 30e:	90 e0       	ldi	r25, 0x00	; 0
+ 310:	21 e3       	ldi	r18, 0x31	; 49
+ 312:	30 e0       	ldi	r19, 0x00	; 0
+ 314:	f9 01       	movw	r30, r18
+ 316:	20 81       	ld	r18, Z
+ 318:	2e 7f       	andi	r18, 0xFE	; 254
+ 31a:	fc 01       	movw	r30, r24
+ 31c:	20 83       	st	Z, r18
+	PULL_UP_PIN(SERIAL_PORT, SERIAL_RX, OFF);
+ 31e:	82 e3       	ldi	r24, 0x32	; 50
+ 320:	90 e0       	ldi	r25, 0x00	; 0
+ 322:	22 e3       	ldi	r18, 0x32	; 50
+ 324:	30 e0       	ldi	r19, 0x00	; 0
+ 326:	f9 01       	movw	r30, r18
+ 328:	20 81       	ld	r18, Z
+ 32a:	2e 7f       	andi	r18, 0xFE	; 254
+ 32c:	fc 01       	movw	r30, r24
+ 32e:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_SERIAL_PORT, SERIAL_TX, SALIDA);
+ 330:	81 e3       	ldi	r24, 0x31	; 49
+ 332:	90 e0       	ldi	r25, 0x00	; 0
+ 334:	21 e3       	ldi	r18, 0x31	; 49
+ 336:	30 e0       	ldi	r19, 0x00	; 0
+ 338:	f9 01       	movw	r30, r18
+ 33a:	20 81       	ld	r18, Z
+ 33c:	22 60       	ori	r18, 0x02	; 2
+ 33e:	fc 01       	movw	r30, r24
+ 340:	20 83       	st	Z, r18
+
+	DIRECCION_PIN(DIR_BUZZER_PORT, BUZZER, SALIDA);
+ 342:	81 e3       	ldi	r24, 0x31	; 49
+ 344:	90 e0       	ldi	r25, 0x00	; 0
+ 346:	21 e3       	ldi	r18, 0x31	; 49
+ 348:	30 e0       	ldi	r19, 0x00	; 0
+ 34a:	f9 01       	movw	r30, r18
+ 34c:	20 81       	ld	r18, Z
+ 34e:	28 60       	ori	r18, 0x08	; 8
+ 350:	fc 01       	movw	r30, r24
+ 352:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_SALIDA_DIG_PORT, SALIDA_DIG_2, SALIDA);
+ 354:	81 e3       	ldi	r24, 0x31	; 49
+ 356:	90 e0       	ldi	r25, 0x00	; 0
+ 358:	21 e3       	ldi	r18, 0x31	; 49
+ 35a:	30 e0       	ldi	r19, 0x00	; 0
+ 35c:	f9 01       	movw	r30, r18
+ 35e:	20 81       	ld	r18, Z
+ 360:	20 64       	ori	r18, 0x40	; 64
+ 362:	fc 01       	movw	r30, r24
+ 364:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_SALIDA_DIG_PORT, SALIDA_DIG_1, SALIDA);
+ 366:	81 e3       	ldi	r24, 0x31	; 49
+ 368:	90 e0       	ldi	r25, 0x00	; 0
+ 36a:	21 e3       	ldi	r18, 0x31	; 49
+ 36c:	30 e0       	ldi	r19, 0x00	; 0
+ 36e:	f9 01       	movw	r30, r18
+ 370:	20 81       	ld	r18, Z
+ 372:	20 62       	ori	r18, 0x20	; 32
+ 374:	fc 01       	movw	r30, r24
+ 376:	20 83       	st	Z, r18
+
+	DIRECCION_PIN(DIR_LEDS_PORT, BUZZER, SALIDA);
+ 378:	81 e3       	ldi	r24, 0x31	; 49
+ 37a:	90 e0       	ldi	r25, 0x00	; 0
+ 37c:	21 e3       	ldi	r18, 0x31	; 49
+ 37e:	30 e0       	ldi	r19, 0x00	; 0
+ 380:	f9 01       	movw	r30, r18
+ 382:	20 81       	ld	r18, Z
+ 384:	28 60       	ori	r18, 0x08	; 8
+ 386:	fc 01       	movw	r30, r24
+ 388:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_LEDS_PORT, LED1, SALIDA);
+ 38a:	81 e3       	ldi	r24, 0x31	; 49
+ 38c:	90 e0       	ldi	r25, 0x00	; 0
+ 38e:	21 e3       	ldi	r18, 0x31	; 49
+ 390:	30 e0       	ldi	r19, 0x00	; 0
+ 392:	f9 01       	movw	r30, r18
+ 394:	20 81       	ld	r18, Z
+ 396:	20 61       	ori	r18, 0x10	; 16
+ 398:	fc 01       	movw	r30, r24
+ 39a:	20 83       	st	Z, r18
+	DIRECCION_PIN(DIR_LEDS_PORT, LED2, SALIDA);
+ 39c:	81 e3       	ldi	r24, 0x31	; 49
+ 39e:	90 e0       	ldi	r25, 0x00	; 0
+ 3a0:	21 e3       	ldi	r18, 0x31	; 49
+ 3a2:	30 e0       	ldi	r19, 0x00	; 0
+ 3a4:	f9 01       	movw	r30, r18
+ 3a6:	20 81       	ld	r18, Z
+ 3a8:	20 68       	ori	r18, 0x80	; 128
+ 3aa:	fc 01       	movw	r30, r24
+ 3ac:	20 83       	st	Z, r18
+
+}
+ 3ae:	df 91       	pop	r29
+ 3b0:	cf 91       	pop	r28
+ 3b2:	08 95       	ret
+
+000003b4 <main>:
+#include <avr/io.h>
+#include <util/delay.h>
+#include "macros.h"
+#include "inicioUc.h"
+
+int main (void) {
+ 3b4:	cf 93       	push	r28
+ 3b6:	df 93       	push	r29
+ 3b8:	cd b7       	in	r28, 0x3d	; 61
+ 3ba:	de b7       	in	r29, 0x3e	; 62
+	Inicio_Puertos ();
+ 3bc:	0e 94 3e 00 	call	0x7c	; 0x7c <Inicio_Puertos>
+	SET_BIT(LCD_BACKLIGHT_PORT, LCD_BACKLIGHT);
+ 3c0:	88 e3       	ldi	r24, 0x38	; 56
+ 3c2:	90 e0       	ldi	r25, 0x00	; 0
+ 3c4:	28 e3       	ldi	r18, 0x38	; 56
+ 3c6:	30 e0       	ldi	r19, 0x00	; 0
+ 3c8:	f9 01       	movw	r30, r18
+ 3ca:	20 81       	ld	r18, Z
+ 3cc:	28 60       	ori	r18, 0x08	; 8
+ 3ce:	fc 01       	movw	r30, r24
+ 3d0:	20 83       	st	Z, r18
+
+	CLEAR_BIT(BUZZER_PORT, BUZZER);
+ 3d2:	82 e3       	ldi	r24, 0x32	; 50
+ 3d4:	90 e0       	ldi	r25, 0x00	; 0
+ 3d6:	22 e3       	ldi	r18, 0x32	; 50
+ 3d8:	30 e0       	ldi	r19, 0x00	; 0
+ 3da:	f9 01       	movw	r30, r18
+ 3dc:	20 81       	ld	r18, Z
+ 3de:	27 7f       	andi	r18, 0xF7	; 247
+ 3e0:	fc 01       	movw	r30, r24
+ 3e2:	20 83       	st	Z, r18
+	CLEAR_BIT(LEDS_PORT, LED1);
+ 3e4:	82 e3       	ldi	r24, 0x32	; 50
+ 3e6:	90 e0       	ldi	r25, 0x00	; 0
+ 3e8:	22 e3       	ldi	r18, 0x32	; 50
+ 3ea:	30 e0       	ldi	r19, 0x00	; 0
+ 3ec:	f9 01       	movw	r30, r18
+ 3ee:	20 81       	ld	r18, Z
+ 3f0:	2f 7e       	andi	r18, 0xEF	; 239
+ 3f2:	fc 01       	movw	r30, r24
+ 3f4:	20 83       	st	Z, r18
+	SET_BIT(LEDS_PORT, LED2);
+ 3f6:	82 e3       	ldi	r24, 0x32	; 50
+ 3f8:	90 e0       	ldi	r25, 0x00	; 0
+ 3fa:	22 e3       	ldi	r18, 0x32	; 50
+ 3fc:	30 e0       	ldi	r19, 0x00	; 0
+ 3fe:	f9 01       	movw	r30, r18
+ 400:	20 81       	ld	r18, Z
+ 402:	20 68       	ori	r18, 0x80	; 128
+ 404:	fc 01       	movw	r30, r24
+ 406:	20 83       	st	Z, r18
+	CLEAR_BIT(SALIDA_DIG_PORT, SALIDA_DIG_2);
+ 408:	82 e3       	ldi	r24, 0x32	; 50
+ 40a:	90 e0       	ldi	r25, 0x00	; 0
+ 40c:	22 e3       	ldi	r18, 0x32	; 50
+ 40e:	30 e0       	ldi	r19, 0x00	; 0
+ 410:	f9 01       	movw	r30, r18
+ 412:	20 81       	ld	r18, Z
+ 414:	2f 7b       	andi	r18, 0xBF	; 191
+ 416:	fc 01       	movw	r30, r24
+ 418:	20 83       	st	Z, r18
+	SET_BIT(SALIDA_DIG_PORT, SALIDA_DIG_1);
+ 41a:	82 e3       	ldi	r24, 0x32	; 50
+ 41c:	90 e0       	ldi	r25, 0x00	; 0
+ 41e:	22 e3       	ldi	r18, 0x32	; 50
+ 420:	30 e0       	ldi	r19, 0x00	; 0
+ 422:	f9 01       	movw	r30, r18
+ 424:	20 81       	ld	r18, Z
+ 426:	20 62       	ori	r18, 0x20	; 32
+ 428:	fc 01       	movw	r30, r24
+ 42a:	20 83       	st	Z, r18
+	while (1) {
+
+	}
+ 42c:	ff cf       	rjmp	.-2      	; 0x42c <main+0x78>
+
+0000042e <_exit>:
+ 42e:	f8 94       	cli
+
+00000430 <__stop_program>:
+ 430:	ff cf       	rjmp	.-2      	; 0x430 <__stop_program>
