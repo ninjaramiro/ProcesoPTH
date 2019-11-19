@@ -1,0 +1,34 @@
+El equipo se controla por puerto serie mediante un adaptador usb-serie
+
+Orden de los pines en la placa: 
+
+Con un punto se marca el pin de GND, el siguiente es el Rx del AVR, luego el 
+Tx del AVR y en el extremo opuesto el pin de +5v que probablemente no se use.
+
+
+Configuracion del puerto serie: 
+115200 baud 8N1 sin paridad
+
+
+FORMATO: 
+Se inicia con la letra "c" cé minúscula, seguida del numero de comando y luego 
+el parámetro
+
+Ej: c1 →  apaga la salida
+    c8100 → configura el duty cycle PWM inverso en 100
+
+Responde OK y el comando recibido.
+
+
+NUMERO      PARÁMETRO   DESCRIPCIÓN 
+DE 
+COMANDO
+
+1           NO          Apaga los pulsos                   
+2           SI          Enciende los pulsos                   
+3           0 a 255     t_directo en multiplos de 15uS (max 6,37mS)
+4           0 a 255     t_inverso en multiplos de 15uS (max 6,37mS)
+5           0 a 255     t_muerto_a en multiplos de 15uS (max 6,37mS)
+6           0 a 255     t_muerto_b en multiplos de 15uS (max 6,37mS)
+7           0 a 255     duty cycle del PWM en directo 
+8           0 a 255     duty cycle del PWM en directo

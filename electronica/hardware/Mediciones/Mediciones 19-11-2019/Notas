@@ -1,0 +1,38 @@
+Se modificó el driver de los PMOS
+Se usó la carga de 0,33 ohms
+
+Se configuro el PWM en 255 (constante) y se midió la tensión sobre RL, creo que 
+la alimentacion de los transistores estaba cerca de 6v
+    TEK0000.BMP
+    TEK0001.BMP
+    TEK0002.BMP
+
+Variando la tensión de alimentación de los transistores cambiaba la corriente
+que mostraba la fuente:
+Vin 6v → 0,71A
+Vin 7v → 0,71A
+Vin 8v → 0,71A
+
+NOTA: La tensión de la fuente caia mucho al activar los pulsos 
+(de 18v a 6v por ejemplo)
+TEK0009.BMP → Tensión de salida de la fuente con carga (CH2, celeste)
+TEK0010.BMP → Tensión de salida de la fuente sin carga (CH2, celeste)
+
+
+
+Se conectó la carga entre un transistor PMOS y GND, se realizaron las 
+siguientes mediciones:
+
+Vin = 6,3v
+TEK0003.BMP → RISE
+TEK0004.BMP → Fall
+
+Vin = 7v
+TEK0005.BMP → Fall
+TEK0006.BMP → Rise
+
+
+Vin = 8v
+TEK0007.BMP → Rise
+TEK0008.BMP → Fall
+
