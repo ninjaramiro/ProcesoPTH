@@ -5,32 +5,29 @@ D3: both pins shorted together -- ignoring.
 D7: both pins shorted together -- ignoring.
 WARNING: Less than two connections to node NC_01.  This node is used by D2.
 Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 9.67703e-006 to 9.67903e-006
-Heightened Def Con from 9.872e-006 to 9.873e-006
-Heightened Def Con from 9.99211e-006 to 9.99311e-006
-Heightened Def Con from 9.99931e-006 to 1.00004e-005
-Heightened Def Con from 0.000109998 to 0.000110005
-Heightened Def Con from 0.00021 to 0.000210006
-Heightened Def Con from 0.000409512 to 0.000409514
-Heightened Def Con from 0.000409768 to 0.00040977
-Heightened Def Con from 0.000409959 to 0.000409961
-Heightened Def Con from 0.000409994 to 0.000409996
-Heightened Def Con from 0.00041 to 0.000410006
+Heightened Def Con from 9.67703e-006 to 9.67803e-006
+Heightened Def Con from 9.95391e-006 to 9.95491e-006
+Heightened Def Con from 9.99902e-006 to 1.00001e-005
+Heightened Def Con from 0.00011 to 0.000110006
+Heightened Def Con from 0.000209998 to 0.000210006
+Heightened Def Con from 0.000309995 to 0.000309997
+Heightened Def Con from 0.00031 to 0.000310006
+Heightened Def Con from 0.000409999 to 0.000410005
 
-Date: Tue Nov 19 18:33:51 2019
-Total elapsed time: 0.391 seconds.
+Date: Tue Nov 26 15:58:58 2019
+Total elapsed time: 0.511 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 19123
-traniter = 19101
-tranpoints = 5307
-accept = 4082
-rejected = 1236
-matrix size = 93
-fillins = 34
+totiter = 20551
+traniter = 20529
+tranpoints = 5519
+accept = 4274
+rejected = 1253
+matrix size = 120
+fillins = 48
 solver = Normal
-Matrix Compiler1: 7.42 KB object code size  4.4/1.5/[1.1]
-Matrix Compiler2: 8.00 KB object code size  1.3/1.9/[1.3]
+Matrix Compiler1: 9.91 KB object code size  6.1/2.7/[2.7]
+Matrix Compiler2: 10.41 KB object code size  2.3/3.0/[2.1]
 

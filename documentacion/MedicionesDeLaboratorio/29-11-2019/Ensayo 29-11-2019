@@ -1,0 +1,33 @@
+29/11/2019
+Hicimos un intento de deposición con corriente pulsada.
+
+Se usó una placa de 4,3cm x 8,7cm 
+Espesor 1.55mm 
+Peso 12gramos
+
+
+Se usó aire para revolver
+
+14:56 Se inicia el proceso con los siguientes comandos: 
+    c37
+    c42 
+    PWM no se modificó
+    Alimentación de los MOS: 6v corriente 500mA
+
+15:00 La forma de onda en el osciloscopio es bastante fea. Cambiamos los tiempos
+    c310
+    c45    
+    PWM no se modificó
+    Con la misma tensión, la corriente pasó a 900mA
+
+15:15 Lo sacamos, incrementó el peso a 13gr
+
+15:23 Lo volvemos a meter
+16:23 Lo sacamos
+    No se notó un incremento en el peso.
+    Se pulió con lana metálica y se midió el espesor. El nuevo espesor es 1.6mm midiendo en varios puntos. 
+
+
+    
+
+
