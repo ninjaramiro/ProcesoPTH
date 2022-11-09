@@ -1,21 +1,21 @@
 Circuit: * C:\users\ninja\Mis Documentos\ProcesoPTH-GIT\documentacion\Simulaciones\Draft1.asc
 
-.OP point found by inspection.
+Direct Newton iteration for .op point succeeded.
 
-Date: Mon Nov 11 17:57:33 2019
-Total elapsed time: 0.048 seconds.
+Date: Mon Feb 17 19:53:16 2020
+Total elapsed time: 0.045 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2844
-traniter = 2844
-tranpoints = 1127
-accept = 1103
-rejected = 24
-matrix size = 6
+totiter = 2320
+traniter = 2303
+tranpoints = 1060
+accept = 1050
+rejected = 10
+matrix size = 8
 fillins = 0
 solver = Normal
-Matrix Compiler1: 146 bytes object code size  0.6/0.6/[0.6]
-Matrix Compiler2: 354 bytes object code size  0.6/0.6/[0.6]
+Matrix Compiler1: 246 bytes object code size  0.7/0.6/[0.6]
+Matrix Compiler2:      44 opcodes  0.6/[0.6]/0.7
 
