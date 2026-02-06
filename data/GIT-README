@@ -1,6 +1,6 @@
 clonar repositorio:
 
-git clone https://gitlab.com/so-prop-gral-cese/r.alonso.git  → Esto me baja el repositorio aunque esté vacio, me baja la estructura
+git clone https://github.com/ninjaramiro/ProcesoPTH.git  → Esto me baja el repositorio aunque esté vacio, me baja la estructura
 
 Luego modificar los archivos dentro del directorio.
 
