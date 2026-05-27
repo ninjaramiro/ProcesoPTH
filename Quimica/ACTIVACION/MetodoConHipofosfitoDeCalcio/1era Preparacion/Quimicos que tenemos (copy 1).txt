@@ -1,0 +1,23 @@
+
+27-05-2026:
+
+Generamos el hipofosfito de calcio en el laboratorio de quimica. 
+
+1) Disolvimos el cloruro de calcio en agua destilada. El compuesto resultante es similar al agua dura, por lo que no sería tóxico si se tuviese que descartar. 
+
+Calculamos que para 1kg de cloruro de calcio se necesitan 1350 cm3 de agua, para una disolucion completa (solucion saturada).
+
+(usamos aproximadamente 400cm3 de esta solucion). Es conveniente excedernos en la cantidad de esta solucion para que sea la solucion sobrante, y se aproveche todo el hipofostito de sodio.
+
+	- Tardó mucho en disolverse, razón por la cual es conveniente no preparar de más. Tuvimos que separar una parte que no usamos (sacamos unos 400cm3), y guardamos lo que sobró. Usamos un agitador para acelerar la solucion. 
+	- La solucion estaba turbia, porque el Cloruro de calcio usado era de grado técnico, es conveniente usar de grado analítico para que la solución sea mas pura y evitar el posterior filtrado que lleva mucho tiempo.
+	- Como usamos grado técnico, tuvimos que filtrar la solucion. Se usa papel de filtro y un aparato que acelera el proceso con vacío (es un proceso lento). De esta forma se aclaró bastante la solucion. Se usó un embudo Buchner y frasco kitasato, con vacío generado por efecto venturi mediante corriente de agua. 
+	
+2) En el recipiente donde finalmente hicimos la reacción, disolvimos el hipofosfito de sodio (250gr) en agua destilada. Suficiente cantidad de agua para que se disuelva, creo que usamos 1 litro aproximadamente. Revolvimos hasta que disolvieron los cristales y quedó una solucion transparente. Lo hicimos dentro de la campana, pero aparentemente no liberó nada extraño. 
+
+3) Mezclamos ambas soluciones (dentro de la campana). Se introdujo la solución de cloruro de calcio dentro del recipiente que tenía la solucion de hipofosfito de sodio. Revolvimos bien, y se generó un liquido turbio blanquecino. 
+
+Nos fuimos a tomar un café y cuando volvimos se habian formado cristales de hipofosfito de calcio en el fondo del recipiente. 
+
+4) Filtramos la solucion con los cristales para sacarle la mayor cantidad de agua posible. En el fondo del recipiente quedaron cristales pegados, sacamos todo lo que pudimos y lo pasamos por el filtro. 
+Luego de filtrar todo el liquido, volvimos a colocar el material filtrado en el recipiente que tenía cristales que quedaron pegados y lo tapamos con un papel para dejar secar. 
