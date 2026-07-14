@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Galeria de Fotos &#8211; Engenharia Caseira</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//assets.pinterest.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Engenharia Caseira &raquo;" href="https://www.engenhariacaseira.com.br/blog/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Engenharia Caseira &raquo;" href="https://www.engenhariacaseira.com.br/blog/?feed=comments-rss2" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.engenhariacaseira.com.br/blog/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.engenhariacaseira.com.br%2Fblog%2F%3Fpage_id%3D154" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.engenhariacaseira.com.br/blog/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.engenhariacaseira.com.br%2Fblog%2F%3Fpage_id%3D154&#038;format=xml" />
+ 
+<!-- WPPA+ BEGIN Facebook meta tags --> 
+<!-- WPPA+ END Facebook meta tags --> <style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='wpfb-css' href='//www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-filebase/wp-filebase.css?t=1461273348&#038;ver=3.4.4' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-color{color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-color{color: var(--wp--preset--color--contrast-3) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-base-2-color{color: var(--wp--preset--color--base-2) !important;}.has-base-3-color{color: var(--wp--preset--color--base-3) !important;}.has-accent-color{color: var(--wp--preset--color--accent) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-background-color{background-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-background-color{background-color: var(--wp--preset--color--contrast-3) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-base-2-background-color{background-color: var(--wp--preset--color--base-2) !important;}.has-base-3-background-color{background-color: var(--wp--preset--color--base-3) !important;}.has-accent-background-color{background-color: var(--wp--preset--color--accent) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-border-color{border-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-border-color{border-color: var(--wp--preset--color--contrast-3) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-base-2-border-color{border-color: var(--wp--preset--color--base-2) !important;}.has-base-3-border-color{border-color: var(--wp--preset--color--base-3) !important;}.has-accent-border-color{border-color: var(--wp--preset--color--accent) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='cookie-law-info-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.5.3' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.5.3' media='all' />
+<link rel='stylesheet' id='email-subscribers-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/plugins/email-subscribers/lite/public/css/email-subscribers-public.css?ver=5.9.29' media='all' />
+<link rel='stylesheet' id='backButtonCSS-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-back-button/css/style.css?ver=7.0.1' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='googleFonts1-css' href="https://fonts.googleapis.com/css?family=Cabin:400,500,600,bold&#038;ver=7.0.1" media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='googleFonts2-css' href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold&#038;ver=7.0.1" media='all' />
+<link rel='stylesheet' id='wppa_style-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/wppa-style.css?ver=260711-120722' media='all' />
+<style id="wppa_style-inline-css">
+
+.wppa-box {	border-style: solid; border-width:1px;border-radius:6px; -moz-border-radius:6px;margin-bottom:8px;background-color:#eeeeee;border-color:#cccccc; }
+.wppa-mini-box { border-style: solid; border-width:1px;border-radius:2px;border-color:#cccccc; }
+.wppa-cover-box {  }
+.wppa-cover-text-frame {  }
+.wppa-box-text {  }
+.wppa-box-text, .wppa-box-text-nocolor { font-weight:normal; }
+.wppa-thumb-text { font-weight:normal; }
+.wppa-nav-text { font-weight:normal; }
+.wppa-img { background-color:#eeeeee; }
+.wppa-title { font-weight:bold; }
+.wppa-fulldesc { font-weight:normal; }
+.wppa-fulltitle { font-weight:normal; }
+/*# sourceURL=wppa_style-inline-css */
+</style>
+<link rel='stylesheet' id='generate-style-grid-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/css/unsemantic-grid.min.css?ver=3.6.0' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/css/style.min.css?ver=3.6.0' media='all' />
+<style id="generate-style-inline-css">
+body{background-color:#efefef;color:#3a3a3a;}a{color:#1e73be;}a:hover, a:focus, a:active{color:#000000;}body .grid-container{max-width:1024px;}.wp-block-group__inner-container{max-width:1024px;margin-left:auto;margin-right:auto;}.generate-back-to-top{font-size:20px;border-radius:3px;position:fixed;bottom:30px;right:30px;line-height:40px;width:40px;text-align:center;z-index:10;transition:opacity 300ms ease-in-out;opacity:0.1;transform:translateY(1000px);}.generate-back-to-top__show{opacity:1;transform:translateY(0);}.navigation-search{position:absolute;left:-99999px;pointer-events:none;visibility:hidden;z-index:20;width:100%;top:0;transition:opacity 100ms ease-in-out;opacity:0;}.navigation-search.nav-search-active{left:0;right:0;pointer-events:auto;visibility:visible;opacity:1;}.navigation-search input[type="search"]{outline:0;border:0;vertical-align:bottom;line-height:1;opacity:0.9;width:100%;z-index:20;border-radius:0;-webkit-appearance:none;height:60px;}.navigation-search input::-ms-clear{display:none;width:0;height:0;}.navigation-search input::-ms-reveal{display:none;width:0;height:0;}.navigation-search input::-webkit-search-decoration, .navigation-search input::-webkit-search-cancel-button, .navigation-search input::-webkit-search-results-button, .navigation-search input::-webkit-search-results-decoration{display:none;}.main-navigation li.search-item{z-index:21;}li.search-item.active{transition:opacity 100ms ease-in-out;}.nav-left-sidebar .main-navigation li.search-item.active,.nav-right-sidebar .main-navigation li.search-item.active{width:auto;display:inline-block;float:right;}.gen-sidebar-nav .navigation-search{top:auto;bottom:0;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#1e73be;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}body, button, input, select, textarea{font-family:Verdana, Geneva, sans-serif;}body{line-height:1.5;}.entry-content > [class*="wp-block-"]:not(:last-child):not(.wp-block-heading){margin-bottom:1.5em;}.main-title{font-size:45px;}.main-navigation .main-nav ul ul li a{font-size:14px;}.sidebar .widget, .footer-widgets .widget{font-size:17px;}h1{font-weight:300;font-size:40px;}h2{font-weight:300;font-size:30px;}h3{font-size:20px;}h4{font-size:inherit;}h5{font-size:inherit;}@media (max-width:768px){.main-title{font-size:30px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#ffffff;color:#3a3a3a;}.site-header a{color:#3a3a3a;}.main-title a,.main-title a:hover{color:#222222;}.site-description{color:#757575;}.main-navigation,.main-navigation ul ul{background-color:#222222;}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:#ffffff;}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#ffffff;background-color:#3f3f3f;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#3f3f3f;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#ffffff;background-color:#3f3f3f;}.main-navigation ul ul{background-color:#3f3f3f;}.main-navigation .main-nav ul ul li a{color:#ffffff;}.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:#ffffff;}.entry-meta{color:#595959;}.entry-meta a{color:#595959;}.entry-meta a:hover{color:#1e73be;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{background-color:#ffffff;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#ffffff;background-color:#222222;}.site-info a{color:#ffffff;}.site-info a:hover{color:#606060;}.footer-bar .widget_nav_menu .current-menu-item a{color:#606060;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#666666;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#3f3f3f;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width:768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#ffffff;}}.inside-top-bar{padding:10px;}.inside-header{padding:40px;}.site-main .wp-block-group__inner-container{padding:40px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}.site-info{padding:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}.site-main .wp-block-group__inner-container{padding:30px;}.site-info{padding-right:10px;padding-left:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}}.one-container .sidebar .widget{padding:0px;}@media (max-width:768px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav{display:none;}[class*="nav-float-"] .site-header .inside-header > *{float:none;clear:both;}}
+/*# sourceURL=generate-style-inline-css */
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/css/mobile.min.css?ver=3.6.0' media='all' />
+<link rel='stylesheet' id='generate-font-icons-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/css/components/font-icons.min.css?ver=3.6.0' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/css/components/font-awesome.min.css?ver=4.7' media='all' />
+<link rel='stylesheet' id='pcs-styles-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/plugins/post-content-shortcodes/styles/default-styles.css?ver=1.0' media='screen' />
+<script id="wp-hooks-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wppa-decls-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/js/wppa-decls.js?ver=260711-150721"></script>
+<script id="wppa-decls-js-after">
+const { __ } = wp.i18n;
+
+wppaSiteUrl = "https://www.engenhariacaseira.com.br/blog",
+wppaThumbPageSize = 0,
+wppaResizeEndDelay = 200,
+wppaScrollEndDelay = 200,
+_wppaTextDelay = 800,
+wppaEasingSlide = "swing",
+wppaEasingLightbox = "swing",
+wppaEasingPopup = "swing",
+wppaUploadButtonText = "Navegar...",
+wppaOvlBigBrowse = false,
+wppaOvlSmallBrowse = true,
+wppaImageMagickDefaultAspect = "NaN",
+wppaImageDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/icons/",
+wppaWppaUrl = "https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus",
+wppaIncludeUrl = "https://www.engenhariacaseira.com.br/blog/wp-includes",
+wppaAjaxMethod = "rest",
+wppaAjaxUrl = "https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint",
+wppaAdminAjaxUrl = "https://www.engenhariacaseira.com.br/blog/wp-admin/admin-ajax.php",
+wppaUploadUrl = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa",
+wppaIsIe = false,
+wppaIsSafari = false,
+wppaSlideshowNavigationType = "icons",
+wppaSlideshowDefaultTimeout = 2.5,
+wppaAudioHeight = 28,
+wppaFilmThumbTitle = "Clique duas vezes para iniciar/parar a apresentação de slides",
+wppaClickToView = "Clique para ver",
+wppaLang = "",
+wppaVoteForMe = "Vote em mim!",
+wppaVotedForMe = "Votou em mim",
+wppaGlobalFsIconSize = "32",
+wppaFsFillcolor = "#999999",
+wppaFsBgcolor = "transparent",
+wppaFsPolicy = "lightbox",
+wppaNiceScroll = false,
+wppaNiceScrollOpts = {cursorwidth:8,
+cursoropacitymin:0.4,
+cursorcolor:'#777777',
+cursorborder:'none',
+cursorborderradius:6,
+autohidemode:'leave',
+nativeparentscrolling:false,
+preservenativescrolling:false,
+bouncescroll:false,
+smoothscroll:true,
+cursorborder:'2px solid transparent',},
+wppaVersion = "9.2.04.003",
+wppaBackgroundColorImage = "#eeeeee",
+wppaPopupLinkType = "photo",
+wppaAnimationType = "fadeover",
+wppaAnimationSpeed = 800,
+wppaThumbnailAreaDelta = 14,
+wppaTextFrameDelta = 181,
+wppaBoxDelta = 14,
+wppaFilmShowGlue = true,
+wppaMiniTreshold = 500,
+wppaRatingOnce = false,
+wppaHideWhenEmpty = false,
+wppaBGcolorNumbar = "#cccccc",
+wppaBcolorNumbar = "#cccccc",
+wppaBGcolorNumbarActive = "#333333",
+wppaBcolorNumbarActive = "#333333",
+wppaFontFamilyNumbar = "",
+wppaFontSizeNumbar = "px",
+wppaFontColorNumbar = "#777777",
+wppaFontWeightNumbar = "normal",
+wppaFontFamilyNumbarActive = "",
+wppaFontSizeNumbarActive = "px",
+wppaFontColorNumbarActive = "#777777",
+wppaFontWeightNumbarActive = "bold",
+wppaNumbarMax = "10",
+wppaNextOnCallback = false,
+wppaStarOpacity = 0.2,
+wppaEmailRequired = "required",
+wppaSlideBorderWidth = 0,
+wppaAllowAjax = true,
+wppaThumbTargetBlank = false,
+wppaRatingMax = 5,
+wppaRatingDisplayType = "graphic",
+wppaRatingPrec = 2,
+wppaStretch = false,
+wppaMinThumbSpace = 4,
+wppaThumbSpaceAuto = true,
+wppaMagnifierCursor = "magnifier-small.png",
+wppaAutoOpenComments = true,
+wppaUpdateAddressLine = true,
+wppaSlideSwipe = false,
+wppaMaxCoverWidth = 1024,
+wppaSlideToFullpopup = false,
+wppaComAltSize = 75,
+wppaBumpViewCount = true,
+wppaBumpClickCount = false,
+wppaShareHideWhenRunning = true,
+wppaFotomoto = false,
+wppaFotomotoHideWhenRunning = false,
+wppaCommentRequiredAfterVote = false,
+wppaFotomotoMinWidth = 400,
+wppaOvlHires = true,
+wppaSlideVideoStart = false,
+wppaSlideAudioStart = false,
+wppaOvlRadius = 12,
+wppaOvlBorderWidth = 8,
+wppaThemeStyles = "",
+wppaStickyHeaderHeight = 0,
+wppaRenderModal = false,
+wppaModalQuitImg = "url(https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/icons/smallcross-black.gif )",
+wppaBoxRadius = "6",
+wppaModalBgColor = "#ffffff",
+wppaUploadEdit = "classic",
+wppaSvgFillcolor = "#666666",
+wppaSvgBgcolor = "#dddddd",
+wppaOvlSvgFillcolor = "#999999",
+wppaOvlSvgBgcolor = "#ffffff",
+wppaSvgCornerStyle = "light",
+wppaHideRightClick = false,
+wppaGeoZoom = 10,
+wppaLazyLoad = false,
+wppaAreaMaxFrac = 0,
+wppaAreaMaxFracSlide = 0,
+wppaAreaMaxFracAudio = 0,
+wppaIconSizeNormal = "default",
+wppaIconSizeSlide = "default",
+wppaResponseSpeed = 0,
+wppaExtendedResizeCount = 0,
+wppaExtendedResizeDelay = 1000,
+wppaCoverSpacing = 8,
+wppaFilmonlyContinuous = false,
+wppaNoAnimateOnMobile = false,
+wppaAjaxScroll = true,
+wppaThumbSize = 100,
+wppaTfMargin = 4,
+wppaRequestInfoDialogText = "Por favor especifique sua pergunta",
+wppaThumbAspect = 0.75,
+wppaStartStopNew = false,
+wppaSlideVideoPauseStop = false,
+wppaThumbNolink = false;
+wppaOvlTxtHeight = "auto",
+wppaOvlOpacity = 0.8,
+wppaOvlOnclickType = "none",
+wppaOvlTheme = "black",
+wppaOvlAnimSpeed = 300,
+wppaOvlSlideSpeedDefault = 5000,
+wppaVer4WindowWidth = 800,
+wppaVer4WindowHeight = 600,
+wppaOvlShowCounter = true,
+wppaOvlFontFamily = "",
+wppaOvlFontSize = "10",
+wppaOvlFontColor = "",
+wppaOvlFontWeight = "bold",
+wppaOvlLineHeight = "10",
+wppaOvlVideoStart = true,
+wppaOvlAudioStart = true,
+wppaOvlSlideStartDefault = true,
+wppaOvlShowStartStop = true,
+wppaIsMobile = false,
+wppaIsIpad = false,
+wppaOvlIconSize = "32px",
+wppaOvlBrowseOnClick = false,
+wppaOvlGlobal = false,
+wppaPhotoDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/",
+wppaThumbDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/",
+wppaTempDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/temp/",
+wppaFontDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/fonts/",
+wppaOutputType = "-none-",
+wppaOvlNavIconSize = 32,
+wppaOvlVideoPauseStop = false;var
+wppaShortcodeTemplate = "&lt;div style=&quot;font-size:0;line-height:0&quot;&gt;&lt;img id=&quot;ph-14-0&quot; title=&quot;20170929_135424.jpg&quot; style=&quot;width:100%;margin:0;height:auto;&quot; width=&quot;876&quot; height=&quot;768&quot; src=&quot;https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/14.jpg?ver=1&quot; alt=&quot;20170929_135424.jpg&quot; loading=&quot;eager&quot;&gt;&lt;/div&gt;";
+wppaShortcodeTemplateId = "14.jpg";
+//# sourceURL=wppa-decls-js-after
+</script>
+<script id="jquery-core-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-form-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0"></script>
+<script id="imagesloaded-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="masonry-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/masonry.min.js?ver=4.2.2"></script>
+<script id="jquery-masonry-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"></script>
+<script id="jquery-ui-core-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-mouse-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-resizable-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-draggable-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-controlgroup-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-checkboxradio-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-button-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/button.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-dialog-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.3"></script>
+<script id="wppa-all-js-extra">
+var wppaObj = {"restUrl":"https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/","restNonce":"c14d6bf85b"};
+//# sourceURL=wppa-all-js-extra
+</script>
+<script id="wppa-all-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/js/wppa-all.js?ver=260711-150721"></script>
+<script id="nicescrollr-easing-min-js-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/vendor/jquery-easing/jquery.easing.min.js?ver=9.2.04.003"></script>
+<script id="wppa-pinterest-js" src="//assets.pinterest.com/js/pinit.js?ver=9.2.04.003"></script>
+<script id="cookie-law-info-js-extra">
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff600","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#62a329","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000000","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https://www.engenhariacaseira.com.br/blog/wp-admin/admin-ajax.php"};
+//# sourceURL=cookie-law-info-js-extra
+</script>
+<script id="cookie-law-info-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.5.3"></script>
+<script id="backButtonJS-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-back-button/js/wp-backbutton.js?ver=7.0.1"></script>
+<link rel="https://api.w.org/" href="https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp/v2/pages/154" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.engenhariacaseira.com.br/blog/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.1" />
+<link rel="canonical" href="https://www.engenhariacaseira.com.br/blog/?page_id=154" />
+<link rel='shortlink' href='https://www.engenhariacaseira.com.br/blog/?p=154' />
+<meta name="generator" content="Site Kit by Google 1.182.0" /><style type="text/css">.backButton{}.backButton .simbolo , .backButton .texto{font-size:16px !important;}</style><meta name="google-site-verification" content="ie0gd1ILHlSUyIGO6kW0hYioexlIJeT-EFKxJJuIpcY">
+<!-- Meta tags do Google AdSense adicionadas pelo Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Fim das meta tags do Google AdSense adicionadas pelo Site Kit -->
+<link rel="amphtml" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;wppa-cover=0&#038;wppa-occur=1&#038;wppa-album=85de8eb1aa9f993a&#038;amp">
+<!-- Snippet do Google AdSense adicionado pelo Site Kit -->
+<script async crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2291218559437701&#038;host=ca-host-pub-2644536267352236"></script>
+
+<!-- Fim do snippet do Google AdSense adicionado pelo Site Kit -->
+<link rel="icon" href="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem.png" />
+<meta name="msapplication-TileImage" content="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem.png" />
+</head>
+
+<body class="wp-singular page-template-default page page-id-154 wp-custom-logo wp-embed-responsive wp-theme-generatepress no-sidebar nav-below-header separate-containers fluid-header active-footer-widgets-1 nav-search-enabled nav-aligned-center header-aligned-left dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Pular para o conteúdo">Pular para o conteúdo</a>		<header class="site-header" id="masthead" aria-label="Site"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container grid-parent">
+				<div class="site-branding-container"><div class="site-logo">
+					<a href="https://www.engenhariacaseira.com.br/blog/" rel="home">
+						<img  class="header-image is-logo-image" alt="Engenharia Caseira" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2017/02/logo-e1492178162113.png" />
+					</a>
+				</div><div class="site-branding">
+						
+						<p class="site-description" itemprop="description">Faça você mesmo seus protótipos!</p>
+					</div></div>			</div>
+		</header>
+				<nav class="main-navigation sub-menu-right" id="site-navigation" aria-label="Primary"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container grid-parent">
+				<form method="get" class="search-form navigation-search" action="https://www.engenhariacaseira.com.br/blog/">
+					<input type="search" class="search-field" value="" name="s" title="Pesquisar" />
+				</form>		<div class="mobile-bar-items">
+						<span class="search-item">
+				<a aria-label="Abrir barra de pesquisa" href="#">
+									</a>
+			</span>
+		</div>
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="mobile-menu">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-menu-principal" class=" menu sf-menu"><li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-154 current_page_item menu-item-159"><a href="https://www.engenhariacaseira.com.br/blog/?page_id=154" aria-current="page">Fotos</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://www.engenhariacaseira.com.br/blog/?page_id=172">Downloads</a></li>
+<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://www.engenhariacaseira.com.br/blog/?page_id=188">Links</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="https://www.engenhariacaseira.com.br/blog/?page_id=232">Tutoriais</a></li>
+<li id="menu-item-186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186"><a href="https://www.youtube.com/channel/UCJu1Amgbn56NZENibwgQZ7Q/playlists">Youtube</a></li>
+<li class="search-item menu-item-align-right"><a aria-label="Abrir barra de pesquisa" href="#"></a></li></ul></div>			</div>
+		</nav>
+		
+	<div class="site grid-container container hfeed grid-parent" id="page">
+				<div class="site-content" id="content">
+			
+	<div class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100" id="primary">
+		<main class="site-main" id="main">
+			
+<article id="post-154" class="post-154 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+		
+			<header class="entry-header">
+				<h1 class="entry-title" itemprop="headline">Galeria de Fotos</h1>			</header>
+
+			
+		<div class="entry-content" itemprop="text">
+			<h1></h1>
+<table>
+<tbody>
+<tr>
+<td> 
+<!-- Start container 1 --><div id="wppa-modal-container-1" class="wppa-modal-container" style="position:relative;z-index:100000;" data-wppa="yes" ontouchmove="event.stopPropagation();"></div><div id="wppa-container-wrapper-1" class="alignnone wppa-container-wrapper " style="width:100%;clear:both;padding:0;position:relative;"><div id="wppa-container-1" style="width:100%;" class="wppa-container wppa-container-1 wppa-rev-9204003 wppa-prevrev-9203001 wppa-theme-9.2.04.003 wppa-api-9.2.04.003"><svg id="wppa-ajax-spin-1" class="wppa-ajax-spin uil-default" width="120px" height="120px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" stroke="" style="width:120px; height:120px; position:fixed; top:50%; margin-top:-60px; left:50%; margin-left:-60px; opacity:1; display:none; fill:#666666; background-color:#dddddd; border-radius:12px;"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(0 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(22.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.09375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(45 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.1875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(67.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.28125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(90 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(112.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.46875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(135 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.5625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(157.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.65625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(180 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.75s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(202.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.84375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(225 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.9375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(247.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.03125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(270 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(292.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.21875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(315 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.3125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(337.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.40625s" repeatCount="indefinite" ></rect></svg><input type="hidden" id="wppa-nonce-0-1" name="wppa-nonce" value="14653900e7" ><div id="wppa-bc-1" class="wppa-nav wppa-box wppa-nav-text wppa-bc" ><a href="https://www.engenhariacaseira.com.br/blog#wppa-container-1" class="wppa-nav-text b1" style="cursor:pointer" title="Engenharia Caseira">Lar</a><span class="wppa-nav-text b1"> &raquo; </span><a href="https://www.engenhariacaseira.com.br/blog/?page_id=154#wppa-container-1" class="wppa-nav-text b3" style="cursor:pointer" title="Página: Galeria de Fotos">Galeria de Fotos</a><span class="wppa-nav-text b3"> &raquo; </span><span id="bc-pname-1" class="wppa-nav-text b10"  title="">PCBs (PCIs)</span><div style="clear:both"></div></div><div id="wppa-thumb-area-1" class="wppa-box wppa-thumb-area wppa-thumb-area-1" style="overflow:auto;"><div id="wppa-popup-1" class="wppa-popup-frame wppa-thumb-text" style="max-width:2048px;"></div><div style="clear:both"></div><div id="thumbnail_frame_b9eb2b528a6a3649_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-b9eb2b528a6a3649"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-1-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=b9eb2b528a6a3649" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=b9eb2b528a6a3649&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=b9eb2b528a6a3649&#039;); return false;"><img decoding="async" id="i-b9eb2b528a6a3649-1" title="PCB001.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/1.jpg?ver=1" alt="PCB001.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;b9eb2b528a6a3649&#039;, &#039;PCB001.jpg&#039;, &#039;Trabalho feito por Alfredo R. Neves&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB001.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho feito por Alfredo R. Neves</div><div id="wppa-thumb-rat-disp-1" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_fa2aef0a14b20dc2_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-fa2aef0a14b20dc2"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-2-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=fa2aef0a14b20dc2" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=fa2aef0a14b20dc2&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=fa2aef0a14b20dc2&#039;); return false;"><img decoding="async" id="i-fa2aef0a14b20dc2-1" title="PCB002.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/2.jpg?ver=1" alt="PCB002.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;fa2aef0a14b20dc2&#039;, &#039;PCB002.jpg&#039;, &#039;Placa de Ricardo Trombetta&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB002.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Placa de Ricardo Trombetta</div><div id="wppa-thumb-rat-disp-2" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_9807f3d19bfeb5f0_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-9807f3d19bfeb5f0"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-3-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=9807f3d19bfeb5f0" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=9807f3d19bfeb5f0&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=9807f3d19bfeb5f0&#039;); return false;"><img decoding="async" id="i-9807f3d19bfeb5f0-1" title="PCB003.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/3.jpg?ver=1" alt="PCB003.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;9807f3d19bfeb5f0&#039;, &#039;PCB003.jpg&#039;, &#039;Placa de Ricardo Trombetta&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB003.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Placa de Ricardo Trombetta</div><div id="wppa-thumb-rat-disp-3" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_1ac87f97e042e2ef_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-1ac87f97e042e2ef"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-4-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=1ac87f97e042e2ef" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=1ac87f97e042e2ef&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=1ac87f97e042e2ef&#039;); return false;"><img decoding="async" id="i-1ac87f97e042e2ef-1" title="PCB004.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/4.jpg?ver=1" alt="PCB004.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;1ac87f97e042e2ef&#039;, &#039;PCB004.jpg&#039;, &#039;Placa de Ricardo Trombetta&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB004.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Placa de Ricardo Trombetta</div><div id="wppa-thumb-rat-disp-4" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_f9ba17f2126455ec_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-f9ba17f2126455ec"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-5-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=f9ba17f2126455ec" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=f9ba17f2126455ec&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=f9ba17f2126455ec&#039;); return false;"><img decoding="async" id="i-f9ba17f2126455ec-1" title="PCB005.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/5.jpg?ver=1" alt="PCB005.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;f9ba17f2126455ec&#039;, &#039;PCB005.jpg&#039;, &#039;Trabalho feito por Teruyoshi Kondo&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB005.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho feito por Teruyoshi Kondo</div><div id="wppa-thumb-rat-disp-5" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_179627e6f870d18a_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-179627e6f870d18a"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-6-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=179627e6f870d18a" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=179627e6f870d18a&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=179627e6f870d18a&#039;); return false;"><img decoding="async" id="i-179627e6f870d18a-1" title="PCB006.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/6.jpg?ver=1" alt="PCB006.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;179627e6f870d18a&#039;, &#039;PCB006.jpg&#039;, &#039;Trabalho de Júnior Zambon&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB006.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon</div><div id="wppa-thumb-rat-disp-6" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_09c198cd1e21ef45_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-09c198cd1e21ef45"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-7-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=09c198cd1e21ef45" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=09c198cd1e21ef45&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=09c198cd1e21ef45&#039;); return false;"><img decoding="async" id="i-09c198cd1e21ef45-1" title="PCB007.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/7.jpg?ver=1" alt="PCB007.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;09c198cd1e21ef45&#039;, &#039;PCB007.jpg&#039;, &#039;Trabalho de Júnior Zambon&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB007.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon</div><div id="wppa-thumb-rat-disp-7" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_485541d900f5adda_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-485541d900f5adda"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-8-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=485541d900f5adda" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=485541d900f5adda&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=485541d900f5adda&#039;); return false;"><img decoding="async" id="i-485541d900f5adda-1" title="PCB008.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/8.jpg?ver=1" alt="PCB008.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;485541d900f5adda&#039;, &#039;PCB008.jpg&#039;, &#039;Trabalho de Júnior Zambon&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">PCB008.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon</div><div id="wppa-thumb-rat-disp-8" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_1e7c5d589dd6df5e_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-1e7c5d589dd6df5e"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-9-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=1e7c5d589dd6df5e" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=1e7c5d589dd6df5e&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=1e7c5d589dd6df5e&#039;); return false;"><img decoding="async" id="i-1e7c5d589dd6df5e-1" title="20160628_084008.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 22px;margin-bottom:22px;opacity:0.95;cursor:pointer" width="150" height="84" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/9.jpg?ver=1" alt="20160628_084008.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;1e7c5d589dd6df5e&#039;, &#039;20160628_084008.jpg&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;84&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:72px;width:100px;position:absolute;margin-top:-22px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">20160628_084008.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text"></div><div id="wppa-thumb-rat-disp-9" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_f4e49d845e32ecb9_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-f4e49d845e32ecb9"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-10-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=f4e49d845e32ecb9" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=f4e49d845e32ecb9&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=f4e49d845e32ecb9&#039;); return false;"><img decoding="async" id="i-f4e49d845e32ecb9-1" title="20170921_000448.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/10.jpg?ver=1" alt="20170921_000448.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;f4e49d845e32ecb9&#039;, &#039;20170921_000448.jpg&#039;, &#039;Trabalho de Júnior Zambon&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">20170921_000448.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon</div><div id="wppa-thumb-rat-disp-10" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_7222cb80dc1a5497_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-7222cb80dc1a5497"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-11-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=7222cb80dc1a5497" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=7222cb80dc1a5497&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=7222cb80dc1a5497&#039;); return false;"><img decoding="async" id="i-7222cb80dc1a5497-1" title="20170925_193644.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/11.jpg?ver=1" alt="20170925_193644.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;7222cb80dc1a5497&#039;, &#039;20170925_193644.jpg&#039;, &#039;Trabalho de Júnior Zambon&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">20170925_193644.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon</div><div id="wppa-thumb-rat-disp-11" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_e58cffecf5a2f8e2_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-e58cffecf5a2f8e2"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-12-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=e58cffecf5a2f8e2" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=e58cffecf5a2f8e2&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=e58cffecf5a2f8e2&#039;); return false;"><img decoding="async" id="i-e58cffecf5a2f8e2-1" title="20170926_195846.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/12.jpg?ver=1" alt="20170926_195846.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;e58cffecf5a2f8e2&#039;, &#039;20170926_195846.jpg&#039;, &#039;Trabalho de Júnior Zambon&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">20170926_195846.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon</div><div id="wppa-thumb-rat-disp-12" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_08a1e921a329c9b2_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-08a1e921a329c9b2"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-13-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=08a1e921a329c9b2" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=08a1e921a329c9b2&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=08a1e921a329c9b2&#039;); return false;"><img decoding="async" id="i-08a1e921a329c9b2-1" title="20170928_210116.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 13px;margin-bottom:13px;opacity:0.95;cursor:pointer" width="150" height="113" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/13.jpg?ver=1" alt="20170928_210116.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;08a1e921a329c9b2&#039;, &#039;20170928_210116.jpg&#039;, &#039;Trabalho de Júnior Zambon&#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;113&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:63px;width:100px;position:absolute;margin-top:-13px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">20170928_210116.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon</div><div id="wppa-thumb-rat-disp-13" class="wppa-thumb-text"></div></div></div><div id="thumbnail_frame_fa902d336b61645f_1" style="width: 100px; height: 150px; margin-left: 21px; margin-top: 2px; margin-bottom: 2px;" class="thumbnail-frame thumbnail-frame-1 thumbnail-frame-photo-fa902d336b61645f"><div style="height:100px;width:100px;overflow:visible;text-align:center;" class="wppa-tn-img-container"><a id="x-14-1" style="position:static;" href="https://www.engenhariacaseira.com.br/blog/?page_id=154&#038;lang=pt&#038;slide=1&#038;occur=1&#038;album=85de8eb1aa9f993a&#038;photo=fa902d336b61645f" class="thumb-img" onclick="wppaDoAjaxRender(event,1,&#039;https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint?action=wppa&wppa-action=render&wppa-size=640&occur=1&page_id=154&wppa-fromp=154&lang=pt&slide=1&occur=1&album=2&photo=fa902d336b61645f&#039;,&#039;https://www.engenhariacaseira.com.br/blog/?page_id=154&lang=pt&slide=1&occur=1&album=85de8eb1aa9f993a&photo=fa902d336b61645f&#039;); return false;"><img decoding="async" id="i-fa902d336b61645f-1" title="20170929_135424.jpg" style="border-width:0px;width:100px;height:auto;margin-top: 6px;margin-bottom:6px;opacity:0.95;cursor:pointer" width="150" height="132" src="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/14.jpg?ver=1" alt="20170929_135424.jpg" onmouseover="jQuery(this).fadeTo(400, 1.0);if (wppaPopUp) wppaPopUp( 1, this, &#039;fa902d336b61645f&#039;, &#039;20170929_135424.jpg&#039;, &#039;Trabalho de Júnior Zambon &#039;, &#039;&#039;, &#039;&#039;, &#039;&#039;, &#039;150&#039;, &#039;132&#039; ); " onmouseout="jQuery(this).fadeTo(400, 0.95);" loading="eager"></a></div><div style="height:56px;width:100px;position:absolute;margin-top:-6px;overflow:hidden;" class="thumbnail-subtext-frame"><div class="wppa-thumb-text">20170929_135424.jpg</div><div class="wppa-thumb-text"></div><div class="wppa-thumb-text">Trabalho de Júnior Zambon </div><div id="wppa-thumb-rat-disp-14" class="wppa-thumb-text"></div></div></div><div class="wppa-clear"></div></div><div style="clear:both;"></div><div id="wppa-container-1-end"></div></div></div>
+<!-- End [wppa] /blog/?page_id=154&lang=pt&wppa-cover=0&wppa-occur=1&wppa-album=85de8eb1aa9f993a oc 1 25 queries in 48.9 ms. at 13:00. Max mem: 9.50 Mb. --></td>
+</tr>
+</tbody>
+</table>
+<div style="clear:both;"></div>		</div>
+
+			</div>
+</article>
+		</main>
+	</div>
+
+	
+	</div>
+</div>
+
+
+<div class="site-footer grid-container grid-parent">
+				<div id="footer-widgets" class="site footer-widgets">
+				<div class="footer-widgets-container grid-container grid-parent">
+					<div class="inside-footer-widgets">
+							<div class="footer-widget-1 grid-parent grid-100 tablet-grid-50 mobile-grid-100">
+		<aside id="text-5" class="widget inner-padding widget_text">			<div class="textwidget"><center>Atendimento: 9h-17h - Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="53363d34363d3b32213a32303220363a213213343e323a3f7d303c3e">[email&#160;protected]</a></center></div>
+		</aside>	</div>
+						</div>
+				</div>
+			</div>
+					<footer class="site-info" aria-label="Site"  itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					<span class="copyright">&copy; 2026 Engenharia Caseira</span> &bull; Built with <a href="https://generatepress.com" itemprop="url">GeneratePress</a>				</div>
+			</div>
+		</footer>
+		</div>
+
+<a title="Voltar ao topo" aria-label="Voltar ao topo" rel="nofollow" href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300" role="button">
+					
+				</a> 
+<!-- Facebook Comments for WPPA+ --><div id="fb-root"></div><!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span>Nosso site usa cookies para melhor sua experiência. Assumimos que você concorda com isto , mas você pode recusar.  <a role="button" class="cli_settings_button" style="margin:5px 20px 5px 20px">Configurar</a><a role="button" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" style="display:inline-block;margin:5px">ACEITAR</a><a role="button" id="cookie_action_close_header_reject" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button wt-cli-reject-btn" data-cli_action="reject" style="margin:5px">Rejeitar</a></span></div><div id="cookie-law-info-again" style="display:none" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacidade e Política de Cookies</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Fechar</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Mostrar mais" role="button" data-readmore-text="Mostrar mais" data-readless-text="Mostrar menos"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+																						<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked" />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Sempre ativado</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+																						<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked='checked' />
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Ativado" data-cli-disable="Desativado"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SALVAR E ACEITAR</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><div class="gtranslate_wrapper" id="gt-wrapper-14489372"></div>                    <div class="backButton Right forceShow transition" style="display:block">
+                         <a href="https://www.engenhariacaseira.com.br/blog/?page_id=154&amp;lang=pt&amp;slide=1&amp;occur=1&amp;album=85de8eb1aa9f993a&amp;photo=b9eb2b528a6a3649" title="Voltar"><div class="simbolo"></div><div class="texto">Voltar</div></a>
+                    </div>
+
+                <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id="generate-a11y">
+!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("pointerdown",(function(){e.classList.add("using-mouse")}),{passive:!0}),e.addEventListener("keydown",(function(){e.classList.remove("using-mouse")}),{passive:!0})}}();
+</script>
+<script id="wppa-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/js/wppa.js?ver=dummy"></script>
+<script id="wppa-js-after">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Unimplemented virtual album":["\u00c1lbum virtual n\u00e3o implementado"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"]}},"comment":{"reference":"js\/wppa-tinymce-shortcodes.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Select the photo to show":["Selecione a foto para mostrar"],"WPPA+ Photo":["Foto WPPA+"],"Enter widget caption":["Insira a legenda do widget"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"]}},"comment":{"reference":"blocks\/photo\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Avg":["M\u00e9dia"],"Next":["Pr\u00f3ximo"],"Previous":["Anterior"],"Stop":["Parar"],"of":["de"],"Previous photo":["Foto anterior"],"Next photo":["Pr\u00f3xima foto"],"Mine":["Meu"],"Please enter a comment":["Por favor insira um coment\u00e1rio"],"Please enter a valid email address":["Por favor insira um endere\u00e7o de e-mail v\u00e1lido"],"Please enter your name":["Por favor, insira seu nome"],"My&nbsp;rating":["Minha classifica\u00e7\u00e3o"],"Average&nbsp;rating":["Classifica\u00e7\u00e3o m\u00e9dia"],"Start":["Come\u00e7ar"],"Photo":["Foto"],"Slideshow":["Apresenta\u00e7\u00e3o de slides"]}},"comment":{"reference":"js\/wppa-slideshow.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Avg":["M\u00e9dia"],"Server error.":["Erro de servidor."],"Processing...":["Em processamento..."],"Done!":["Feito!"],"of":["de"],"Mine":["Meu"],"My&nbsp;rating":["Minha classifica\u00e7\u00e3o"],"Average&nbsp;rating":["Classifica\u00e7\u00e3o m\u00e9dia"],"Upload failed":["Falha no upload"],"Photo":["Foto"]}},"comment":{"reference":"js\/wppa-main.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Unimplemented virtual album":["\u00c1lbum virtual n\u00e3o implementado"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"]}},"comment":{"reference":"js\/wppa-gutenberg-wppa.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"The server could not complete the request. Please try again.":["O servidor n\u00e3o p\u00f4de concluir a solicita\u00e7\u00e3o. Por favor, tente novamente."],"Attention":["Aten\u00e7\u00e3o"],"Error Code":["Erro de c\u00f3digo"],"Page will be reloaded":["A p\u00e1gina ser\u00e1 recarregada"],"Unexpected output":["Sa\u00edda inesperada"],"Frontend Ajax request failed. Try a different setting in Advanced settings -> System -> I -> Item 5":["Falha na solicita\u00e7\u00e3o do front-end Ajax. Tente uma configura\u00e7\u00e3o diferente em Configura\u00e7\u00f5es avan\u00e7adas -> Sistema -> I -> Item 5"],"Avg":["M\u00e9dia"],"Please specify your question":["Por favor especifique sua pergunta"],"Server error.":["Erro de servidor."],"Processing...":["Em processamento..."],"Send":["Enviar"],"Done!":["Feito!"],"Next":["Pr\u00f3ximo"],"Cancel":["Cancelar"],"Previous":["Anterior"],"Stop":["Parar"],"of":["de"],"Previous photo":["Foto anterior"],"Next photo":["Pr\u00f3xima foto"],"Mine":["Meu"],"Please enter a comment":["Por favor insira um coment\u00e1rio"],"Please enter a valid email address":["Por favor insira um endere\u00e7o de e-mail v\u00e1lido"],"Please enter your name":["Por favor, insira seu nome"],"My&nbsp;rating":["Minha classifica\u00e7\u00e3o"],"Average&nbsp;rating":["Classifica\u00e7\u00e3o m\u00e9dia"],"Start":["Come\u00e7ar"],"Error":["Erro"],"Upload failed":["Falha no upload"],"Photo":["Foto"],"Slideshow":["Apresenta\u00e7\u00e3o de slides"]}},"comment":{"reference":"js\/wppa-all.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Processing...":["Em processamento..."],"Done!":["Feito!"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"],"ERROR: unable to upload files.":["ERRO: n\u00e3o \u00e9 poss\u00edvel fazer upload de arquivos."]}},"comment":{"reference":"js\/wppa-tinymce-photo.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Delay this block":["Atrasar este bloqueio"],"Timeout in seconds ( 0 means use default )":["Tempo limite em segundos (0 significa usar padr\u00e3o)"],"Select an album":["Selecione um \u00e1lbum"],"--- The last added album ---":["--- O \u00faltimo \u00e1lbum adicionado ---"],"Enter widget caption":["Insira a legenda do widget"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"],"Cache uses WPPA embedded smart cache":["Cache usa cache inteligente incorporado WPPA"],"Cache this block":["Armazenar este bloco em cache"],"Add filmstrip":["Adicionar tira de filme"],"WPPA+ Simple slideshow":["WPPA+ Apresenta\u00e7\u00e3o de slides simples"],"WPPA+ Slideshow":["Apresenta\u00e7\u00e3o de slides WPPA+"],"Slideshow":["Apresenta\u00e7\u00e3o de slides"]}},"comment":{"reference":"blocks\/slideshow\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Enter widget caption":["Insira a legenda do widget"],"Show to admin only?":["Mostrar apenas para o administrador?"],"Show to logged in users only?":["Mostrar apenas para usu\u00e1rios logados?"],"If you want to limit uploads to a specific album, select it here":["Se voc\u00ea quiser limitar os uploads para um \u00e1lbum espec\u00edfico, selecione-o aqui"],"WPPA Upload form":["Formul\u00e1rio de upload WPPA"],"--- A selectionbox with all albums the user may upload to ---":["--- Uma caixa de sele\u00e7\u00e3o com todos os \u00e1lbuns para os quais o usu\u00e1rio pode enviar ---"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"],"WPPA+ upload":["Carregar WPPA+"]}},"comment":{"reference":"blocks\/upload\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Close!":["Fechar!"],"Update":["Atualizar"],"Import":["Importar"],"Upload to this album":["Carregar para este \u00e1lbum"]}},"comment":{"reference":"js\/wppa-admin-scripts.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"WPPA+ Potd":["WPPA+ Potd"],"Enter widget caption":["Insira a legenda do widget"],"WPPA Photo of the day":["Foto do dia WPPA"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"]}},"comment":{"reference":"blocks\/potd\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Delay this block":["Atrasar este bloqueio"],"Timeout in seconds ( 0 means use default )":["Tempo limite em segundos (0 significa usar padr\u00e3o)"],"WPPA media display":["Exibi\u00e7\u00e3o de m\u00eddia WPPA"],"Select an album":["Selecione um \u00e1lbum"],"--- The last added album ---":["--- O \u00faltimo \u00e1lbum adicionado ---"],"Enter widget caption":["Insira a legenda do widget"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"],"Cache uses WPPA embedded smart cache":["Cache usa cache inteligente incorporado WPPA"],"Cache this block":["Armazenar este bloco em cache"],"Add filmstrip":["Adicionar tira de filme"]}},"comment":{"reference":"blocks\/general\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Processing...":["Em processamento..."],"Done!":["Feito!"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"],"ERROR: unable to upload files.":["ERRO: n\u00e3o \u00e9 poss\u00edvel fazer upload de arquivos."]}},"comment":{"reference":"js\/wppa-tinymce-photo-front.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"The server could not complete the request. Please try again.":["O servidor n\u00e3o p\u00f4de concluir a solicita\u00e7\u00e3o. Por favor, tente novamente."],"Attention":["Aten\u00e7\u00e3o"],"Error Code":["Erro de c\u00f3digo"],"Page will be reloaded":["A p\u00e1gina ser\u00e1 recarregada"],"Unexpected output":["Sa\u00edda inesperada"],"Frontend Ajax request failed. Try a different setting in Advanced settings -> System -> I -> Item 5":["Falha na solicita\u00e7\u00e3o do front-end Ajax. Tente uma configura\u00e7\u00e3o diferente em Configura\u00e7\u00f5es avan\u00e7adas -> Sistema -> I -> Item 5"],"Please specify your question":["Por favor especifique sua pergunta"],"Send":["Enviar"],"Cancel":["Cancelar"],"Error":["Erro"]}},"comment":{"reference":"js\/wppa-ajax-front.js"}});
+ jQuery("body").append(' <div id="wppa-overlay-bg" style="text-align:center;display:none;position:fixed;top:0;left:0;width:100%;height:100%;background-color:black;opacity:0.8;" onclick="wppaOvlOnclick(event)" onwheel="return false;" onscroll="return false;"><div id="wppa-ovl-dbg-msg" style="position:fixed;top:0;left:0;padding:0 4px;background-color:white;color:black"></div></div><div id="wppa-overlay-ic" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-pc" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-fpc" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-zpc" onwheel="return false;" onscroll="return false;"></div><img id="wppa-pre-prev" style="position:fixed;left:0;top:50%;width:100px;visibility:hidden" class="wppa-preload wppa-ovl-preload"><img id="wppa-pre-next" style="position:fixed;right:0;top:50%;width:100px;visibility:hidden" class="wppa-preload wppa-ovl-preload"><img id="wppa-pre-curr" style="position:fixed;left:0;top:0;visibility:hidden" class="wppa-preload-curr wppa-ovl-preload"><svg id="wppa-ovl-spin" class="wppa-spinner uil-default" width="120px" height="120px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" stroke="" style="width:120px; height:120px; position:fixed; top:50%; margin-top:-60px; left:50%; margin-left:-60px; opacity:1; display:none; fill:#999999; background-color:#ffffff; border-radius:12px;"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(0 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(22.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.09375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(45 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.1875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(67.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.28125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(90 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(112.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.46875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(135 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.5625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(157.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.65625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(180 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.75s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(202.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.84375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(225 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.9375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(247.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.03125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(270 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(292.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.21875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(315 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.3125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(337.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.40625s" repeatCount="indefinite" ></rect></svg>');
+ jQuery("body").append('<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="14653900e7" ><input type="hidden" id="wppa-qr-nonce" name="wppa-qr-nonce" value="46639021e2" >');
+
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+jQuery(document).ready(function(){/* START OCCURRANCE 1 */;wppaAutoColumnWidth[1] = true;wppaAutoColumnFrac[1] = 1.0;wppaColWidth[1] = 0;wppaMCRWidth[1] = 0;wppaTopMoc = Math.max(wppaTopMoc,1);wppaMasonryCols[1] = 0;wppaCoverImageResponsive[1] = false;wppaAspectRatio[1] = 0.75;wppaFullSize[1] = 640;wppaFullFrameDelta[1] = 0;wppaFilmStripLength[1] = 554;wppaThumbnailPitch[1] = 104;wppaFilmStripMargin[1] = 2;wppaFilmStripAreaDelta[1] = 98;wppaPreambule[1] = 6;wppaIsMini[1] = false;wppaSlideBlank[1] = false;wppaSlideWrap[1] = true;wppaLightBox[1] = "xxx";wppaSearchBoxSelItems[1] = 1;wppaFilmInit[1] = false;wppaMaxOccur = Math.max( wppaMaxOccur, 1 );jQuery(window).trigger("resize");})
+//# sourceURL=wppa-js-after
+</script>
+<script id="email-subscribers-js-extra">
+var es_data = {"messages":{"es_empty_email_notice":"Please enter email address","es_rate_limit_notice":"You need to wait for some time before subscribing again","es_single_optin_success_message":"Successfully Subscribed.","es_email_exists_notice":"Email Address already exists!","es_unexpected_error_notice":"Oops.. Unexpected error occurred.","es_invalid_email_notice":"Invalid email address","es_try_later_notice":"Please try after some time"},"es_ajax_url":"https://www.engenhariacaseira.com.br/blog/wp-admin/admin-ajax.php"};
+//# sourceURL=email-subscribers-js-extra
+</script>
+<script id="email-subscribers-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js?ver=5.9.29"></script>
+<script id="generate-menu-js-before">
+var generatepressMenu = {"toggleOpenedSubMenus":true,"openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+//# sourceURL=generate-menu-js-before
+</script>
+<script id="generate-menu-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.0"></script>
+<script id="generate-navigation-search-js-before">
+var generatepressNavSearch = {"open":"Abrir barra de pesquisa","close":"Fechar barra de pesquisa"};
+//# sourceURL=generate-navigation-search-js-before
+</script>
+<script id="generate-navigation-search-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/js/navigation-search.min.js?ver=3.6.0"></script>
+<script id="generate-back-to-top-js-before">
+var generatepressBackToTop = {"smooth":true};
+//# sourceURL=generate-back-to-top-js-before
+</script>
+<script id="generate-back-to-top-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/themes/generatepress/assets/js/back-to-top.min.js?ver=3.6.0"></script>
+<script id="gt_widget_script_14489372-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['14489372'] = {"default_language":"pt","languages":["ar","zh-CN","nl","en","fr","de","id","it","ko","pt","ru","es","th","uk","vi"],"url_structure":"none","flag_style":"2d","flag_size":24,"wrapper_selector":"#gt-wrapper-14489372","alt_flags":{"en":"canada","pt":"brazil","es":"colombia","fr":"quebec"},"switcher_open_direction":"top","switcher_horizontal_position":"right","switcher_vertical_position":"top","switcher_text_color":"#666","switcher_arrow_color":"#666","switcher_border_color":"#ccc","switcher_background_color":"#fff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#fff","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/blog\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_14489372-js-before
+</script><script src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/gtranslate/js/dwf.js?ver=3.1.1" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/blog/" data-gt-orig-domain="www.engenhariacaseira.com.br" data-gt-widget-id="14489372" defer></script><script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.engenhariacaseira.com.br/blog/wp-includes/js/wp-emoji-release.min.js?ver=7.0.1"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.engenhariacaseira.com.br/blog/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>

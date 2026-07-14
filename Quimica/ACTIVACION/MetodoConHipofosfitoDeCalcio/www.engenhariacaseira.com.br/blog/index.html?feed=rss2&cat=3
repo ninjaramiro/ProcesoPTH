@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Como fazer PCI &#8211; Engenharia Caseira</title>
+	<atom:link href="https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;cat=3" rel="self" type="application/rss+xml" />
+	<link>https://www.engenhariacaseira.com.br/blog</link>
+	<description>Faça você mesmo seus protótipos!</description>
+	<lastBuildDate>Fri, 22 Nov 2019 15:06:59 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+
+<image>
+	<url>https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem-100x100.png</url>
+	<title>Como fazer PCI &#8211; Engenharia Caseira</title>
+	<link>https://www.engenhariacaseira.com.br/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Melhorias no processo de ativação dos furos para a metalização. (Swell-And-Etch)</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=31</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=31#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Sat, 21 Sep 2013 22:56:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Pessoal, estou atualmente testando uma solução totalmente química para a metalização dos furos da PCB. A novidade é que o catalizador não usa paládio e sim um outro metal mais em conta. Assim que eu terminar os testes e se os resultados forem positivos, postarei aqui todo o processo bem como a fórmula das soluções ... <a title="Melhorias no processo de ativação dos furos para a metalização. (Swell-And-Etch)" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=31" aria-label="Read more about Melhorias no processo de ativação dos furos para a metalização. (Swell-And-Etch)">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=31</wfw:commentRss>
+			<slash:comments>21</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 10 &#8211; Fotolito</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=32</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=32#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2013 14:17:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Olá pessoal! Faz tempo que não posto nada por falta de tempo. Hoje consegui um tempinho para postar algo importante que é o fotolito. Muita gente usa impressora laser acreditando que terá a melhor qualidade. Hoje em dia dificilmente se usa imagesetter para se fazer fotolitos. Na maioria dos casos eles são feitos usando plotters ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 10 &#8211; Fotolito" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=32" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 10 &#8211; Fotolito">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=32</wfw:commentRss>
+			<slash:comments>35</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 9 &#8211; Deposição de estanho</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=34</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=34#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2013 23:12:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Pessoal, neste post vou mostrar como fazer uma solução para deposição de estanho sem eletricidade. Esta formula foi enviada para mim pelo Sergiy da Ucrania, o mesmo autor do post original do Instructables sobre a solução ativadora a base de hipofosfito. Mais uma vez, obrigado Sergiy! Muitas pessoas, inclusive eu, estavam tendo problemas usando soluções ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 9 &#8211; Deposição de estanho" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=34" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 9 &#8211; Deposição de estanho">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=34</wfw:commentRss>
+			<slash:comments>48</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 8 &#8211; Dry-Film</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=35#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2013 11:51:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Pessoal, neste post mostro todo o processo para fazer as placas desde a furação até a finalização usando dryfilm. Algumas etapas como metalização não foram mostradas pois já vimos em outro post.  Algumas formulas como a solução para corrosão reciclável a base de cloreto de cobre, bem como a solução para deposição de estanho sem ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 8 &#8211; Dry-Film" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=35" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 8 &#8211; Dry-Film">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=35</wfw:commentRss>
+			<slash:comments>56</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 7 &#8211; Processos fotográficos</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=36</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=36#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2013 00:36:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Depois de aprender a fazer a solução ativadora de furos e de fazer a eletrodeposição de cobre, chegou a hora de aprendermos um pouco sobre o processo fotográfico.   Antigamente e ainda hoje alguns hobbystas usam caneta para retroprojetor para desenhar as trilhas e depois corroer no percloreto de ferro. Depois de algum tempo surgiu ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 7 &#8211; Processos fotográficos" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=36" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 7 &#8211; Processos fotográficos">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=36</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 6 – Eletrodeposição com Pulso e Pulso Reverso</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=38#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Sun, 19 May 2013 01:03:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Vimos anteriormente que para que a superfície do objeto que está sendo chapeado com cobre fique o mais suave possível, são usados aditivos na solução a base de sulfato de cobre que controlam a deposição e são chamados de &#8220;brighteners&#8221;. Podemos fazer isto eletronicamente se pudermos manipular a forma de onda e aplicar na deposição. ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 6 – Eletrodeposição com Pulso e Pulso Reverso" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=38" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 6 – Eletrodeposição com Pulso e Pulso Reverso">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=38</wfw:commentRss>
+			<slash:comments>67</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 5 – Produzindo Hipofosfito de Cálcio em Casa</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=39</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=39#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2013 00:14:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Atenção: Todo o conteúdo deste artigo é destinado apenas para fins educacionais e poderá ser seguido por qualquer pessoa que seja capacitada desde que em ambientes adequados e usando todos os equipamentos de segurança necessários como respiradores, óculos de proteção, luvas, extintores, etc. Não sou químico, estou apenas descrevendo os procedimentos de domínio público que encontrei ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 5 – Produzindo Hipofosfito de Cálcio em Casa" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=39" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 5 – Produzindo Hipofosfito de Cálcio em Casa">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=39</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 4 – Solução para a eletrodeposição de cobre</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=40</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=40#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Wed, 24 Apr 2013 10:41:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Nos últimos posts mostrei como preparar e usar a solução para ativar as paredes dos furos e torná-las condutoras. Neste post vou mostrar como preparar e usar a solução para eletrodeposição de cobre na placa com a parede dos furos já ativos. Nos últimos posts mostrei como preparar e usar a solução para ativar as ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 4 – Solução para a eletrodeposição de cobre" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=40" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 4 – Solução para a eletrodeposição de cobre">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=40</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 3.1 – Metalizando os furos da PCI</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=41</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=41#respond</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Fri, 19 Apr 2013 17:53:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Este post é uma continuação do post anterior e mostra um vídeo com todos os procedimentos para ativar e metalizar os furos de uma placa de circuito. Neste método é usado uma solução baseada em hipofosfito de cobre para tornar a parede dos furos condutora e uma solução a base de sulfato de cobre para a ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 3.1 – Metalizando os furos da PCI" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=41" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 3.1 – Metalizando os furos da PCI">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=41</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 3 – Metalizando os furos da PCI</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=42</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=42#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Thu, 18 Apr 2013 00:41:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[No último post falei que iria postar como fazer o hipofosfito de cálcio a partir de outros reagentes mais em conta, porém achei melhor primeiro postar uma demonstração de todo o processo de metalização dos furos de uma PCB usando a solução descrita no post anterior. pci com os furos já metalizados com cobre pci ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 3 – Metalizando os furos da PCI" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=42" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 3 – Metalizando os furos da PCI">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=42</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

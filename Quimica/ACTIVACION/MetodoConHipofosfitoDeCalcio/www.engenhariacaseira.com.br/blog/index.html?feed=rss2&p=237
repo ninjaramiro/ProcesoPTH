@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Projeto E-Plater v2.0 para eletrodeposição pulsada	</title>
+	<atom:link href="https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=237" rel="self" type="application/rss+xml" />
+	<link>https://www.engenhariacaseira.com.br/blog/?p=237</link>
+	<description>Faça você mesmo seus protótipos!</description>
+	<lastBuildDate>Fri, 22 Nov 2019 14:56:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+	<item>
+		<title>
+		Por: karim saad		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=237#comment-421</link>
+
+		<dc:creator><![CDATA[karim saad]]></dc:creator>
+		<pubDate>Thu, 03 May 2018 11:03:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=237#comment-421</guid>
+
+					<description><![CDATA[how you determine the frequency needed for the plating and the on and off times also how to determine the current needed to finish the plating of a certine plate and so the overall time]]></description>
+			<content:encoded><![CDATA[<p>how you determine the frequency needed for the plating and the on and off times also how to determine the current needed to finish the plating of a certine plate and so the overall time</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

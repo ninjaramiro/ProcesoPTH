@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 6 – Eletrodeposição com Pulso e Pulso Reverso	</title>
+	<atom:link href="https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=38" rel="self" type="application/rss+xml" />
+	<link>https://www.engenhariacaseira.com.br/blog/?p=38</link>
+	<description>Faça você mesmo seus protótipos!</description>
+	<lastBuildDate>Fri, 22 Nov 2019 15:05:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+	<item>
+		<title>
+		Por: karim saad		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-420</link>
+
+		<dc:creator><![CDATA[karim saad]]></dc:creator>
+		<pubDate>Wed, 02 May 2018 15:24:38 +0000</pubDate>
+		<guid isPermaLink="false">#comment-420</guid>
+
+					<description><![CDATA[i can&#039;t understand the code so i can&#039;t write it again for atmel microcontroller ..any help??]]></description>
+			<content:encoded><![CDATA[<p>i can&#8217;t understand the code so i can&#8217;t write it again for atmel microcontroller ..any help??</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-324</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2016 12:14:28 +0000</pubDate>
+		<guid isPermaLink="false">#comment-324</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=38#comment-322&quot;&gt;renatotorresa&lt;/a&gt;.
+
+Olá Renato. Por favor leia o artigo &lt;a href=&quot;http://www.engenhariacaseira.com.br/blog/?p=38&quot; target=&quot;_blank&quot;&gt;http://www.engenhariacaseira.com.br/blog/?p=38&lt;/a&gt;. Lá tem o link para o fonte do E-Plater com PIC. Lembro que o e-plater shield para arduino ainda não está pronto, portanto o fonte também não está disponível.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=38#comment-322">renatotorresa</a>.</p>
+<p>Olá Renato. Por favor leia o artigo <a href="http://www.engenhariacaseira.com.br/blog/?p=38" target="_blank">http://www.engenhariacaseira.com.br/blog/?p=38</a>. Lá tem o link para o fonte do E-Plater com PIC. Lembro que o e-plater shield para arduino ainda não está pronto, portanto o fonte também não está disponível.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: renatotorresa		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-322</link>
+
+		<dc:creator><![CDATA[renatotorresa]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2016 03:43:37 +0000</pubDate>
+		<guid isPermaLink="false">#comment-322</guid>
+
+					<description><![CDATA[Caro Ricardo, o link http://bit.ly/1RZxzNs dá o código 404. Onde posso obter os códigos fonte do aparelho em lide? Obrigado.]]></description>
+			<content:encoded><![CDATA[<p>Caro Ricardo, o link <a href="http://bit.ly/1RZxzNs" rel="nofollow ugc">http://bit.ly/1RZxzNs</a> dá o código 404. Onde posso obter os códigos fonte do aparelho em lide? Obrigado.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: guigobass		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-319</link>
+
+		<dc:creator><![CDATA[guigobass]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2016 11:05:02 +0000</pubDate>
+		<guid isPermaLink="false">#comment-319</guid>
+
+					<description><![CDATA[hola de nuevo...jajajajaaa, haciendo cálculos siendo que si sea posible lograr cargas de algo menos de 100A con dos mj11033 y dos irlz44 en paralelo para A-K, se deben colocar 20 resistencias en paralelo de 0.1ohm logrando 0.005ohm, no se que tan practico sea esto la verdad no conozco otra solución, la electrónica de potencia no la he estudiado y pues ahí te dejo la pregunta, si sera posible que esta idea funcione?]]></description>
+			<content:encoded><![CDATA[<p>hola de nuevo&#8230;jajajajaaa, haciendo cálculos siendo que si sea posible lograr cargas de algo menos de 100A con dos mj11033 y dos irlz44 en paralelo para A-K, se deben colocar 20 resistencias en paralelo de 0.1ohm logrando 0.005ohm, no se que tan practico sea esto la verdad no conozco otra solución, la electrónica de potencia no la he estudiado y pues ahí te dejo la pregunta, si sera posible que esta idea funcione?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: guigobass		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-318</link>
+
+		<dc:creator><![CDATA[guigobass]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2016 05:29:39 +0000</pubDate>
+		<guid isPermaLink="false">#comment-318</guid>
+
+					<description><![CDATA[hola...
+
+mira yo pensé que de pronto, colocando en paralelo dos MJ11033 y dos IRLZ44 sumando un total de cuatro MJ11033 y cuatro IRLZ44 cada par para &quot;A y K&quot; respectivamente, podríamos trabajar con cargas de menos de 100A, los MJ11033 pueden disipar hasta 50A igualmente los IRLZ44, igualmente, necesitaremos 10 resistencias en paralelo de 0.1ohm a 10 WATTS, tendríamos la suficiente potencia de disipación . es esto correcto o que podría fallar en un diseño así.]]></description>
+			<content:encoded><![CDATA[<p>hola&#8230;</p>
+<p>mira yo pensé que de pronto, colocando en paralelo dos MJ11033 y dos IRLZ44 sumando un total de cuatro MJ11033 y cuatro IRLZ44 cada par para &#8220;A y K&#8221; respectivamente, podríamos trabajar con cargas de menos de 100A, los MJ11033 pueden disipar hasta 50A igualmente los IRLZ44, igualmente, necesitaremos 10 resistencias en paralelo de 0.1ohm a 10 WATTS, tendríamos la suficiente potencia de disipación . es esto correcto o que podría fallar en un diseño así.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-317</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2016 17:14:33 +0000</pubDate>
+		<guid isPermaLink="false">#comment-317</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=38#comment-314&quot;&gt;guigobass&lt;/a&gt;.
+
+Olá! Acredito que seria uma ótima escolha. Poderia usar mais que um transistor para elevar a corrente e usar resistores para balancear a diferença de ganho entre eles.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=38#comment-314">guigobass</a>.</p>
+<p>Olá! Acredito que seria uma ótima escolha. Poderia usar mais que um transistor para elevar a corrente e usar resistores para balancear a diferença de ganho entre eles.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-316</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2016 17:12:39 +0000</pubDate>
+		<guid isPermaLink="false">#comment-316</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=38#comment-314&quot;&gt;guigobass&lt;/a&gt;.
+
+Olá!
+Você pode aumentar a potência do e-plater ligando mais transistores em paralelo. Usar FETs na parte superior de uma ponte não é tão simples (veja http://www.armory.com/~rstevew/Public/Motors/H-Bridges/Blanchard/nch-brdg.htm). A solução mais simples realmente seria usar vários transistores PNP em paralelo, adicionando um resistor com valor baixo (ex. 0r33) no coletor de cada transistor para balancear a diferença de ganho que existe entre eles e deste modo não sobrecarregar algum transistor. Uma boa escolha seria o TIP147.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=38#comment-314">guigobass</a>.</p>
+<p>Olá!<br />
+Você pode aumentar a potência do e-plater ligando mais transistores em paralelo. Usar FETs na parte superior de uma ponte não é tão simples (veja <a href="http://www.armory.com/~rstevew/Public/Motors/H-Bridges/Blanchard/nch-brdg.htm" rel="nofollow ugc">http://www.armory.com/~rstevew/Public/Motors/H-Bridges/Blanchard/nch-brdg.htm</a>). A solução mais simples realmente seria usar vários transistores PNP em paralelo, adicionando um resistor com valor baixo (ex. 0r33) no coletor de cada transistor para balancear a diferença de ganho que existe entre eles e deste modo não sobrecarregar algum transistor. Uma boa escolha seria o TIP147.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: guigobass		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-315</link>
+
+		<dc:creator><![CDATA[guigobass]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2016 03:46:31 +0000</pubDate>
+		<guid isPermaLink="false">#comment-315</guid>
+
+					<description><![CDATA[me ayudan?....
+
+sera que con el par irlz44 y mj11033, se podría utilizar la lógica del E-plater y aumentar la potencia un poco menos de 50Amp, ya que estos transistores soportan hasta 50Amp?...
+
+habria tambien que aumentar la potencia de R14, R15 y R16 por lo menos a 50W cada una. es posible?...]]></description>
+			<content:encoded><![CDATA[<p>me ayudan?&#8230;.</p>
+<p>sera que con el par irlz44 y mj11033, se podría utilizar la lógica del E-plater y aumentar la potencia un poco menos de 50Amp, ya que estos transistores soportan hasta 50Amp?&#8230;</p>
+<p>habria tambien que aumentar la potencia de R14, R15 y R16 por lo menos a 50W cada una. es posible?&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: guigobass		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-314</link>
+
+		<dc:creator><![CDATA[guigobass]]></dc:creator>
+		<pubDate>Thu, 14 Jul 2016 05:56:39 +0000</pubDate>
+		<guid isPermaLink="false">#comment-314</guid>
+
+					<description><![CDATA[sera posible aumentar la potencia...los irlz34N, soportan hasta 30A pero los tip 127 no lo soportan, seria posible cambiar estos por otros fet similares para aumentar la potencia del circuito original?...
+se me ocurre tambien realizar una etapa de potencia a parte pero sin quitar componentes, me refiero a los 2n2222 que ya estan en el circuito, solo seria aumentar la capacidad nose, con transistores tipo moneda o como mensione, 4 fets similares siendo posible este ultimo caso, no seria necesario otro modulo a parte.]]></description>
+			<content:encoded><![CDATA[<p>sera posible aumentar la potencia&#8230;los irlz34N, soportan hasta 30A pero los tip 127 no lo soportan, seria posible cambiar estos por otros fet similares para aumentar la potencia del circuito original?&#8230;<br />
+se me ocurre tambien realizar una etapa de potencia a parte pero sin quitar componentes, me refiero a los 2n2222 que ya estan en el circuito, solo seria aumentar la capacidad nose, con transistores tipo moneda o como mensione, 4 fets similares siendo posible este ultimo caso, no seria necesario otro modulo a parte.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=38#comment-309</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2016 22:11:44 +0000</pubDate>
+		<guid isPermaLink="false">#comment-309</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=38#comment-308&quot;&gt;Jonis Maurin Ceará&lt;/a&gt;.
+
+Olá Jonis, como vai ? Sem novidades sobre o e-plater e a bobina infelizmente foi para o lixo. O maior problema em se trabalhar com a linha de PICs mais comuns é a frequencia do PWM que não será muito alta diminuindo bastante a resolução do e-plater no caso de se trabalhar com frequencias muito altas no gerador de pulsos. Talvez um shield para o arduino seja melhor, ou até mesmo um circuito analogico usando comparadores.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=38#comment-308">Jonis Maurin Ceará</a>.</p>
+<p>Olá Jonis, como vai ? Sem novidades sobre o e-plater e a bobina infelizmente foi para o lixo. O maior problema em se trabalhar com a linha de PICs mais comuns é a frequencia do PWM que não será muito alta diminuindo bastante a resolução do e-plater no caso de se trabalhar com frequencias muito altas no gerador de pulsos. Talvez um shield para o arduino seja melhor, ou até mesmo um circuito analogico usando comparadores.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

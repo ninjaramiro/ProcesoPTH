@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutoriais &#8211; Engenharia Caseira</title>
+	<atom:link href="https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
+	<link>https://www.engenhariacaseira.com.br/blog</link>
+	<description>Faça você mesmo seus protótipos!</description>
+	<lastBuildDate>Fri, 22 Nov 2019 15:06:59 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+
+<image>
+	<url>https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem-100x100.png</url>
+	<title>Tutoriais &#8211; Engenharia Caseira</title>
+	<link>https://www.engenhariacaseira.com.br/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ativação Com Prata e Metalização Com Cobre Eletrolítico &#8211; Furos Metalizados</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=283</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=283#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Tue, 05 Sep 2017 16:17:17 +0000</pubDate>
+				<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=283</guid>
+
+					<description><![CDATA[Olá pessoal, depois de muito tempo sem postar, venho com um artigo muito esperado por todos, trata-se da ativação dos furos com banho químico de cobre (sem eletricidade). Como já visto em outro artigo (https://www.engenhariacaseira.com.br/blog/?p=43), para fazer a metalização dos furos por galvanoplastia é necessário antes fazer com que a parede dos furos se torne ... <a title="Ativação Com Prata e Metalização Com Cobre Eletrolítico &#8211; Furos Metalizados" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=283" aria-label="Read more about Ativação Com Prata e Metalização Com Cobre Eletrolítico &#8211; Furos Metalizados">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=283</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Projeto E-Plater v2.0 para eletrodeposição pulsada</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=237</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=237#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2016 21:24:16 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=237</guid>
+
+					<description><![CDATA[Agora o e-plater conta com um local exclusivo para a manutenção do projeto e todos os seus arquivos se encontram no site Source Forge. Lá você encontra os arquivos de layout e o código fonte mais recente. A partir de Novembro de 2016 será disponibilizado para venda em nossa loja a versão 2.0 do e-plater que em relação ... <a title="Projeto E-Plater v2.0 para eletrodeposição pulsada" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=237" aria-label="Read more about Projeto E-Plater v2.0 para eletrodeposição pulsada">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=237</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Testes do novo E-Plater para eletrodeposição pulsada</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=201</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=201#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Sat, 30 Jul 2016 15:00:12 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=201</guid>
+
+					<description><![CDATA[Ajustes finais do novo E-Plater shield para arduino. O novo modelo funciona como shield para arduino e suporta correntes de até 7.5A.]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=201</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aplicando máscara de solda fotossensível com o uso de um aerógrafo.</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=194#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2016 16:25:37 +0000</pubDate>
+				<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194</guid>
+
+					<description><![CDATA[Olá pessoal. Tenho recebido muitas dúvidas sobre a aplicação da máscara de solda fotossensível em PCI. Para ajudar nas dúvidas fiz um video mostrando como aplicar máscara de solda usando um aerógrafo. No manual do fabricante diz que a tinta deve ser aplicada usando silkscreen e que não pode ser adicionado mais que 5% (em volume) de redutor ... <a title="Aplicando máscara de solda fotossensível com o uso de um aerógrafo." class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=194" aria-label="Read more about Aplicando máscara de solda fotossensível com o uso de um aerógrafo.">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=194</wfw:commentRss>
+			<slash:comments>34</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Simples gerador de pulsos para eletrodeposição de cobre</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=161</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=161#respond</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2016 13:00:47 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=161</guid>
+
+					<description><![CDATA[A alguns anos atrás, assim como várias pessoas, andei pesquisando sobre formas alternativas e eficientes para geração de energia. É quase impossível pesquisar sobre energia alternativa sem se deparar com alguns circuitos como por exemplo os circuitos de John Bedini. Achei interessante uma de suas adaptações, o Solid State Bedini. Trata-se de um Joule Thief com ... <a title="Simples gerador de pulsos para eletrodeposição de cobre" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=161" aria-label="Read more about Simples gerador de pulsos para eletrodeposição de cobre">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=161</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Melhorias no processo de ativação dos furos para a metalização. (Swell-And-Etch)</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=31</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=31#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Sat, 21 Sep 2013 22:56:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Pessoal, estou atualmente testando uma solução totalmente química para a metalização dos furos da PCB. A novidade é que o catalizador não usa paládio e sim um outro metal mais em conta. Assim que eu terminar os testes e se os resultados forem positivos, postarei aqui todo o processo bem como a fórmula das soluções ... <a title="Melhorias no processo de ativação dos furos para a metalização. (Swell-And-Etch)" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=31" aria-label="Read more about Melhorias no processo de ativação dos furos para a metalização. (Swell-And-Etch)">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=31</wfw:commentRss>
+			<slash:comments>21</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 10 &#8211; Fotolito</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=32</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=32#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2013 14:17:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Olá pessoal! Faz tempo que não posto nada por falta de tempo. Hoje consegui um tempinho para postar algo importante que é o fotolito. Muita gente usa impressora laser acreditando que terá a melhor qualidade. Hoje em dia dificilmente se usa imagesetter para se fazer fotolitos. Na maioria dos casos eles são feitos usando plotters ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 10 &#8211; Fotolito" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=32" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 10 &#8211; Fotolito">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=32</wfw:commentRss>
+			<slash:comments>35</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 9 &#8211; Deposição de estanho</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=34</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=34#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2013 23:12:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Pessoal, neste post vou mostrar como fazer uma solução para deposição de estanho sem eletricidade. Esta formula foi enviada para mim pelo Sergiy da Ucrania, o mesmo autor do post original do Instructables sobre a solução ativadora a base de hipofosfito. Mais uma vez, obrigado Sergiy! Muitas pessoas, inclusive eu, estavam tendo problemas usando soluções ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 9 &#8211; Deposição de estanho" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=34" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 9 &#8211; Deposição de estanho">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=34</wfw:commentRss>
+			<slash:comments>48</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 8 &#8211; Dry-Film</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=35#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2013 11:51:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Pessoal, neste post mostro todo o processo para fazer as placas desde a furação até a finalização usando dryfilm. Algumas etapas como metalização não foram mostradas pois já vimos em outro post.  Algumas formulas como a solução para corrosão reciclável a base de cloreto de cobre, bem como a solução para deposição de estanho sem ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 8 &#8211; Dry-Film" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=35" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 8 &#8211; Dry-Film">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=35</wfw:commentRss>
+			<slash:comments>56</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 7 &#8211; Processos fotográficos</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=36</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=36#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2013 00:36:00 +0000</pubDate>
+				<category><![CDATA[Como fazer PCI]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Depois de aprender a fazer a solução ativadora de furos e de fazer a eletrodeposição de cobre, chegou a hora de aprendermos um pouco sobre o processo fotográfico.   Antigamente e ainda hoje alguns hobbystas usam caneta para retroprojetor para desenhar as trilhas e depois corroer no percloreto de ferro. Depois de algum tempo surgiu ... <a title="Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 7 &#8211; Processos fotográficos" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=36" aria-label="Read more about Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 7 &#8211; Processos fotográficos">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=36</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

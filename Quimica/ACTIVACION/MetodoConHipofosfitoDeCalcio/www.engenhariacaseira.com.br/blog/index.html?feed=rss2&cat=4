@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projetos &#8211; Engenharia Caseira</title>
+	<atom:link href="https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;cat=4" rel="self" type="application/rss+xml" />
+	<link>https://www.engenhariacaseira.com.br/blog</link>
+	<description>Faça você mesmo seus protótipos!</description>
+	<lastBuildDate>Fri, 22 Nov 2019 14:57:34 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+
+<image>
+	<url>https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem-100x100.png</url>
+	<title>Projetos &#8211; Engenharia Caseira</title>
+	<link>https://www.engenhariacaseira.com.br/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Projeto E-Plater v2.0 para eletrodeposição pulsada</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=237</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=237#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2016 21:24:16 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=237</guid>
+
+					<description><![CDATA[Agora o e-plater conta com um local exclusivo para a manutenção do projeto e todos os seus arquivos se encontram no site Source Forge. Lá você encontra os arquivos de layout e o código fonte mais recente. A partir de Novembro de 2016 será disponibilizado para venda em nossa loja a versão 2.0 do e-plater que em relação ... <a title="Projeto E-Plater v2.0 para eletrodeposição pulsada" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=237" aria-label="Read more about Projeto E-Plater v2.0 para eletrodeposição pulsada">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=237</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Testes do novo E-Plater para eletrodeposição pulsada</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=201</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=201#comments</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Sat, 30 Jul 2016 15:00:12 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=201</guid>
+
+					<description><![CDATA[Ajustes finais do novo E-Plater shield para arduino. O novo modelo funciona como shield para arduino e suporta correntes de até 7.5A.]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=201</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Simples gerador de pulsos para eletrodeposição de cobre</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=161</link>
+					<comments>https://www.engenhariacaseira.com.br/blog/?p=161#respond</comments>
+		
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2016 13:00:47 +0000</pubDate>
+				<category><![CDATA[Projetos]]></category>
+		<category><![CDATA[Tutoriais]]></category>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=161</guid>
+
+					<description><![CDATA[A alguns anos atrás, assim como várias pessoas, andei pesquisando sobre formas alternativas e eficientes para geração de energia. É quase impossível pesquisar sobre energia alternativa sem se deparar com alguns circuitos como por exemplo os circuitos de John Bedini. Achei interessante uma de suas adaptações, o Solid State Bedini. Trata-se de um Joule Thief com ... <a title="Simples gerador de pulsos para eletrodeposição de cobre" class="read-more" href="https://www.engenhariacaseira.com.br/blog/?p=161" aria-label="Read more about Simples gerador de pulsos para eletrodeposição de cobre">Ler mais</a>]]></description>
+		
+					<wfw:commentRss>https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=161</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

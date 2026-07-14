@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+	<html lang="pt-BR">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Acessar &lsaquo; Engenharia Caseira &#8212; WordPress</title>
+	<meta name='robots' content='max-image-preview:large, noindex, noarchive' />
+<link rel='dns-prefetch' href='//assets.pinterest.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<script id="wp-hooks-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wppa-decls-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/js/wppa-decls.js?ver=260711-150721"></script>
+<script id="wppa-decls-js-after">
+const { __ } = wp.i18n;
+
+wppaSiteUrl = "https://www.engenhariacaseira.com.br/blog",
+wppaThumbPageSize = 0,
+wppaResizeEndDelay = 200,
+wppaScrollEndDelay = 200,
+_wppaTextDelay = 800,
+wppaEasingSlide = "swing",
+wppaEasingLightbox = "swing",
+wppaEasingPopup = "swing",
+wppaUploadButtonText = "Navegar...",
+wppaOvlBigBrowse = false,
+wppaOvlSmallBrowse = true,
+wppaImageMagickDefaultAspect = "NaN",
+wppaImageDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/icons/",
+wppaWppaUrl = "https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus",
+wppaIncludeUrl = "https://www.engenhariacaseira.com.br/blog/wp-includes",
+wppaAjaxMethod = "rest",
+wppaAjaxUrl = "https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/wp-photo-album-plus/endPoint",
+wppaAdminAjaxUrl = "https://www.engenhariacaseira.com.br/blog/wp-admin/admin-ajax.php",
+wppaUploadUrl = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa",
+wppaIsIe = false,
+wppaIsSafari = false,
+wppaSlideshowNavigationType = "icons",
+wppaSlideshowDefaultTimeout = 2.5,
+wppaAudioHeight = 28,
+wppaFilmThumbTitle = "Clique duas vezes para iniciar/parar a apresentação de slides",
+wppaClickToView = "Clique para ver",
+wppaLang = "",
+wppaVoteForMe = "Vote em mim!",
+wppaVotedForMe = "Votou em mim",
+wppaGlobalFsIconSize = "32",
+wppaFsFillcolor = "#999999",
+wppaFsBgcolor = "transparent",
+wppaFsPolicy = "lightbox",
+wppaNiceScroll = false,
+wppaNiceScrollOpts = {cursorwidth:8,
+cursoropacitymin:0.4,
+cursorcolor:'#777777',
+cursorborder:'none',
+cursorborderradius:6,
+autohidemode:'leave',
+nativeparentscrolling:false,
+preservenativescrolling:false,
+bouncescroll:false,
+smoothscroll:true,
+cursorborder:'2px solid transparent',},
+wppaVersion = "9.2.04.003",
+wppaBackgroundColorImage = "#eeeeee",
+wppaPopupLinkType = "photo",
+wppaAnimationType = "fadeover",
+wppaAnimationSpeed = 800,
+wppaThumbnailAreaDelta = 14,
+wppaTextFrameDelta = 181,
+wppaBoxDelta = 14,
+wppaFilmShowGlue = true,
+wppaMiniTreshold = 500,
+wppaRatingOnce = false,
+wppaHideWhenEmpty = false,
+wppaBGcolorNumbar = "#cccccc",
+wppaBcolorNumbar = "#cccccc",
+wppaBGcolorNumbarActive = "#333333",
+wppaBcolorNumbarActive = "#333333",
+wppaFontFamilyNumbar = "",
+wppaFontSizeNumbar = "px",
+wppaFontColorNumbar = "#777777",
+wppaFontWeightNumbar = "normal",
+wppaFontFamilyNumbarActive = "",
+wppaFontSizeNumbarActive = "px",
+wppaFontColorNumbarActive = "#777777",
+wppaFontWeightNumbarActive = "bold",
+wppaNumbarMax = "10",
+wppaNextOnCallback = false,
+wppaStarOpacity = 0.2,
+wppaEmailRequired = "required",
+wppaSlideBorderWidth = 0,
+wppaAllowAjax = true,
+wppaThumbTargetBlank = false,
+wppaRatingMax = 5,
+wppaRatingDisplayType = "graphic",
+wppaRatingPrec = 2,
+wppaStretch = false,
+wppaMinThumbSpace = 4,
+wppaThumbSpaceAuto = true,
+wppaMagnifierCursor = "magnifier-small.png",
+wppaAutoOpenComments = true,
+wppaUpdateAddressLine = true,
+wppaSlideSwipe = false,
+wppaMaxCoverWidth = 1024,
+wppaSlideToFullpopup = false,
+wppaComAltSize = 75,
+wppaBumpViewCount = true,
+wppaBumpClickCount = false,
+wppaShareHideWhenRunning = true,
+wppaFotomoto = false,
+wppaFotomotoHideWhenRunning = false,
+wppaCommentRequiredAfterVote = false,
+wppaFotomotoMinWidth = 400,
+wppaOvlHires = true,
+wppaSlideVideoStart = false,
+wppaSlideAudioStart = false,
+wppaOvlRadius = 12,
+wppaOvlBorderWidth = 8,
+wppaThemeStyles = "",
+wppaStickyHeaderHeight = 0,
+wppaRenderModal = false,
+wppaModalQuitImg = "url(https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/icons/smallcross-black.gif )",
+wppaBoxRadius = "6",
+wppaModalBgColor = "#ffffff",
+wppaUploadEdit = "classic",
+wppaSvgFillcolor = "#666666",
+wppaSvgBgcolor = "#dddddd",
+wppaOvlSvgFillcolor = "#999999",
+wppaOvlSvgBgcolor = "#ffffff",
+wppaSvgCornerStyle = "light",
+wppaHideRightClick = false,
+wppaGeoZoom = 10,
+wppaLazyLoad = false,
+wppaAreaMaxFrac = 0,
+wppaAreaMaxFracSlide = 0,
+wppaAreaMaxFracAudio = 0,
+wppaIconSizeNormal = "default",
+wppaIconSizeSlide = "default",
+wppaResponseSpeed = 0,
+wppaExtendedResizeCount = 0,
+wppaExtendedResizeDelay = 1000,
+wppaCoverSpacing = 8,
+wppaFilmonlyContinuous = false,
+wppaNoAnimateOnMobile = false,
+wppaAjaxScroll = true,
+wppaThumbSize = 100,
+wppaTfMargin = 4,
+wppaRequestInfoDialogText = "Por favor especifique sua pergunta",
+wppaThumbAspect = 0.75,
+wppaStartStopNew = false,
+wppaSlideVideoPauseStop = false,
+wppaThumbNolink = false;
+wppaOvlTxtHeight = "auto",
+wppaOvlOpacity = 0.8,
+wppaOvlOnclickType = "none",
+wppaOvlTheme = "black",
+wppaOvlAnimSpeed = 300,
+wppaOvlSlideSpeedDefault = 5000,
+wppaVer4WindowWidth = 800,
+wppaVer4WindowHeight = 600,
+wppaOvlShowCounter = true,
+wppaOvlFontFamily = "",
+wppaOvlFontSize = "10",
+wppaOvlFontColor = "",
+wppaOvlFontWeight = "bold",
+wppaOvlLineHeight = "10",
+wppaOvlVideoStart = true,
+wppaOvlAudioStart = true,
+wppaOvlSlideStartDefault = true,
+wppaOvlShowStartStop = true,
+wppaIsMobile = false,
+wppaIsIpad = false,
+wppaOvlIconSize = "32px",
+wppaOvlBrowseOnClick = false,
+wppaOvlGlobal = false,
+wppaPhotoDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/",
+wppaThumbDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/thumbs/",
+wppaTempDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/temp/",
+wppaFontDirectory = "https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/fonts/",
+wppaOutputType = "-none-",
+wppaOvlNavIconSize = 32,
+wppaOvlVideoPauseStop = false;var
+wppaShortcodeTemplate = "&lt;div style=&quot;font-size:0;line-height:0&quot;&gt;&lt;img id=&quot;ph-14-0&quot; title=&quot;20170929_135424.jpg&quot; style=&quot;width:100%;margin:0;height:auto;&quot; width=&quot;876&quot; height=&quot;768&quot; src=&quot;https://www.engenhariacaseira.com.br/blog/wp-content/uploads/wppa/14.jpg?ver=1&quot; alt=&quot;20170929_135424.jpg&quot; loading=&quot;eager&quot;&gt;&lt;/div&gt;";
+wppaShortcodeTemplateId = "14.jpg";
+//# sourceURL=wppa-decls-js-after
+</script>
+<script id="jquery-core-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="jquery-form-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0"></script>
+<script id="imagesloaded-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="masonry-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/masonry.min.js?ver=4.2.2"></script>
+<script id="jquery-masonry-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"></script>
+<script id="jquery-ui-core-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-mouse-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-resizable-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-draggable-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-controlgroup-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-checkboxradio-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-button-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/button.min.js?ver=1.13.3"></script>
+<script id="jquery-ui-dialog-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.3"></script>
+<script id="wppa-all-js-extra">
+var wppaObj = {"restUrl":"https://www.engenhariacaseira.com.br/blog/index.php?rest_route=/","restNonce":"c14d6bf85b"};
+//# sourceURL=wppa-all-js-extra
+</script>
+<script id="wppa-all-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/js/wppa-all.js?ver=260711-150721"></script>
+<script id="nicescrollr-easing-min-js-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/vendor/jquery-easing/jquery.easing.min.js?ver=9.2.04.003"></script>
+<script id="wppa-pinterest-js" src="//assets.pinterest.com/js/pinit.js?ver=9.2.04.003"></script>
+<link rel='stylesheet' id='wpfb-css' href='//www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-filebase/wp-filebase.css?t=1461273348&#038;ver=3.4.4' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.engenhariacaseira.com.br/blog/wp-includes/css/dashicons.min.css?ver=7.0.1' media='all' />
+<link rel='stylesheet' id='buttons-css' href='https://www.engenhariacaseira.com.br/blog/wp-includes/css/buttons.min.css?ver=7.0.1' media='all' />
+<link rel='stylesheet' id='forms-css' href='https://www.engenhariacaseira.com.br/blog/wp-admin/css/forms.min.css?ver=7.0.1' media='all' />
+<link rel='stylesheet' id='l10n-css' href='https://www.engenhariacaseira.com.br/blog/wp-admin/css/l10n.min.css?ver=7.0.1' media='all' />
+<link rel='stylesheet' id='wp-base-styles-css' href='https://www.engenhariacaseira.com.br/blog/wp-includes/css/dist/base-styles/admin-schemes.min.css?ver=7.0.1' media='all' />
+<link rel='stylesheet' id='login-css' href='https://www.engenhariacaseira.com.br/blog/wp-admin/css/login.min.css?ver=7.0.1' media='all' />
+<meta name="generator" content="Site Kit by Google 1.182.0" /><meta name="google-site-verification" content="ie0gd1ILHlSUyIGO6kW0hYioexlIJeT-EFKxJJuIpcY">	<meta name='referrer' content='strict-origin-when-cross-origin' />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="icon" href="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem.png" />
+<meta name="msapplication-TileImage" content="https://www.engenhariacaseira.com.br/blog/wp-content/uploads/2016/03/engrenagem.png" />
+	</head>
+	<body class="login no-js login-action-login wp-core-ui admin-color-modern locale-pt-br">
+	<script>
+document.body.className = document.body.className.replace('no-js','js');
+</script>
+
+				<h1 class="screen-reader-text">Acessar</h1>
+			<div id="login">
+		<h1 role="presentation" class="wp-login-logo"><a href="https://br.wordpress.org/">Powered by WordPress</a></h1>
+	
+		<form name="loginform" id="loginform" action="https://www.engenhariacaseira.com.br/blog/wp-login.php" method="post">
+			<p>
+				<label for="user_login">Nome de usuário ou endereço de e-mail</label>
+				<input type="text" name="log" id="user_login" class="input ltr" value="" size="20" autocapitalize="off" autocomplete="username" required="required" />
+			</p>
+
+			<div class="user-pass-wrap">
+				<label for="user_pass">Senha</label>
+				<div class="wp-pwd">
+					<input type="password" name="pwd" id="user_pass" class="input password-input ltr" value="" size="20" autocomplete="current-password" spellcheck="false" required="required" />
+					<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Mostrar senha">
+						<span class="dashicons dashicons-visibility" aria-hidden="true"></span>
+					</button>
+				</div>
+			</div>
+			<p><label for="g-recaptcha">Recaptcha</label> <img id="captcha" src="https://www.engenhariacaseira.com.br/blog/?cta_securimage=Y&distortion=0.5&signature=&signatureColour=000000&mathOrText=text" style="display: block; margin: 0 auto;" alt="CAPTCHA Image" /><span style="text-align: center; display: block;"><a href="#" onclick="document.getElementById('captcha').src = 'https://www.engenhariacaseira.com.br/blog/?cta_securimage=Y&distortion=0.5&signature=&mathOrText=text&signatureColour=000000&' + Math.random(); return false">Change Image</a></span><input type="text" placeholder="Enter Code Above..." name="captcha_code" size="15" maxlength="25" /></p><input id="emailHP-6a565c8f8ab84" type="text" class="hPot_checker emailHP" name="emailHP" size="25" value="" placeholder="Do not fill in this field" />			<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Lembrar-me</label></p>
+			<p class="submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Acessar" />
+									<input type="hidden" name="redirect_to" value="https://www.engenhariacaseira.com.br/blog/?p=31" />
+									<input type="hidden" name="testcookie" value="1" />
+			</p>
+		</form>
+
+					<p id="nav">
+				<a class="wp-login-register" href="https://www.engenhariacaseira.com.br/blog/wp-login.php?action=register">Cadastre-se</a> | <a class="wp-login-lost-password" href="https://www.engenhariacaseira.com.br/blog/wp-login.php?action=lostpassword">Perdeu a senha?</a>			</p>
+			<script>
+function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
+wp_attempt_focus();
+if ( typeof wpOnload === 'function' ) { wpOnload() }
+</script>
+		<p id="backtoblog">
+			<a href="https://www.engenhariacaseira.com.br/blog/">&larr; Ir para Engenharia Caseira</a>		</p>
+			</div>
+				<div class="language-switcher">
+				<form id="language-switcher" method="get">
+
+					<label for="language-switcher-locales">
+						<span class="dashicons dashicons-translation" aria-hidden="true"></span>
+						<span class="screen-reader-text">
+							Idioma						</span>
+					</label>
+
+					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
+<option value="pt_BR" lang="pt" selected='selected' data-installed="1">Português do Brasil</option></select>
+					
+											<input type="hidden" name="redirect_to" value="https://www.engenhariacaseira.com.br/blog/?p=31" />
+					
+					
+						<input type="submit" class="button" value="Alterar">
+
+					</form>
+				</div>
+			
+	<link rel='stylesheet' id='cta-css-css' href='https://www.engenhariacaseira.com.br/blog/wp-content/plugins/captcha-them-all/css/cta.css?ver=7.0.1' media='all' />
+<script id="wppa-js" src="https://www.engenhariacaseira.com.br/blog/wp-content/plugins/wp-photo-album-plus/js/wppa.js?ver=dummy"></script>
+<script id="wppa-js-after">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Unimplemented virtual album":["\u00c1lbum virtual n\u00e3o implementado"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"]}},"comment":{"reference":"js\/wppa-tinymce-shortcodes.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Select the photo to show":["Selecione a foto para mostrar"],"WPPA+ Photo":["Foto WPPA+"],"Enter widget caption":["Insira a legenda do widget"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"]}},"comment":{"reference":"blocks\/photo\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Avg":["M\u00e9dia"],"Next":["Pr\u00f3ximo"],"Previous":["Anterior"],"Stop":["Parar"],"of":["de"],"Previous photo":["Foto anterior"],"Next photo":["Pr\u00f3xima foto"],"Mine":["Meu"],"Please enter a comment":["Por favor insira um coment\u00e1rio"],"Please enter a valid email address":["Por favor insira um endere\u00e7o de e-mail v\u00e1lido"],"Please enter your name":["Por favor, insira seu nome"],"My&nbsp;rating":["Minha classifica\u00e7\u00e3o"],"Average&nbsp;rating":["Classifica\u00e7\u00e3o m\u00e9dia"],"Start":["Come\u00e7ar"],"Photo":["Foto"],"Slideshow":["Apresenta\u00e7\u00e3o de slides"]}},"comment":{"reference":"js\/wppa-slideshow.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Avg":["M\u00e9dia"],"Server error.":["Erro de servidor."],"Processing...":["Em processamento..."],"Done!":["Feito!"],"of":["de"],"Mine":["Meu"],"My&nbsp;rating":["Minha classifica\u00e7\u00e3o"],"Average&nbsp;rating":["Classifica\u00e7\u00e3o m\u00e9dia"],"Upload failed":["Falha no upload"],"Photo":["Foto"]}},"comment":{"reference":"js\/wppa-main.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Unimplemented virtual album":["\u00c1lbum virtual n\u00e3o implementado"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"]}},"comment":{"reference":"js\/wppa-gutenberg-wppa.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"The server could not complete the request. Please try again.":["O servidor n\u00e3o p\u00f4de concluir a solicita\u00e7\u00e3o. Por favor, tente novamente."],"Attention":["Aten\u00e7\u00e3o"],"Error Code":["Erro de c\u00f3digo"],"Page will be reloaded":["A p\u00e1gina ser\u00e1 recarregada"],"Unexpected output":["Sa\u00edda inesperada"],"Frontend Ajax request failed. Try a different setting in Advanced settings -> System -> I -> Item 5":["Falha na solicita\u00e7\u00e3o do front-end Ajax. Tente uma configura\u00e7\u00e3o diferente em Configura\u00e7\u00f5es avan\u00e7adas -> Sistema -> I -> Item 5"],"Avg":["M\u00e9dia"],"Please specify your question":["Por favor especifique sua pergunta"],"Server error.":["Erro de servidor."],"Processing...":["Em processamento..."],"Send":["Enviar"],"Done!":["Feito!"],"Next":["Pr\u00f3ximo"],"Cancel":["Cancelar"],"Previous":["Anterior"],"Stop":["Parar"],"of":["de"],"Previous photo":["Foto anterior"],"Next photo":["Pr\u00f3xima foto"],"Mine":["Meu"],"Please enter a comment":["Por favor insira um coment\u00e1rio"],"Please enter a valid email address":["Por favor insira um endere\u00e7o de e-mail v\u00e1lido"],"Please enter your name":["Por favor, insira seu nome"],"My&nbsp;rating":["Minha classifica\u00e7\u00e3o"],"Average&nbsp;rating":["Classifica\u00e7\u00e3o m\u00e9dia"],"Start":["Come\u00e7ar"],"Error":["Erro"],"Upload failed":["Falha no upload"],"Photo":["Foto"],"Slideshow":["Apresenta\u00e7\u00e3o de slides"]}},"comment":{"reference":"js\/wppa-all.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Processing...":["Em processamento..."],"Done!":["Feito!"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"],"ERROR: unable to upload files.":["ERRO: n\u00e3o \u00e9 poss\u00edvel fazer upload de arquivos."]}},"comment":{"reference":"js\/wppa-tinymce-photo.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Delay this block":["Atrasar este bloqueio"],"Timeout in seconds ( 0 means use default )":["Tempo limite em segundos (0 significa usar padr\u00e3o)"],"Select an album":["Selecione um \u00e1lbum"],"--- The last added album ---":["--- O \u00faltimo \u00e1lbum adicionado ---"],"Enter widget caption":["Insira a legenda do widget"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"],"Cache uses WPPA embedded smart cache":["Cache usa cache inteligente incorporado WPPA"],"Cache this block":["Armazenar este bloco em cache"],"Add filmstrip":["Adicionar tira de filme"],"WPPA+ Simple slideshow":["WPPA+ Apresenta\u00e7\u00e3o de slides simples"],"WPPA+ Slideshow":["Apresenta\u00e7\u00e3o de slides WPPA+"],"Slideshow":["Apresenta\u00e7\u00e3o de slides"]}},"comment":{"reference":"blocks\/slideshow\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Enter widget caption":["Insira a legenda do widget"],"Show to admin only?":["Mostrar apenas para o administrador?"],"Show to logged in users only?":["Mostrar apenas para usu\u00e1rios logados?"],"If you want to limit uploads to a specific album, select it here":["Se voc\u00ea quiser limitar os uploads para um \u00e1lbum espec\u00edfico, selecione-o aqui"],"WPPA Upload form":["Formul\u00e1rio de upload WPPA"],"--- A selectionbox with all albums the user may upload to ---":["--- Uma caixa de sele\u00e7\u00e3o com todos os \u00e1lbuns para os quais o usu\u00e1rio pode enviar ---"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"],"WPPA+ upload":["Carregar WPPA+"]}},"comment":{"reference":"blocks\/upload\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Close!":["Fechar!"],"Update":["Atualizar"],"Import":["Importar"],"Upload to this album":["Carregar para este \u00e1lbum"]}},"comment":{"reference":"js\/wppa-admin-scripts.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"WPPA+ Potd":["WPPA+ Potd"],"Enter widget caption":["Insira a legenda do widget"],"WPPA Photo of the day":["Foto do dia WPPA"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"]}},"comment":{"reference":"blocks\/potd\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Delay this block":["Atrasar este bloqueio"],"Timeout in seconds ( 0 means use default )":["Tempo limite em segundos (0 significa usar padr\u00e3o)"],"WPPA media display":["Exibi\u00e7\u00e3o de m\u00eddia WPPA"],"Select an album":["Selecione um \u00e1lbum"],"--- The last added album ---":["--- O \u00faltimo \u00e1lbum adicionado ---"],"Enter widget caption":["Insira a legenda do widget"],"Corresponding shortcode":["C\u00f3digo de acesso correspondente"],"Cache uses WPPA embedded smart cache":["Cache usa cache inteligente incorporado WPPA"],"Cache this block":["Armazenar este bloco em cache"],"Add filmstrip":["Adicionar tira de filme"]}},"comment":{"reference":"blocks\/general\/block.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Processing...":["Em processamento..."],"Done!":["Feito!"],"No Preview available":["Nenhuma visualiza\u00e7\u00e3o dispon\u00edvel"],"ERROR: unable to upload files.":["ERRO: n\u00e3o \u00e9 poss\u00edvel fazer upload de arquivos."]}},"comment":{"reference":"js\/wppa-tinymce-photo-front.js"}});
+
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wp-photo-album-plus", {"translation-revision-date":"2024-01-16 06:27:20+0000","generator":"GlotPress\/4.0.0-alpha.11","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"The server could not complete the request. Please try again.":["O servidor n\u00e3o p\u00f4de concluir a solicita\u00e7\u00e3o. Por favor, tente novamente."],"Attention":["Aten\u00e7\u00e3o"],"Error Code":["Erro de c\u00f3digo"],"Page will be reloaded":["A p\u00e1gina ser\u00e1 recarregada"],"Unexpected output":["Sa\u00edda inesperada"],"Frontend Ajax request failed. Try a different setting in Advanced settings -> System -> I -> Item 5":["Falha na solicita\u00e7\u00e3o do front-end Ajax. Tente uma configura\u00e7\u00e3o diferente em Configura\u00e7\u00f5es avan\u00e7adas -> Sistema -> I -> Item 5"],"Please specify your question":["Por favor especifique sua pergunta"],"Send":["Enviar"],"Cancel":["Cancelar"],"Error":["Erro"]}},"comment":{"reference":"js\/wppa-ajax-front.js"}});
+ jQuery("body").append(' <div id="wppa-overlay-bg" style="text-align:center;display:none;position:fixed;top:0;left:0;width:100%;height:100%;background-color:black;opacity:0.8;" onclick="wppaOvlOnclick(event)" onwheel="return false;" onscroll="return false;"><div id="wppa-ovl-dbg-msg" style="position:fixed;top:0;left:0;padding:0 4px;background-color:white;color:black"></div></div><div id="wppa-overlay-ic" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-pc" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-fpc" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-zpc" onwheel="return false;" onscroll="return false;"></div><img id="wppa-pre-prev" style="position:fixed;left:0;top:50%;width:100px;visibility:hidden" class="wppa-preload wppa-ovl-preload"><img id="wppa-pre-next" style="position:fixed;right:0;top:50%;width:100px;visibility:hidden" class="wppa-preload wppa-ovl-preload"><img id="wppa-pre-curr" style="position:fixed;left:0;top:0;visibility:hidden" class="wppa-preload-curr wppa-ovl-preload"><svg id="wppa-ovl-spin" class="wppa-spinner uil-default" width="120px" height="120px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" stroke="" style="width:120px; height:120px; position:fixed; top:50%; margin-top:-60px; left:50%; margin-left:-60px; opacity:1; display:none; fill:#999999; background-color:#ffffff; border-radius:12px;"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(0 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(22.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.09375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(45 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.1875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(67.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.28125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(90 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(112.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.46875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(135 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.5625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(157.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.65625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(180 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.75s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(202.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.84375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(225 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.9375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(247.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.03125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(270 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(292.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.21875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(315 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.3125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(337.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.40625s" repeatCount="indefinite" ></rect></svg>');
+ jQuery("body").append('<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="14653900e7" ><input type="hidden" id="wppa-qr-nonce" name="wppa-qr-nonce" value="46639021e2" >');
+//# sourceURL=wppa-js-after
+</script>
+<script id="clipboard-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/clipboard.min.js?ver=2.0.11"></script>
+<script id="zxcvbn-async-js-extra">
+var _zxcvbnSettings = {"src":"https://www.engenhariacaseira.com.br/blog/wp-includes/js/zxcvbn.min.js"};
+//# sourceURL=zxcvbn-async-js-extra
+</script>
+<script id="zxcvbn-async-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/zxcvbn-async.min.js?ver=1.0"></script>
+<script id="password-strength-meter-js-extra">
+var pwsL10n = {"unknown":"N\u00edvel de seguran\u00e7a da senha desconhecido","short":"Muito fraca","bad":"Fraca","good":"M\u00e9dio","strong":"Forte","mismatch":"Incompat\u00edvel"};
+//# sourceURL=password-strength-meter-js-extra
+</script>
+<script id="password-strength-meter-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-12-02 18:21:27+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s est\u00e1 obsoleta desde a vers\u00e3o %2$s. Use %3$s como alternativa. Considere escrever um c\u00f3digo mais inclusivo."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+//# sourceURL=password-strength-meter-js-translations
+</script>
+<script id="password-strength-meter-js" src="https://www.engenhariacaseira.com.br/blog/wp-admin/js/password-strength-meter.min.js?ver=7.0.1"></script>
+<script id="underscore-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/underscore.min.js?ver=1.13.8"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"/blog/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+</script>
+<script id="wp-util-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/wp-util.min.js?ver=7.0.1"></script>
+<script id="wp-dom-ready-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/dist/dom-ready.min.js?ver=a06281ae5cf5500e9317"></script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2026-06-11 17:52:12+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Notifications":["Notifica\u00e7\u00f5es"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+//# sourceURL=wp-a11y-js-translations
+</script>
+<script id="wp-a11y-js" src="https://www.engenhariacaseira.com.br/blog/wp-includes/js/dist/a11y.min.js?ver=af934e5259bc51b8718e"></script>
+<script id="user-profile-js-extra">
+var userProfileL10n = {"user_id":"0","nonce":"2bbd83b9e8"};
+//# sourceURL=user-profile-js-extra
+</script>
+<script id="user-profile-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-12-02 18:21:27+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Caps lock is on.":["O caps lock est\u00e1 ligado."],"Application password has been copied to your clipboard.":["A senha do aplicativo foi copiada para sua \u00e1rea de transfer\u00eancia."],"Your new password has not been saved.":["Sua nova senha n\u00e3o foi salva."],"Confirm use of weak password":["Confirmar o uso de uma senha fraca"],"Hide password":["Ocultar senha"],"Show password":["Mostrar senha"],"Hide":["Esconder"],"Show":["Mostrar"],"The changes you made will be lost if you navigate away from this page.":["As modifica\u00e7\u00f5es que voc\u00ea fez ser\u00e3o perdidas se voc\u00ea sair desta p\u00e1gina."]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
+//# sourceURL=user-profile-js-translations
+</script>
+<script id="user-profile-js" src="https://www.engenhariacaseira.com.br/blog/wp-admin/js/user-profile.min.js?ver=7.0.1"></script>
+	</body>
+	</html>
+	

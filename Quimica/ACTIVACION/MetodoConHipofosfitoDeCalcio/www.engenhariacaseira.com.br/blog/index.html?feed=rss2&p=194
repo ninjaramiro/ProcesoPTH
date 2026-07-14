@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Aplicando máscara de solda fotossensível com o uso de um aerógrafo.	</title>
+	<atom:link href="https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=194" rel="self" type="application/rss+xml" />
+	<link>https://www.engenhariacaseira.com.br/blog/?p=194</link>
+	<description>Faça você mesmo seus protótipos!</description>
+	<lastBuildDate>Fri, 22 Nov 2019 14:58:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+	<item>
+		<title>
+		Por: renan lopes batista		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-424</link>
+
+		<dc:creator><![CDATA[renan lopes batista]]></dc:creator>
+		<pubDate>Fri, 07 Dec 2018 22:08:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-424</guid>
+
+					<description><![CDATA[Fala Ricardo! Tudo bem?
+Se eu inverter o fotolito, não risco da luz vazar entre a impressão do toner e o plastico da transparecia e acabar reagindo com a tinta onde não deveria? Eu ainda vou experimentar isso porque ando tendo muito problema com o fotolito grudando na tinta. Aí na tentativa de limpar esse toner que gruda durante o processo de revelação, deixo a placa por mais tempo que o necessário na barrilha e todo o silk acaba se soltando!! 
+
+Eu vi que você vende muito dos materiais pra confecção de placas. E dentre eles, uma transparecia microporosa pra ser usada na impressora jato de tinta. Eu tenho uma multifunciona hp psc 1410. rola usar essa transparencia nessa impressora? A tinta precisa alguma caracteristica especial ou pode ser um cartucho comum?]]></description>
+			<content:encoded><![CDATA[<p>Fala Ricardo! Tudo bem?<br />
+Se eu inverter o fotolito, não risco da luz vazar entre a impressão do toner e o plastico da transparecia e acabar reagindo com a tinta onde não deveria? Eu ainda vou experimentar isso porque ando tendo muito problema com o fotolito grudando na tinta. Aí na tentativa de limpar esse toner que gruda durante o processo de revelação, deixo a placa por mais tempo que o necessário na barrilha e todo o silk acaba se soltando!! </p>
+<p>Eu vi que você vende muito dos materiais pra confecção de placas. E dentre eles, uma transparecia microporosa pra ser usada na impressora jato de tinta. Eu tenho uma multifunciona hp psc 1410. rola usar essa transparencia nessa impressora? A tinta precisa alguma caracteristica especial ou pode ser um cartucho comum?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-402</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2017 14:48:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-402</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=194#comment-401&quot;&gt;renan lopes batista&lt;/a&gt;.
+
+Boa tarde Renan, tudo bem ? Inverta o fotolito e imprima do lado oposto... desta forma o toner fica para cima e não gruda na placa. Outra dica é deixar a placa esfriar bem antes de ir para a exposição. Use um termômetro e seque a placa a 65C durante 60min. Isso garante que ela não irá grudar no fotolito. Abraço.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=194#comment-401">renan lopes batista</a>.</p>
+<p>Boa tarde Renan, tudo bem ? Inverta o fotolito e imprima do lado oposto&#8230; desta forma o toner fica para cima e não gruda na placa. Outra dica é deixar a placa esfriar bem antes de ir para a exposição. Use um termômetro e seque a placa a 65C durante 60min. Isso garante que ela não irá grudar no fotolito. Abraço.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: renan lopes batista		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-401</link>
+
+		<dc:creator><![CDATA[renan lopes batista]]></dc:creator>
+		<pubDate>Sun, 22 Oct 2017 17:36:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-401</guid>
+
+					<description><![CDATA[E aí, Ricardo? Td jóia?
+
+Corrigi quase todos os problemas que estava tendo ao pintar as placas. Tô apanhando só no tempo de pré cura da máscara: ou ela não se solta completamente da placa quando mergulhada na barrilha, ou ela se solta bem mas gruda em alguns pontos do fotolito. Essa segunda situação é até fácil de reparar na etapa de máscara de solda, mas na etapa das legendas é terrível, porque o fotolito das legendas tem uma área de toner impresso muito grande e acaba agarrando toner demais na pintura. Se a revelação das legendas for muito longa, os traços que deveriam permanecer na placa começam a se soltar! Você teve problemas assim também?]]></description>
+			<content:encoded><![CDATA[<p>E aí, Ricardo? Td jóia?</p>
+<p>Corrigi quase todos os problemas que estava tendo ao pintar as placas. Tô apanhando só no tempo de pré cura da máscara: ou ela não se solta completamente da placa quando mergulhada na barrilha, ou ela se solta bem mas gruda em alguns pontos do fotolito. Essa segunda situação é até fácil de reparar na etapa de máscara de solda, mas na etapa das legendas é terrível, porque o fotolito das legendas tem uma área de toner impresso muito grande e acaba agarrando toner demais na pintura. Se a revelação das legendas for muito longa, os traços que deveriam permanecer na placa começam a se soltar! Você teve problemas assim também?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: renan lopes batista		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-399</link>
+
+		<dc:creator><![CDATA[renan lopes batista]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 19:05:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-399</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=194#comment-396&quot;&gt;Ricardo&lt;/a&gt;.
+
+Talvez na tentativa de chegar a uma tonalidade mais escura, acabei jogando tinta demais na placa, quando na verdade ela ficou clarinha pela falta de mais catalisador. Suas sugestões foram muito boas. Obrigado pela ajuda! Conte comigo também. Se eu for capaz, o farei com a maior satisfação. Abraço!]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=194#comment-396">Ricardo</a>.</p>
+<p>Talvez na tentativa de chegar a uma tonalidade mais escura, acabei jogando tinta demais na placa, quando na verdade ela ficou clarinha pela falta de mais catalisador. Suas sugestões foram muito boas. Obrigado pela ajuda! Conte comigo também. Se eu for capaz, o farei com a maior satisfação. Abraço!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-398</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 16:08:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-398</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=194#comment-397&quot;&gt;renan lopes batista&lt;/a&gt;.
+
+Olá Renan, o óleo seca mais rápido. Viu, a camada de tinta fotossensível que você precisa passar para proteger contra a corrosão é bem fina, o suficiente para cobrir bem a placa de forma uniforma, você não precisa deixar uma camada grossa... ela rende bem. com 3ml acredito que você consiga cobrir uma área de uns 20x20cm. Já a máscara usa um pouco mais, mas também sem exageros. Não é pra formar poças de tinta pela placa.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=194#comment-397">renan lopes batista</a>.</p>
+<p>Olá Renan, o óleo seca mais rápido. Viu, a camada de tinta fotossensível que você precisa passar para proteger contra a corrosão é bem fina, o suficiente para cobrir bem a placa de forma uniforma, você não precisa deixar uma camada grossa&#8230; ela rende bem. com 3ml acredito que você consiga cobrir uma área de uns 20x20cm. Já a máscara usa um pouco mais, mas também sem exageros. Não é pra formar poças de tinta pela placa.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: renan lopes batista		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-397</link>
+
+		<dc:creator><![CDATA[renan lopes batista]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 15:42:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-397</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=194#comment-396&quot;&gt;Ricardo&lt;/a&gt;.
+
+Tô usando butil. O óleo é melhor?
+
+Quanto à dosagem, eu tava indo meio no &quot;olhômetro&quot;, deixei a tinta com a viscosidade parecia com a do leite integral. A pressão da ar que saía do aerógrafo chegava a deslocar a tinta que já estava na placa... Mas vou experimentar a proporção  de tinta/solvente de 1/1, 1/algo pouco menor que 1... vou usar algumas seringas pra ter um pouco mais de precisão.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=194#comment-396">Ricardo</a>.</p>
+<p>Tô usando butil. O óleo é melhor?</p>
+<p>Quanto à dosagem, eu tava indo meio no &#8220;olhômetro&#8221;, deixei a tinta com a viscosidade parecia com a do leite integral. A pressão da ar que saía do aerógrafo chegava a deslocar a tinta que já estava na placa&#8230; Mas vou experimentar a proporção  de tinta/solvente de 1/1, 1/algo pouco menor que 1&#8230; vou usar algumas seringas pra ter um pouco mais de precisão.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-396</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 15:24:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-396</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=194#comment-395&quot;&gt;renan lopes batista&lt;/a&gt;.
+
+Apesar de usar somente 10 psi, o compressor wimpel não consegue manter 10psi na linha com a válvula do aerógrafo aberta... deve cair para uns 4psi, porém, isto não é para ser um problema. Quanto à tinta fotossensível, pode usar 1:1 em volume (tinta / solvente) que funciona bem. Use bultilglicol ou de preferência óleo de banana para diluir a tinta fotossensível.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=194#comment-395">renan lopes batista</a>.</p>
+<p>Apesar de usar somente 10 psi, o compressor wimpel não consegue manter 10psi na linha com a válvula do aerógrafo aberta&#8230; deve cair para uns 4psi, porém, isto não é para ser um problema. Quanto à tinta fotossensível, pode usar 1:1 em volume (tinta / solvente) que funciona bem. Use bultilglicol ou de preferência óleo de banana para diluir a tinta fotossensível.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: renan lopes batista		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-395</link>
+
+		<dc:creator><![CDATA[renan lopes batista]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 14:27:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-395</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=194#comment-394&quot;&gt;Ricardo&lt;/a&gt;.
+
+Então, eu tô usando .35 de bico também. O compressor é aquele wimpel miudinho... achei a saída de ar meio fraquinha e desconfiei que parte do problema fosse por conta disso, mas você disse que usa só 10 psi... 
+
+O primeiro uso que fiz do aerógrafo foi com a tinta das trilhas. Mesmo achando que a tinta tava menos viscosa do que pretendia deixar, a aplicação correu bem. Já a máscara foi só derrota rsrsrs... tenho receio de falhar numa próxima aplicação da tinta das trilhas. Por um momento achei que tivesse entupido o aerógrafo, mas durante a limpeza, ele me pareceu funcionar normalmente...
+
+Baseado no que você disse, acho que meu problema tá sendo o preparo da tinta mesmo. O problema é que faço poucas unidades por vez; não uso mais que 1/3 do copo do aerógrafo. Vou experimentar essa receita que você usa, tentar adaptá-la pra uma porção menor... sei lá... preciso gastar um bocado de tinta pra determinar um preparo mais adequado. Tô lascado rsrs
+
+Valeu pela atenção, Ricardo. Bom dia pra você também!]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=194#comment-394">Ricardo</a>.</p>
+<p>Então, eu tô usando .35 de bico também. O compressor é aquele wimpel miudinho&#8230; achei a saída de ar meio fraquinha e desconfiei que parte do problema fosse por conta disso, mas você disse que usa só 10 psi&#8230; </p>
+<p>O primeiro uso que fiz do aerógrafo foi com a tinta das trilhas. Mesmo achando que a tinta tava menos viscosa do que pretendia deixar, a aplicação correu bem. Já a máscara foi só derrota rsrsrs&#8230; tenho receio de falhar numa próxima aplicação da tinta das trilhas. Por um momento achei que tivesse entupido o aerógrafo, mas durante a limpeza, ele me pareceu funcionar normalmente&#8230;</p>
+<p>Baseado no que você disse, acho que meu problema tá sendo o preparo da tinta mesmo. O problema é que faço poucas unidades por vez; não uso mais que 1/3 do copo do aerógrafo. Vou experimentar essa receita que você usa, tentar adaptá-la pra uma porção menor&#8230; sei lá&#8230; preciso gastar um bocado de tinta pra determinar um preparo mais adequado. Tô lascado rsrs</p>
+<p>Valeu pela atenção, Ricardo. Bom dia pra você também!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-394</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 12:55:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-394</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=194#comment-393&quot;&gt;renan lopes batista&lt;/a&gt;.
+
+Bom dia Renan!
+O primeiro ponto que você deve ficar atento é a viscosidade da tinta. Se você consegue aplicar a tinta fotossensível normalmente e a máscara não, é por conta da viscosidade. Eu costumo preparar 10g de máscara e diluir com 6ml a 10ml de solvente. Para pintar a placa, você deve manter uma distância de uns 5cm entre o bico do aerógrafo e a placa, e geralmente vai umas 4 ou 5 passadas de máscara com a placa na horizontal, nunca na vertical para que não escorra. Você pinta a placa toda e recomeça passando novamente na placa toda até que ela ganhe uma camada considerável, mas não exagerada.
+Note também que existem vários diâmetros de bicos para aerógrafo que variam de 0.2 a 0.4mm, o que eu uso é de 0.35mm. Outra coisa que influencia bastante é o compressor. Eu uso um compressor feito com motor de geladeira que enche um tanque com 40psi e uso um regulador na saída para o aerógrafo que mantem 10psi. Apesar disso, o compressor wimpel funciona desde que a tinta esteja bem diluída, caso contrário você terá problemas na aplicação já que a tinta desce por gravidade.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=194#comment-393">renan lopes batista</a>.</p>
+<p>Bom dia Renan!<br />
+O primeiro ponto que você deve ficar atento é a viscosidade da tinta. Se você consegue aplicar a tinta fotossensível normalmente e a máscara não, é por conta da viscosidade. Eu costumo preparar 10g de máscara e diluir com 6ml a 10ml de solvente. Para pintar a placa, você deve manter uma distância de uns 5cm entre o bico do aerógrafo e a placa, e geralmente vai umas 4 ou 5 passadas de máscara com a placa na horizontal, nunca na vertical para que não escorra. Você pinta a placa toda e recomeça passando novamente na placa toda até que ela ganhe uma camada considerável, mas não exagerada.<br />
+Note também que existem vários diâmetros de bicos para aerógrafo que variam de 0.2 a 0.4mm, o que eu uso é de 0.35mm. Outra coisa que influencia bastante é o compressor. Eu uso um compressor feito com motor de geladeira que enche um tanque com 40psi e uso um regulador na saída para o aerógrafo que mantem 10psi. Apesar disso, o compressor wimpel funciona desde que a tinta esteja bem diluída, caso contrário você terá problemas na aplicação já que a tinta desce por gravidade.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: renan lopes batista		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=194#comment-393</link>
+
+		<dc:creator><![CDATA[renan lopes batista]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 04:22:45 +0000</pubDate>
+		<guid isPermaLink="false">http://www.engenhariacaseira.com.br/blog/?p=194#comment-393</guid>
+
+					<description><![CDATA[Fala Ricardo, tudo bem? Espero que sim.
+
+Venho fazendo placas há um tempo, aplicando as tintas com a técnica de centrifugação. Depois de ver seu vídeo, e pensar muito a respeito, decidi comprar um aerógrafo também. Mas num tô dando conta de fazer o serviço com ele: o aerógrafo só conseguiu espirrar a tinta quando ela estava muito ralinha, com baixíssima viscosidade. Por conta disso, ela escorria a toa na placa... depois da pré cura, a tinta chegou a formar pequenas poças pela placa. Ela ficou concentrada só em algumas partes da placa. Tentei refazer a aplicação, com a tinta mais viscosa dessa vez, mais grossa, e o aerógrafo não conseguiu espirrar a tinta! Detalhe: esse impasse foi com a máscara de solda; a tinta de fazer as trilhas rolou tranquilo.
+
+Você passou por algo assim? Teria uma sugestão, uma ideia, pra que eu consiga contornar esse problema? Acho que levei um baita prejuízo comprando esse aerógrafo!!  D=
+
+Abraço.]]></description>
+			<content:encoded><![CDATA[<p>Fala Ricardo, tudo bem? Espero que sim.</p>
+<p>Venho fazendo placas há um tempo, aplicando as tintas com a técnica de centrifugação. Depois de ver seu vídeo, e pensar muito a respeito, decidi comprar um aerógrafo também. Mas num tô dando conta de fazer o serviço com ele: o aerógrafo só conseguiu espirrar a tinta quando ela estava muito ralinha, com baixíssima viscosidade. Por conta disso, ela escorria a toa na placa&#8230; depois da pré cura, a tinta chegou a formar pequenas poças pela placa. Ela ficou concentrada só em algumas partes da placa. Tentei refazer a aplicação, com a tinta mais viscosa dessa vez, mais grossa, e o aerógrafo não conseguiu espirrar a tinta! Detalhe: esse impasse foi com a máscara de solda; a tinta de fazer as trilhas rolou tranquilo.</p>
+<p>Você passou por algo assim? Teria uma sugestão, uma ideia, pra que eu consiga contornar esse problema? Acho que levei um baita prejuízo comprando esse aerógrafo!!  D=</p>
+<p>Abraço.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

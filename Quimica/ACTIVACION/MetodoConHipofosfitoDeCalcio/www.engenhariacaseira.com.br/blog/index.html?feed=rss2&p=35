@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Como fazer placas de circuito impresso com furos metalizados e qualidade industrial, em casa &#8211; Parte 8 &#8211; Dry-Film	</title>
+	<atom:link href="https://www.engenhariacaseira.com.br/blog/?feed=rss2&#038;p=35" rel="self" type="application/rss+xml" />
+	<link>https://www.engenhariacaseira.com.br/blog/?p=35</link>
+	<description>Faça você mesmo seus protótipos!</description>
+	<lastBuildDate>Mon, 11 Dec 2017 14:53:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
+	<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-403</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2017 14:53:14 +0000</pubDate>
+		<guid isPermaLink="false">#comment-403</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=35#comment-400&quot;&gt;rensferreira&lt;/a&gt;.
+
+Olá Renato, como vai ? Corte o dryfilm em duas partes cada uma suficiente para cobrir uma face da placa e aplique em um lado de cada vez. Não precisa molhar a placa para aplicar o filme, ok ? Caso queira molhar ela, faça isso apenas para aplicar na primeira face. Ela secará ao sair da laminadora e a segunda face aplique sem molhar. Isso resolve o problema de estufar o dryfilm nos furos. Certifique-se de que não há rebarbas nos furos, ok ? Abraço]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=35#comment-400">rensferreira</a>.</p>
+<p>Olá Renato, como vai ? Corte o dryfilm em duas partes cada uma suficiente para cobrir uma face da placa e aplique em um lado de cada vez. Não precisa molhar a placa para aplicar o filme, ok ? Caso queira molhar ela, faça isso apenas para aplicar na primeira face. Ela secará ao sair da laminadora e a segunda face aplique sem molhar. Isso resolve o problema de estufar o dryfilm nos furos. Certifique-se de que não há rebarbas nos furos, ok ? Abraço</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: rensferreira		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-400</link>
+
+		<dc:creator><![CDATA[rensferreira]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2017 15:25:30 +0000</pubDate>
+		<guid isPermaLink="false">#comment-400</guid>
+
+					<description><![CDATA[Estou com um problema na aplicação do dry film. A temperatura recomendada é de 110 a 122 graus celsius. O problema é que eu furo a placa antes de aplicar o dry film e acaba acumulando água nos furos na hora da aplicação do dry film, assim na hora em que passo a placa na plastificadora a água ferve e cria bolhas no dry film. Não tentei com temperatura mais baixa (&#060; 100º C). Vou tentar e ver como fica.]]></description>
+			<content:encoded><![CDATA[<p>Estou com um problema na aplicação do dry film. A temperatura recomendada é de 110 a 122 graus celsius. O problema é que eu furo a placa antes de aplicar o dry film e acaba acumulando água nos furos na hora da aplicação do dry film, assim na hora em que passo a placa na plastificadora a água ferve e cria bolhas no dry film. Não tentei com temperatura mais baixa (&lt; 100º C). Vou tentar e ver como fica.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-327</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2016 15:13:52 +0000</pubDate>
+		<guid isPermaLink="false">#comment-327</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=35#comment-326&quot;&gt;joseca&lt;/a&gt;.
+
+Se a tinta não sai provavelmente você está com problemas no fotolito. Não recomendamos nem encorajamos aplicar com centrífuga. Leia nossa matéria sobre fotolito. (http://www.engenhariacaseira.com.br/blog/?p=32)]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=35#comment-326">joseca</a>.</p>
+<p>Se a tinta não sai provavelmente você está com problemas no fotolito. Não recomendamos nem encorajamos aplicar com centrífuga. Leia nossa matéria sobre fotolito. (<a href="http://www.engenhariacaseira.com.br/blog/?p=32" rel="ugc">http://www.engenhariacaseira.com.br/blog/?p=32</a>)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: joseca		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-326</link>
+
+		<dc:creator><![CDATA[joseca]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2016 16:14:04 +0000</pubDate>
+		<guid isPermaLink="false">#comment-326</guid>
+
+					<description><![CDATA[comprei o filme liquido para fazer a corrosão,mas tive muitos problemas para revelar.
+dilui com butilglicol,centrifuguei coloquei no forninho eletrico por 10 minutos(resistencia superior)e luz UV por 4 minutos,
+Na hora da revelação,um horror...muito dificil de tirar a tinta
+Fiz varias placas com outras tintas e nunca tive esse tipo de problema.
+estou pensando em experimentar o dry filme,pois estou decepcionado com tinta foto sensivel
+
+José Carlos Raymundo]]></description>
+			<content:encoded><![CDATA[<p>comprei o filme liquido para fazer a corrosão,mas tive muitos problemas para revelar.<br />
+dilui com butilglicol,centrifuguei coloquei no forninho eletrico por 10 minutos(resistencia superior)e luz UV por 4 minutos,<br />
+Na hora da revelação,um horror&#8230;muito dificil de tirar a tinta<br />
+Fiz varias placas com outras tintas e nunca tive esse tipo de problema.<br />
+estou pensando em experimentar o dry filme,pois estou decepcionado com tinta foto sensivel</p>
+<p>José Carlos Raymundo</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-321</link>
+
+		<dc:creator><![CDATA[Ricardo]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2016 11:21:45 +0000</pubDate>
+		<guid isPermaLink="false">#comment-321</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;https://www.engenhariacaseira.com.br/blog/?p=35#comment-320&quot;&gt;sachin361&lt;/a&gt;.
+
+Hello ! Thanks for the comment. The PTHs are protected from corrosion by dryfilm. The photolithography must have the entire surface of PTHs and tracks opened for light to pass through the drawing. Thus the dryfilm be cured by UV light which will result in a film formed on top of all the trails and PTHs preventing perchlorate to reach these places.
+Please let me know if you understand the entire process.
+Regards]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="https://www.engenhariacaseira.com.br/blog/?p=35#comment-320">sachin361</a>.</p>
+<p>Hello ! Thanks for the comment. The PTHs are protected from corrosion by dryfilm. The photolithography must have the entire surface of PTHs and tracks opened for light to pass through the drawing. Thus the dryfilm be cured by UV light which will result in a film formed on top of all the trails and PTHs preventing perchlorate to reach these places.<br />
+Please let me know if you understand the entire process.<br />
+Regards</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: sachin361		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-320</link>
+
+		<dc:creator><![CDATA[sachin361]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2016 13:54:25 +0000</pubDate>
+		<guid isPermaLink="false">#comment-320</guid>
+
+					<description><![CDATA[Hi
+Appreciate this great article !!
+having read the article and all the comments , i have manged to plate my vias and holes. I am to apply the dry film photo resist film over the copper clad now and would later expose and develop it. My problem is :-
+How would i protect the PTH from etching away
+I am using feric chloride to etch]]></description>
+			<content:encoded><![CDATA[<p>Hi<br />
+Appreciate this great article !!<br />
+having read the article and all the comments , i have manged to plate my vias and holes. I am to apply the dry film photo resist film over the copper clad now and would later expose and develop it. My problem is :-<br />
+How would i protect the PTH from etching away<br />
+I am using feric chloride to etch</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Clauberto Santos		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-46</link>
+
+		<dc:creator><![CDATA[Clauberto Santos]]></dc:creator>
+		<pubDate>Fri, 29 May 2015 02:32:03 +0000</pubDate>
+		<guid isPermaLink="false">#comment-46</guid>
+
+					<description><![CDATA[Prezado Ricardo,&lt;br /&gt;Quero comprar o Dry Film para aplicá-lo em chapa grande de 60x80cm., e pergunto se o filme resiste à corrosão com ácido. Vc sabe, a temperatura do eletrólito sobe. Outra coisa, vc fornece as lâmpadas uv (escura)?&lt;br /&gt;Como fazer o contato perfeito da transparência por cima da chapa, já que não vou usar o vácuo?&lt;br /&gt;Abraços]]></description>
+			<content:encoded><![CDATA[<p>Prezado Ricardo,<br />Quero comprar o Dry Film para aplicá-lo em chapa grande de 60x80cm., e pergunto se o filme resiste à corrosão com ácido. Vc sabe, a temperatura do eletrólito sobe. Outra coisa, vc fornece as lâmpadas uv (escura)?<br />Como fazer o contato perfeito da transparência por cima da chapa, já que não vou usar o vácuo?<br />Abraços</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo Alexandre		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-55</link>
+
+		<dc:creator><![CDATA[Ricardo Alexandre]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2015 14:05:18 +0000</pubDate>
+		<guid isPermaLink="false">#comment-55</guid>
+
+					<description><![CDATA[Olá Iuri,&lt;br /&gt;Eu faço a pré cura em forno a 55C durante 50-90min. Note que quando a pre cura dela é feita em forno ou estufa, você deve esperar ela esfriar antes de tirar do forno, pois quando ela está quente ela fica grudenta. Eu não deixo até endurecer completamente, eu deixo em estufa até que ela atinja um ponto onde não tenha perigo de grudar no fotolito, pois quando ela é exposta à luz UV que ela realmente endurecerá. Outra coisa é o tempo de exposição da máscara que é bem menor do que o dryfilm ou filme liquido. Enquando esses dois variam de 3 a 5 minutos, a máscara eu deixo apenas 2 min. Basta passar o pincel macio com a solução de barrilha e ela é rapidamente revelada. &lt;br /&gt;Não adiciono nada na cura final, apenas deixo o tempo e a temperatura recomendade pelo fabricante.&lt;br /&gt;Abraço]]></description>
+			<content:encoded><![CDATA[<p>Olá Iuri,<br />Eu faço a pré cura em forno a 55C durante 50-90min. Note que quando a pre cura dela é feita em forno ou estufa, você deve esperar ela esfriar antes de tirar do forno, pois quando ela está quente ela fica grudenta. Eu não deixo até endurecer completamente, eu deixo em estufa até que ela atinja um ponto onde não tenha perigo de grudar no fotolito, pois quando ela é exposta à luz UV que ela realmente endurecerá. Outra coisa é o tempo de exposição da máscara que é bem menor do que o dryfilm ou filme liquido. Enquando esses dois variam de 3 a 5 minutos, a máscara eu deixo apenas 2 min. Basta passar o pincel macio com a solução de barrilha e ela é rapidamente revelada. <br />Não adiciono nada na cura final, apenas deixo o tempo e a temperatura recomendade pelo fabricante.<br />Abraço</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Iuri Castro		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-56</link>
+
+		<dc:creator><![CDATA[Iuri Castro]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2015 23:10:47 +0000</pubDate>
+		<guid isPermaLink="false">#comment-56</guid>
+
+					<description><![CDATA[Ricardo, obrigado pela resposta!&lt;br /&gt;&lt;br /&gt;A cor da máscara que estou aplicando é vermelha, e estou usando atualmente para aplicar um processo com centrífuga (usando um HD velho). Não estou colocando nenhum solvente junto com a tinta, apenas o catalizador. Estou fazendo o processo de pre-cura utilizando um soprador de ar. Faço o processo de revelação utilizando uma lampada UV 28W a 15cm e com um tempo de exposição aproximado de 6 minutos.&lt;br /&gt;Comecei a testar esse processo esses dias, tenho muito que aprender e melhorar. Creio que o que esteja deixando a tinta fosca seja os processos de cura com o soprador. Você adiciona algum produto durante a cura final?&lt;br /&gt;Abraços.]]></description>
+			<content:encoded><![CDATA[<p>Ricardo, obrigado pela resposta!</p>
+<p>A cor da máscara que estou aplicando é vermelha, e estou usando atualmente para aplicar um processo com centrífuga (usando um HD velho). Não estou colocando nenhum solvente junto com a tinta, apenas o catalizador. Estou fazendo o processo de pre-cura utilizando um soprador de ar. Faço o processo de revelação utilizando uma lampada UV 28W a 15cm e com um tempo de exposição aproximado de 6 minutos.<br />Comecei a testar esse processo esses dias, tenho muito que aprender e melhorar. Creio que o que esteja deixando a tinta fosca seja os processos de cura com o soprador. Você adiciona algum produto durante a cura final?<br />Abraços.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Ricardo Alexandre		</title>
+		<link>https://www.engenhariacaseira.com.br/blog/?p=35#comment-57</link>
+
+		<dc:creator><![CDATA[Ricardo Alexandre]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2015 21:27:27 +0000</pubDate>
+		<guid isPermaLink="false">#comment-57</guid>
+
+					<description><![CDATA[Olá Iuri,&lt;br /&gt;Primeiro precisa se atentar à cor da máscara, que pode ser brilhante ou fosca. Por exemplo a máscara verde que comercializamos é fosca, o restante das cores é brilhante. O segundo fator é o processo de aplicação. O processo de silk screen tende a deixa-la mais brilhante.]]></description>
+			<content:encoded><![CDATA[<p>Olá Iuri,<br />Primeiro precisa se atentar à cor da máscara, que pode ser brilhante ou fosca. Por exemplo a máscara verde que comercializamos é fosca, o restante das cores é brilhante. O segundo fator é o processo de aplicação. O processo de silk screen tende a deixa-la mais brilhante.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
