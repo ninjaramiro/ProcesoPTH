@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Comandos de \LaTeX }{2}{section.1}%
+\contentsline {section}{\numberline {2}Organización}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Secciones}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Listados}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Imágenes}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Imagen centrada}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Imágenes alineadas}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Imágenes que rompen márgenes}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Tablas}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Generador online}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Insertar una imagen como tabla}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Usar plantilas}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Código}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}pseudocódigo}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Python}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Alternativa}{6}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Cajas de texto}{7}{section.6}%
+\contentsline {section}{\numberline {7}Referencias bibliográficas}{9}{section.7}%
